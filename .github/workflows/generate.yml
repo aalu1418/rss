@@ -1,0 +1,22 @@
+name: Generate new RSS file
+
+on:
+  schedule:
+    - cron: '0 0/6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version-file: './go.mod'
+      - run: go run main.go
+      - name: Add new RSS file
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -am "generate RSS file"
+          git push

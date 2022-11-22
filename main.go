@@ -2,11 +2,11 @@ package main
 
 import (
 	"context"
-	"fmt"
 	"html"
 	"log"
 	"os"
 	"sort"
+	"strings"
 	"time"
 
 	"github.com/gorilla/feeds"
@@ -65,8 +65,6 @@ func main() {
 		Updated: time.Now(),
 	}
 	for i := range items {
-		fmt.Println(items[i].Description)
-
 		feed.Items = append(feed.Items, &feeds.Item{
 			Title:       items[i].Title,
 			Link:        &feeds.Link{Href: items[i].Link},
@@ -80,6 +78,11 @@ func main() {
 	if err != nil {
 		log.Fatalf("failed to generate rss file: %s", err)
 	}
+
+	// remove <?xml version="1.0" encoding="UTF-8"?>
+	data = strings.Replace(data, `<?xml version="1.0" encoding="UTF-8"?>`, "", 1)
+	// remove xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	data = strings.Replace(data, `xmlns:content="http://purl.org/rss/1.0/modules/content/"`, "", 1)
 
 	f, err := os.OpenFile("rss.xml", os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0755)
 	if err != nil {

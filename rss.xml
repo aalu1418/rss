@@ -1,30 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" >
   <channel>
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 13 Nov 2022 20:46:57 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Nov 2022 20:46:57 -0700</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2022 18:17:27 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2022 18:17:27 +0000</lastBuildDate>
     <item>
-      <title>XKCD: Y2K and 2038</title>
-      <link>https://xkcd.com/2697/</link>
-      <description><img src="https://imgs.xkcd.com/comics/y2k_and_2038.png" title="It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints." alt="It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints." /></description>
-      <guid>https://xkcd.com/2697/</guid>
-      <pubDate>Fri, 11 Nov 2022 05:00:00 +0000</pubDate>
+      <title>MonkeyUser: Layoffs</title>
+      <link>https://www.monkeyuser.com/2022/layoffs/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2022/254-layoffs.png" alt="Layoffs" title="Congratulations for not making enough money to be considered for layoffs!" /></p></description>
+      <guid>https://www.monkeyuser.com/2022/layoffs/</guid>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>XKCD: Precision vs Accuracy</title>
-      <link>https://xkcd.com/2696/</link>
-      <description><img src="https://imgs.xkcd.com/comics/precision_vs_accuracy.png" title="'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy." alt="'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy." /></description>
-      <guid>https://xkcd.com/2696/</guid>
-      <pubDate>Wed, 09 Nov 2022 05:00:00 +0000</pubDate>
+      <title>XKCD: Change in Slope</title>
+      <link>https://xkcd.com/2701/</link>
+      <description><img src="https://imgs.xkcd.com/comics/change_in_slope.png" title="Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics." alt="Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics." /></description>
+      <guid>https://xkcd.com/2701/</guid>
+      <pubDate>Mon, 21 Nov 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>XKCD: Soil</title>
-      <link>https://xkcd.com/2695/</link>
-      <description><img src="https://imgs.xkcd.com/comics/soil.png" title="You might want to bring your frost-sensitive plants in from the patio. The high-level aerosols may result in short-term cooling across the entire backyard." alt="You might want to bring your frost-sensitive plants in from the patio. The high-level aerosols may result in short-term cooling across the entire backyard." /></description>
-      <guid>https://xkcd.com/2695/</guid>
-      <pubDate>Mon, 07 Nov 2022 05:00:00 +0000</pubDate>
+      <title>XKCD: Account Problems</title>
+      <link>https://xkcd.com/2700/</link>
+      <description><img src="https://imgs.xkcd.com/comics/account_problems.png" title="My password is just every Unicode codepoint concatenated into a single UTF-8 string." alt="My password is just every Unicode codepoint concatenated into a single UTF-8 string." /></description>
+      <guid>https://xkcd.com/2700/</guid>
+      <pubDate>Fri, 18 Nov 2022 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Feature Comparison</title>
+      <link>https://xkcd.com/2699/</link>
+      <description><img src="https://imgs.xkcd.com/comics/feature_comparison.png" title="Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web." alt="Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web." /></description>
+      <guid>https://xkcd.com/2699/</guid>
+      <pubDate>Wed, 16 Nov 2022 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Bad Date</title>
+      <link>https://xkcd.com/2698/</link>
+      <description><img src="https://imgs.xkcd.com/comics/bad_date.png" title="&quot;Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with.&quot;" alt="&quot;Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with.&quot;" /></description>
+      <guid>https://xkcd.com/2698/</guid>
+      <pubDate>Mon, 14 Nov 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: Stop Caring What People Think</title>
@@ -33,13 +47,6 @@
 </p></description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19286</guid>
       <pubDate>Fri, 04 Nov 2022 21:01:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Königsberg</title>
-      <link>https://xkcd.com/2694/</link>
-      <description><img src="https://imgs.xkcd.com/comics/konigsberg.png" title="At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil." alt="At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil." /></description>
-      <guid>https://xkcd.com/2694/</guid>
-      <pubDate>Fri, 04 Nov 2022 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: Halloween Candy Calculus</title>
@@ -1291,17 +1298,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
