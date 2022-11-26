@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 25 Nov 2022 18:16:33 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Nov 2022 18:16:33 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Nov 2022 01:02:03 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Nov 2022 01:02:03 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Paper Title</title>
+      <link>https://xkcd.com/2703/</link>
+      <description><img src="https://imgs.xkcd.com/comics/paper_title.png" title="CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science." alt="CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science." /></description>
+      <guid>https://xkcd.com/2703/</guid>
+      <pubDate>Fri, 25 Nov 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: What If 2 Gift Guide</title>
       <link>https://xkcd.com/2702/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/account_problems.png" title="My password is just every Unicode codepoint concatenated into a single UTF-8 string." alt="My password is just every Unicode codepoint concatenated into a single UTF-8 string." /></description>
       <guid>https://xkcd.com/2700/</guid>
       <pubDate>Fri, 18 Nov 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Feature Comparison</title>
-      <link>https://xkcd.com/2699/</link>
-      <description><img src="https://imgs.xkcd.com/comics/feature_comparison.png" title="Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web." alt="Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web." /></description>
-      <guid>https://xkcd.com/2699/</guid>
-      <pubDate>Wed, 16 Nov 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: Stop Caring What People Think</title>
