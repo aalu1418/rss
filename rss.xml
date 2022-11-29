@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 29 Nov 2022 01:05:44 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Nov 2022 01:05:44 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Nov 2022 06:16:36 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Nov 2022 06:16:36 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Faucet</title>
+      <link>https://xkcd.com/2704/</link>
+      <description><img src="https://imgs.xkcd.com/comics/faucet.png" title="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." alt="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." /></description>
+      <guid>https://xkcd.com/2704/</guid>
+      <pubDate>Mon, 28 Nov 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Paper Title</title>
       <link>https://xkcd.com/2703/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/change_in_slope.png" title="Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics." alt="Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics." /></description>
       <guid>https://xkcd.com/2701/</guid>
       <pubDate>Mon, 21 Nov 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Account Problems</title>
-      <link>https://xkcd.com/2700/</link>
-      <description><img src="https://imgs.xkcd.com/comics/account_problems.png" title="My password is just every Unicode codepoint concatenated into a single UTF-8 string." alt="My password is just every Unicode codepoint concatenated into a single UTF-8 string." /></description>
-      <guid>https://xkcd.com/2700/</guid>
-      <pubDate>Fri, 18 Nov 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: Stop Caring What People Think</title>
