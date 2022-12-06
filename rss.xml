@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 05 Dec 2022 18:15:08 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2022 18:15:08 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Dec 2022 01:00:33 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Dec 2022 01:00:33 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Astronomy Numbers</title>
+      <link>https://xkcd.com/2707/</link>
+      <description><img src="https://imgs.xkcd.com/comics/astronomy_numbers.png" title="I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it." alt="I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it." /></description>
+      <guid>https://xkcd.com/2707/</guid>
+      <pubDate>Mon, 05 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Bendy</title>
       <link>https://xkcd.com/2706/</link>
@@ -25,13 +32,6 @@
       <description><img src="https://imgs.xkcd.com/comics/faucet.png" title="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." alt="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." /></description>
       <guid>https://xkcd.com/2704/</guid>
       <pubDate>Mon, 28 Nov 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Paper Title</title>
-      <link>https://xkcd.com/2703/</link>
-      <description><img src="https://imgs.xkcd.com/comics/paper_title.png" title="CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science." alt="CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science." /></description>
-      <guid>https://xkcd.com/2703/</guid>
-      <pubDate>Fri, 25 Nov 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
