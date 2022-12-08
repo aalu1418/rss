@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 07 Dec 2022 18:15:11 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Dec 2022 18:15:11 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Dec 2022 01:00:48 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2022 01:00:48 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Mystery Asterisk Destination</title>
+      <link>https://xkcd.com/2708/</link>
+      <description><img src="https://imgs.xkcd.com/comics/mystery_asterisk_destination.png" title="If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger." alt="If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger." /></description>
+      <guid>https://xkcd.com/2708/</guid>
+      <pubDate>Wed, 07 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Astronomy Numbers</title>
       <link>https://xkcd.com/2707/</link>
@@ -25,13 +32,6 @@
       <description><img src="https://imgs.xkcd.com/comics/spacetime_soccer.png" title="Spacetime Soccer, known outside the United States as '4D Football' is a now-defunct sport. Infamous for referee decisions hinging on inconsistent definitions of simultaneity, it is also known for the disappearance of many top players during... [more]" alt="Spacetime Soccer, known outside the United States as '4D Football' is a now-defunct sport. Infamous for referee decisions hinging on inconsistent definitions of simultaneity, it is also known for the disappearance of many top players during... [more]" /></description>
       <guid>https://xkcd.com/2705/</guid>
       <pubDate>Wed, 30 Nov 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Faucet</title>
-      <link>https://xkcd.com/2704/</link>
-      <description><img src="https://imgs.xkcd.com/comics/faucet.png" title="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." alt="It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag." /></description>
-      <guid>https://xkcd.com/2704/</guid>
-      <pubDate>Mon, 28 Nov 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
