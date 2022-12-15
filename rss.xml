@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 15 Dec 2022 01:03:35 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2022 01:03:35 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2022 06:15:58 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 06:15:58 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Optimal Bowling</title>
+      <link>https://xkcd.com/2711/</link>
+      <description><img src="https://imgs.xkcd.com/comics/optimal_bowling.png" title="If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work." alt="If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work." /></description>
+      <guid>https://xkcd.com/2711/</guid>
+      <pubDate>Wed, 14 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MonkeyUser: Effort Shift</title>
       <link>https://www.monkeyuser.com/2022/effort-shift/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/mystery_asterisk_destination.png" title="If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger." alt="If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger." /></description>
       <guid>https://xkcd.com/2708/</guid>
       <pubDate>Wed, 07 Dec 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Astronomy Numbers</title>
-      <link>https://xkcd.com/2707/</link>
-      <description><img src="https://imgs.xkcd.com/comics/astronomy_numbers.png" title="I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it." alt="I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it." /></description>
-      <guid>https://xkcd.com/2707/</guid>
-      <pubDate>Mon, 05 Dec 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
