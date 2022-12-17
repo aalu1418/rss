@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 16 Dec 2022 18:14:14 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2022 18:14:14 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Dec 2022 00:57:24 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2022 00:57:24 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Gravity</title>
+      <link>https://xkcd.com/2712/</link>
+      <description><img src="https://imgs.xkcd.com/comics/gravity.png" title="It's a long way down." alt="It's a long way down." /></description>
+      <guid>https://xkcd.com/2712/</guid>
+      <pubDate>Fri, 16 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MonkeyUser: Taking Care of Business</title>
       <link>https://www.monkeyuser.com/2022/business-care/</link>
@@ -39,13 +46,6 @@
       <description><img src="https://imgs.xkcd.com/comics/solar_system_model.png" title="The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal." alt="The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal." /></description>
       <guid>https://xkcd.com/2709/</guid>
       <pubDate>Fri, 09 Dec 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Mystery Asterisk Destination</title>
-      <link>https://xkcd.com/2708/</link>
-      <description><img src="https://imgs.xkcd.com/comics/mystery_asterisk_destination.png" title="If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger." alt="If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger." /></description>
-      <guid>https://xkcd.com/2708/</guid>
-      <pubDate>Wed, 07 Dec 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
