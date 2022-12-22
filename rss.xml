@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 21 Dec 2022 18:14:28 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2022 18:14:28 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Dec 2022 00:59:45 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Dec 2022 00:59:45 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Cold Complaints</title>
+      <link>https://xkcd.com/2714/</link>
+      <description><img src="https://imgs.xkcd.com/comics/cold_complaints.png" title="Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'" alt="Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'" /></description>
+      <guid>https://xkcd.com/2714/</guid>
+      <pubDate>Wed, 21 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Data Point</title>
       <link>https://xkcd.com/2713/</link>
@@ -39,13 +46,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2022/255-effort-shift.png" alt="Effort Shift" title="A product manager walks into a bar. It isn’t what he expected so they immediately blames the product development team for no reason." /></p></description>
       <guid>https://www.monkeyuser.com/2022/effort-shift/</guid>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Hydropower Breakthrough</title>
-      <link>https://xkcd.com/2710/</link>
-      <description><img src="https://imgs.xkcd.com/comics/hydropower_breakthrough.png" title="A hydroelectric dam is also known as a heavy water reactor." alt="A hydroelectric dam is also known as a heavy water reactor." /></description>
-      <guid>https://xkcd.com/2710/</guid>
-      <pubDate>Mon, 12 Dec 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
