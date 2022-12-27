@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 26 Dec 2022 18:13:59 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Dec 2022 18:13:59 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Dec 2022 00:59:10 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2022 00:59:10 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Game Night Ordering</title>
+      <link>https://xkcd.com/2716/</link>
+      <description><img src="https://imgs.xkcd.com/comics/game_night_ordering.png" title="One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week." alt="One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week." /></description>
+      <guid>https://xkcd.com/2716/</guid>
+      <pubDate>Mon, 26 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Pando</title>
       <link>https://xkcd.com/2715/</link>
@@ -25,13 +32,6 @@
       <description><img src="https://imgs.xkcd.com/comics/data_point.png" title="In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials." alt="In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials." /></description>
       <guid>https://xkcd.com/2713/</guid>
       <pubDate>Mon, 19 Dec 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Gravity</title>
-      <link>https://xkcd.com/2712/</link>
-      <description><img src="https://imgs.xkcd.com/comics/gravity.png" title="It's a long way down." alt="It's a long way down." /></description>
-      <guid>https://xkcd.com/2712/</guid>
-      <pubDate>Fri, 16 Dec 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Taking Care of Business</title>
