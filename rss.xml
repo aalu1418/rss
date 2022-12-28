@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 27 Dec 2022 18:14:16 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2022 18:14:16 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2022 00:58:29 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2022 00:58:29 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: L6 Lagrange Point</title>
+      <link>https://xkcd.com/2717/</link>
+      <description><img src="https://imgs.xkcd.com/comics/l6_lagrange_point.png" title="It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo." alt="It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo." /></description>
+      <guid>https://xkcd.com/2717/</guid>
+      <pubDate>Wed, 28 Dec 2022 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Game Night Ordering</title>
       <link>https://xkcd.com/2716/</link>
@@ -25,13 +32,6 @@
       <description><img src="https://imgs.xkcd.com/comics/cold_complaints.png" title="Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'" alt="Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'" /></description>
       <guid>https://xkcd.com/2714/</guid>
       <pubDate>Wed, 21 Dec 2022 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Data Point</title>
-      <link>https://xkcd.com/2713/</link>
-      <description><img src="https://imgs.xkcd.com/comics/data_point.png" title="In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials." alt="In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials." /></description>
-      <guid>https://xkcd.com/2713/</guid>
-      <pubDate>Mon, 19 Dec 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Taking Care of Business</title>
