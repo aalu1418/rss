@@ -23,6 +23,7 @@ var (
 		"XKCD":        "https://xkcd.com/rss.xml",
 		"MonkeyUser":  "https://www.monkeyuser.com/feed",
 		"AwkwardYeti": "https://theawkwardyeti.com/feed/",
+		"ItchyFeet":   "http://www.itchyfeetcomic.com/feeds/posts/default",
 	}
 )
 
