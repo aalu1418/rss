@@ -24,6 +24,7 @@ var (
 		"MonkeyUser":  "https://www.monkeyuser.com/feed",
 		"AwkwardYeti": "https://theawkwardyeti.com/feed/",
 		"ItchyFeet":   "http://www.itchyfeetcomic.com/feeds/posts/default",
+		"TheOatmeal":  "https://theoatmeal.com/feed/rss",
 	}
 )
 
@@ -41,6 +42,7 @@ func main() {
 	// fetch lates info from feeds
 	items := []*gofeed.Item{}
 	for name, url := range urls {
+		log.Printf("checking: %s @ %s\n", name, url)
 		ctx, cancel := context.WithTimeout(parentCtx, 15*time.Second)
 		fp := gofeed.NewParser()
 		feed, err := fp.ParseURLWithContext(url, ctx)
