@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 05 Jan 2023 06:14:03 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2023 06:14:03 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2023 12:23:23 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2023 12:23:23 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Tinyview</title>
+      <link>http://www.itchyfeetcomic.com/2023/01/tinyview.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5927076116306489357</guid>
+      <pubDate>Thu, 05 Jan 2023 11:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Biology vs Robotics</title>
       <link>https://xkcd.com/2720/</link>
@@ -303,13 +310,6 @@
       <link>http://theoatmeal.com/comics/subtitles?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/subtitles?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/subtitles_big.png" alt="Watching movies with subtitles on" class="border0" /></a><p>A comic about watching movies with subtitles.</p><a href="http://theoatmeal.com/comics/subtitles?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 10 Oct 2022 20:24:04 +0100</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Sacred Time</title>
-      <link>http://www.itchyfeetcomic.com/2022/10/sacred-time.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2288427127793311650</guid>
-      <pubDate>Sun, 09 Oct 2022 06:36:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Cognitive Distortion</title>
