@@ -3,8 +3,22 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 09 Jan 2023 18:15:41 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Jan 2023 18:15:41 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Jan 2023 01:03:51 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Jan 2023 01:03:51 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: Horrible Therapist - Random Comic Generator</title>
+      <link>http://theoatmeal.com/therapist?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/therapist?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_therapist_big.png" alt="Horrible Therapist - Random Comic Generator" class="border0" /></a><p>The images here are picked randomly, so they might be nonsensical and/or terrible. 
+</p><a href="http://theoatmeal.com/therapist?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Mon, 09 Jan 2023 21:09:46 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Etymonline</title>
+      <link>https://xkcd.com/2722/</link>
+      <description><img src="https://imgs.xkcd.com/comics/etymonline.png" title="NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology." alt="NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology." /></description>
+      <guid>https://xkcd.com/2722/</guid>
+      <pubDate>Mon, 09 Jan 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Mini Local</title>
       <link>http://www.itchyfeetcomic.com/2023/01/mini-local.html</link>
@@ -46,13 +60,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3445431690776987286</guid>
       <pubDate>Sun, 01 Jan 2023 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: New Year's Eve Party</title>
-      <link>https://xkcd.com/2718/</link>
-      <description><img src="https://imgs.xkcd.com/comics/new_years_eve_party.png" title="[Earlier, at the eye doctor] 'No, for the last time, the numerals on the paper aren't my prescription, it's the shape I want you to make with the laser.'" alt="[Earlier, at the eye doctor] 'No, for the last time, the numerals on the paper aren't my prescription, it's the shape I want you to make with the laser.'" /></description>
-      <guid>https://xkcd.com/2718/</guid>
-      <pubDate>Fri, 30 Dec 2022 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: 2022 - Year in review</title>
@@ -464,12 +471,6 @@
       <link>http://theoatmeal.com/comics/discover_videos?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/discover_videos?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/discover_videos_big.png" alt="Wow! How to discover videos on Facebook and Instagram!" class="border0" /></a><p>Wow! Just wow! Just wait for it ... </p><a href="http://theoatmeal.com/comics/discover_videos?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 03 Mar 2022 23:36:31 +0100</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Infinity (noun)</title>
-      <link>http://theoatmeal.com/comics/infinity?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/infinity?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/infinity_big.png" alt="Infinity (noun)" class="border0" /></a><p>A comic about video calls and desperation.</p><a href="http://theoatmeal.com/comics/infinity?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Fri, 25 Feb 2022 19:58:42 +0100</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Marked</title>
@@ -1548,17 +1549,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
