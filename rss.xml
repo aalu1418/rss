@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 15 Jan 2023 18:13:24 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2023 18:13:24 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2023 01:00:41 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2023 01:00:41 +0000</lastBuildDate>
     <item>
       <title>ItchyFeet: So Inclined</title>
       <link>http://www.itchyfeetcomic.com/2023/01/so-inclined.html</link>
@@ -300,12 +300,6 @@
       <pubDate>Fri, 14 Oct 2022 21:41:52 +0000</pubDate>
     </item>
     <item>
-      <title>TheOatmeal: Going outside right now</title>
-      <link>http://theoatmeal.com/comics/going_outside?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/going_outside?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/going_outside_big.png" alt="Going outside right now" class="border0" /></a><p>A comic about going outside in the fall when you live in the PNW.</p><a href="http://theoatmeal.com/comics/going_outside?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Wed, 12 Oct 2022 19:30:27 +0100</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: AI Care</title>
       <link>https://www.monkeyuser.com/2022/ai-care/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2022/253-ai-care.png" alt="AI Care" title="Everybody asks how the AI is behaving but nobody asks how AI is feeling!" /></p></description>
@@ -471,6 +465,12 @@
       <link>http://theoatmeal.com/comics/discover_videos?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/discover_videos?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/discover_videos_big.png" alt="Wow! How to discover videos on Facebook and Instagram!" class="border0" /></a><p>Wow! Just wow! Just wait for it ... </p><a href="http://theoatmeal.com/comics/discover_videos?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 03 Mar 2022 23:36:31 +0100</pubDate>
+    </item>
+    <item>
+      <title>TheOatmeal: Infinity (noun)</title>
+      <link>http://theoatmeal.com/comics/infinity?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/infinity?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/infinity_big.png" alt="Infinity (noun)" class="border0" /></a><p>A comic about video calls and desperation.</p><a href="http://theoatmeal.com/comics/infinity?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Fri, 25 Feb 2022 19:58:42 +0100</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Marked</title>
