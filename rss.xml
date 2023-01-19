@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 19 Jan 2023 01:02:58 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Jan 2023 01:02:58 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Jan 2023 06:15:23 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Jan 2023 06:15:23 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Methodology Trial</title>
+      <link>https://xkcd.com/2726/</link>
+      <description><img src="https://imgs.xkcd.com/comics/methodology_trial.png" title="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." /></description>
+      <guid>https://xkcd.com/2726/</guid>
+      <pubDate>Wed, 18 Jan 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Sunspot Cycle</title>
       <link>https://xkcd.com/2725/</link>
@@ -46,13 +53,6 @@
       <description><a href="http://theoatmeal.com/therapist?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_therapist_big.png" alt="Horrible Therapist - Random Comic Generator" class="border0" /></a><p>The images here are picked randomly, so they might be nonsensical and/or terrible. 
 </p><a href="http://theoatmeal.com/therapist?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 09 Jan 2023 21:09:46 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Etymonline</title>
-      <link>https://xkcd.com/2722/</link>
-      <description><img src="https://imgs.xkcd.com/comics/etymonline.png" title="NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology." alt="NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology." /></description>
-      <guid>https://xkcd.com/2722/</guid>
-      <pubDate>Mon, 09 Jan 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Mini Local</title>
