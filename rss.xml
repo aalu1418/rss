@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 22 Jan 2023 06:14:23 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2023 06:14:23 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Jan 2023 12:20:45 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2023 12:20:45 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Stand Apart</title>
+      <link>http://www.itchyfeetcomic.com/2023/01/stand-apart.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7886643532037265569</guid>
+      <pubDate>Sun, 22 Jan 2023 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Offensive Celebration (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/01/offensive-celebration-remaster.html</link>
@@ -262,13 +269,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8384561453265988587</guid>
       <pubDate>Sun, 30 Oct 2022 12:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Inverse Value (REMASTER)</title>
-      <link>http://www.itchyfeetcomic.com/2022/10/inverse-value-remaster.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6340514918027926231</guid>
-      <pubDate>Thu, 27 Oct 2022 07:53:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: Taking selfies from various angles</title>
@@ -2485,17 +2485,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
