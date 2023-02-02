@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 01 Feb 2023 18:15:12 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Feb 2023 18:15:12 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Feb 2023 01:02:43 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Feb 2023 01:02:43 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Bursa of Fabricius</title>
+      <link>https://xkcd.com/2732/</link>
+      <description><img src="https://imgs.xkcd.com/comics/bursa_of_fabricius.png" title="If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research." alt="If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research." /></description>
+      <guid>https://xkcd.com/2732/</guid>
+      <pubDate>Wed, 01 Feb 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>MonkeyUser: AIaaS</title>
       <link>https://www.monkeyuser.com/2023/aiaas/</link>
@@ -46,13 +53,6 @@
       <description><img src="https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png" title="I'll take mine on the rocks, no ice." alt="I'll take mine on the rocks, no ice." /></description>
       <guid>https://xkcd.com/2729/</guid>
       <pubDate>Wed, 25 Jan 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Lane Change Highway</title>
-      <link>https://xkcd.com/2728/</link>
-      <description><img src="https://imgs.xkcd.com/comics/lane_change_highway.png" title="I just think lane markers should follow the local magnetic declination." alt="I just think lane markers should follow the local magnetic declination." /></description>
-      <guid>https://xkcd.com/2728/</guid>
-      <pubDate>Mon, 23 Jan 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Stand Apart</title>
