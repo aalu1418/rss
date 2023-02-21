@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 21 Feb 2023 06:16:09 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2023 06:16:09 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2023 12:24:09 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2023 12:24:09 +0000</lastBuildDate>
+    <item>
+      <title>MonkeyUser: TODO</title>
+      <link>https://www.monkeyuser.com/2023/todo/</link>
+      <description></description>
+      <guid>https://www.monkeyuser.com/2023/todo/</guid>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Square Packing</title>
       <link>https://xkcd.com/2740/</link>
@@ -2462,17 +2469,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
-      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
       <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
       <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
+      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
