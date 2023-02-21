@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 20 Feb 2023 18:15:17 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2023 18:15:17 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Feb 2023 01:06:27 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2023 01:06:27 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Square Packing</title>
+      <link>https://xkcd.com/2740/</link>
+      <description><img src="https://imgs.xkcd.com/comics/square_packing.png" title="I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96." alt="I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96." /></description>
+      <guid>https://xkcd.com/2740/</guid>
+      <pubDate>Mon, 20 Feb 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Hot Cuisine</title>
       <link>http://www.itchyfeetcomic.com/2023/02/hot-cuisine.html</link>
@@ -39,13 +46,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1130459588544749198</guid>
       <pubDate>Sun, 12 Feb 2023 09:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Only Serifs</title>
-      <link>https://xkcd.com/2736/</link>
-      <description><img src="https://imgs.xkcd.com/comics/only_serifs.png" title="If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans." alt="If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans." /></description>
-      <guid>https://xkcd.com/2736/</guid>
-      <pubDate>Fri, 10 Feb 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Speedy Acclimatization (REMASTER)</title>
@@ -2462,17 +2462,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
-      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
       <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
       <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
+      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2499,17 +2499,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
