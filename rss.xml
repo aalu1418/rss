@@ -3,8 +3,22 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 24 Feb 2023 12:24:06 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Feb 2023 12:24:06 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Feb 2023 18:15:40 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Feb 2023 18:15:40 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Benign Ignorance (REMASTER)</title>
+      <link>http://www.itchyfeetcomic.com/2023/02/benign-ignorance-remaster.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-4310307617146514467</guid>
+      <pubDate>Fri, 24 Feb 2023 13:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Island Storage</title>
+      <link>https://xkcd.com/2742/</link>
+      <description><img src="https://imgs.xkcd.com/comics/island_storage.png" title="I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles." alt="I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles." /></description>
+      <guid>https://xkcd.com/2742/</guid>
+      <pubDate>Fri, 24 Feb 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Wish Interpretation</title>
       <link>https://xkcd.com/2741/</link>
@@ -39,13 +53,6 @@
       <description><img src="https://imgs.xkcd.com/comics/data_quality.png" title="[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]" alt="[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]" /></description>
       <guid>https://xkcd.com/2739/</guid>
       <pubDate>Fri, 17 Feb 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Omniknot</title>
-      <link>https://xkcd.com/2738/</link>
-      <description><img src="https://imgs.xkcd.com/comics/omniknot.png" title="The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch." alt="The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch." /></description>
-      <guid>https://xkcd.com/2738/</guid>
-      <pubDate>Wed, 15 Feb 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Punctual Disguise</title>
@@ -256,13 +263,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6195827860431676836</guid>
       <pubDate>Sun, 27 Nov 2022 09:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Thickly Veiled (REMASTER)</title>
-      <link>http://www.itchyfeetcomic.com/2022/11/thickly-veiled-remaster.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2881649247956069654</guid>
-      <pubDate>Thu, 24 Nov 2022 17:32:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
@@ -2469,17 +2469,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
-      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
       <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
       <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
+      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
