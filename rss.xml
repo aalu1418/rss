@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 26 Feb 2023 06:15:22 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Feb 2023 06:15:22 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Feb 2023 12:22:42 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2023 12:22:42 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Phoned In</title>
+      <link>http://www.itchyfeetcomic.com/2023/02/phoned-in.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1753783036834810866</guid>
+      <pubDate>Sun, 26 Feb 2023 07:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Benign Ignorance (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/02/benign-ignorance-remaster.html</link>
@@ -256,13 +263,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8924837372809273968</guid>
       <pubDate>Thu, 01 Dec 2022 14:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Completely Ruined</title>
-      <link>http://www.itchyfeetcomic.com/2022/11/completely-ruined.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6195827860431676836</guid>
-      <pubDate>Sun, 27 Nov 2022 09:09:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
@@ -2469,17 +2469,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
