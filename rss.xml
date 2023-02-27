@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 27 Feb 2023 12:26:05 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Feb 2023 12:26:05 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2023 18:16:08 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2023 18:16:08 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Hand Dryers</title>
+      <link>https://xkcd.com/2743/</link>
+      <description><img src="https://imgs.xkcd.com/comics/hand_dryers.png" title="I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound." alt="I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound." /></description>
+      <guid>https://xkcd.com/2743/</guid>
+      <pubDate>Mon, 27 Feb 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Phoned In</title>
       <link>http://www.itchyfeetcomic.com/2023/02/phoned-in.html</link>
@@ -53,13 +60,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7965954596175701232</guid>
       <pubDate>Sun, 19 Feb 2023 14:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Data Quality</title>
-      <link>https://xkcd.com/2739/</link>
-      <description><img src="https://imgs.xkcd.com/comics/data_quality.png" title="[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]" alt="[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]" /></description>
-      <guid>https://xkcd.com/2739/</guid>
-      <pubDate>Fri, 17 Feb 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Punctual Disguise</title>
@@ -2469,17 +2469,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
