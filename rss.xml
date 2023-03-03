@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 03 Mar 2023 12:23:42 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Mar 2023 12:23:42 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Mar 2023 18:16:06 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Mar 2023 18:16:06 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Obituary Editor</title>
+      <link>https://xkcd.com/2745/</link>
+      <description><img src="https://imgs.xkcd.com/comics/obituary_editor.png" title="As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected." alt="As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected." /></description>
+      <guid>https://xkcd.com/2745/</guid>
+      <pubDate>Fri, 03 Mar 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Rinse & Repeat (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/03/rinse-repeat-remaster.html</link>
@@ -50,16 +57,9 @@
     <item>
       <title>XKCD: Island Storage</title>
       <link>https://xkcd.com/2742/</link>
-      <description><img src="https://imgs.xkcd.com/comics/island_storage.png" title="I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles." alt="I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles." /></description>
+      <description><img src="https://imgs.xkcd.com/comics/island_storage.png" title="I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for Britain and Ireland." alt="I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for Britain and Ireland." /></description>
       <guid>https://xkcd.com/2742/</guid>
       <pubDate>Fri, 24 Feb 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Wish Interpretation</title>
-      <link>https://xkcd.com/2741/</link>
-      <description><img src="https://imgs.xkcd.com/comics/wish_interpretation.png" title="&quot;I wish for everything in the world. All the people, money, trees, etc.&quot; &quot;Are you SURE you--&quot; &quot;And I want you to put it in my house.&quot;" alt="&quot;I wish for everything in the world. All the people, money, trees, etc.&quot; &quot;Are you SURE you--&quot; &quot;And I want you to put it in my house.&quot;" /></description>
-      <guid>https://xkcd.com/2741/</guid>
-      <pubDate>Wed, 22 Feb 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: TODO</title>
