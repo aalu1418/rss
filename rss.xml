@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 10 Mar 2023 18:14:30 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Mar 2023 18:14:30 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Mar 2023 00:57:45 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Mar 2023 00:57:45 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Radians are Cursed</title>
+      <link>https://xkcd.com/2748/</link>
+      <description><img src="https://imgs.xkcd.com/comics/radians_are_cursed.png" title="Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can't argue with results." alt="Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can't argue with results." /></description>
+      <guid>https://xkcd.com/2748/</guid>
+      <pubDate>Fri, 10 Mar 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Presents for Biologists</title>
       <link>https://xkcd.com/2747/</link>
@@ -46,13 +53,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/260-remote-debugging.png" alt="Remote Debugging" title="extreme times require extreme measures" /></p></description>
       <guid>https://www.monkeyuser.com/2023/remote-deubgging/</guid>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Fanservice</title>
-      <link>https://xkcd.com/2744/</link>
-      <description><img src="https://imgs.xkcd.com/comics/fanservice.png" title="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;" alt="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;" /></description>
-      <guid>https://xkcd.com/2744/</guid>
-      <pubDate>Wed, 01 Mar 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Phoned In</title>
@@ -1079,17 +1079,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2513,17 +2513,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
