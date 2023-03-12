@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 12 Mar 2023 06:14:51 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Mar 2023 06:14:51 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Mar 2023 12:21:12 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Mar 2023 12:21:12 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Infectious Bite</title>
+      <link>http://www.itchyfeetcomic.com/2023/03/infectious-bite.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8821993449752037407</guid>
+      <pubDate>Sun, 12 Mar 2023 10:42:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Radians are Cursed</title>
       <link>https://xkcd.com/2748/</link>
@@ -263,13 +270,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8060354019064263953</guid>
       <pubDate>Sun, 11 Dec 2022 10:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Uncooperative Climate (REMASTER)</title>
-      <link>http://www.itchyfeetcomic.com/2022/12/uncooperative-climate-remaster.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8425512758301247534</guid>
-      <pubDate>Thu, 08 Dec 2022 14:36:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Layoffs</title>
@@ -1079,17 +1079,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
