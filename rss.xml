@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 14 Mar 2023 00:54:41 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Mar 2023 00:54:41 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Mar 2023 06:16:44 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Mar 2023 06:16:44 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Lymphocytes</title>
+      <link>https://xkcd.com/2749/</link>
+      <description><img src="https://imgs.xkcd.com/comics/lymphocytes.png" title="It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'" alt="It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'" /></description>
+      <guid>https://xkcd.com/2749/</guid>
+      <pubDate>Mon, 13 Mar 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Infectious Bite</title>
       <link>http://www.itchyfeetcomic.com/2023/03/infectious-bite.html</link>
@@ -39,13 +46,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1143851589218490438</guid>
       <pubDate>Sun, 05 Mar 2023 09:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Obituary Editor</title>
-      <link>https://xkcd.com/2745/</link>
-      <description><img src="https://imgs.xkcd.com/comics/obituary_editor.png" title="As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected." alt="As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected." /></description>
-      <guid>https://xkcd.com/2745/</guid>
-      <pubDate>Fri, 03 Mar 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Rinse & Repeat (REMASTER)</title>
@@ -1079,17 +1079,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2513,17 +2513,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
