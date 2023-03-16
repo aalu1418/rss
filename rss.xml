@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 16 Mar 2023 12:23:54 +0000</pubDate>
-    <lastBuildDate>Thu, 16 Mar 2023 12:23:54 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Mar 2023 18:15:41 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2023 18:15:41 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Timeless Technology</title>
+      <link>http://www.itchyfeetcomic.com/2023/03/timeless-technology.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2259501733546069360</guid>
+      <pubDate>Thu, 16 Mar 2023 14:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Flatten the Planets</title>
       <link>https://xkcd.com/2750/</link>
@@ -256,13 +263,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2022/256-business-care.png" alt="Taking Care of Business" title="Never interrupt your enemy when he is making a mistake. — Napoleon Bonaparte" /></p></description>
       <guid>https://www.monkeyuser.com/2022/business-care/</guid>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Time Limit (REMASTER)</title>
-      <link>http://www.itchyfeetcomic.com/2022/12/time-limit-remaster.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-4251869878537025642</guid>
-      <pubDate>Thu, 15 Dec 2022 13:55:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Effort Shift</title>
@@ -2513,17 +2513,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
