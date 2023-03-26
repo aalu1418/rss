@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 26 Mar 2023 06:13:51 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Mar 2023 06:13:51 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Mar 2023 18:13:04 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Mar 2023 18:13:04 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Dairy Grievance</title>
+      <link>http://www.itchyfeetcomic.com/2023/03/dairy-grievance.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7889402857569671221</guid>
+      <pubDate>Sun, 26 Mar 2023 06:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Relative Terms</title>
       <link>https://xkcd.com/2754/</link>
@@ -249,13 +256,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3934799680971038137</guid>
       <pubDate>Thu, 29 Dec 2022 09:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: The Perfect Gift</title>
-      <link>http://www.itchyfeetcomic.com/2022/12/the-perfect-gift.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3499911455788351257</guid>
-      <pubDate>Sun, 25 Dec 2022 09:30:00 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Taking Care of Business</title>
@@ -2513,17 +2513,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
