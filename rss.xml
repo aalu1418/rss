@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 27 Mar 2023 13:21:53 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Mar 2023 13:21:53 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2023 18:16:31 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2023 18:16:31 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Effect Size</title>
+      <link>https://xkcd.com/2755/</link>
+      <description><img src="https://imgs.xkcd.com/comics/effect_size.png" title="Subgroup analysis is ongoing." alt="Subgroup analysis is ongoing." /></description>
+      <guid>https://xkcd.com/2755/</guid>
+      <pubDate>Mon, 27 Mar 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Dairy Grievance</title>
       <link>http://www.itchyfeetcomic.com/2023/03/dairy-grievance.html</link>
@@ -46,13 +53,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5718796116721600084</guid>
       <pubDate>Sun, 19 Mar 2023 11:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: March Madness</title>
-      <link>https://xkcd.com/2751/</link>
-      <description><img src="https://imgs.xkcd.com/comics/march_madness.png" title="My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman." alt="My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman." /></description>
-      <guid>https://xkcd.com/2751/</guid>
-      <pubDate>Fri, 17 Mar 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Timeless Technology</title>
