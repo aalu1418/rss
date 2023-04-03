@@ -25,6 +25,7 @@ var (
 		"AwkwardYeti": "https://theawkwardyeti.com/feed/",
 		"ItchyFeet":   "http://www.itchyfeetcomic.com/feeds/posts/default",
 		"TheOatmeal":  "https://theoatmeal.com/feed/rss",
+		"Odd1sout":    "https://theodd1sout.com/blogs/comics.atom",
 	}
 )
 
