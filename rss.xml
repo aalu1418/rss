@@ -3,14 +3,28 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 08 Apr 2023 00:55:18 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Apr 2023 00:55:18 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Apr 2023 06:13:07 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Apr 2023 06:13:07 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Egg-Spensive</title>
+      <link>https://theodd1sout.com/blogs/comics/egg-spensive</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/egg-spensive</guid>
+      <pubDate>Sat, 08 Apr 2023 04:05:14 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Relatively Inclined (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/04/relatively-inclined-remaster.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1096986223696158414</guid>
       <pubDate>Fri, 07 Apr 2023 14:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Paleontology Museum</title>
+      <link>https://xkcd.com/2760/</link>
+      <description><img src="https://imgs.xkcd.com/comics/paleontology_museum.png" title="Nowadays the only ones left that do anything are turtles." alt="Nowadays the only ones left that do anything are turtles." /></description>
+      <guid>https://xkcd.com/2760/</guid>
+      <pubDate>Fri, 07 Apr 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Easily Confused Acronyms</title>
@@ -88,13 +102,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-4448545864748008426</guid>
       <pubDate>Thu, 30 Mar 2023 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Qualifications</title>
-      <link>https://xkcd.com/2756/</link>
-      <description><img src="https://imgs.xkcd.com/comics/qualifications.png" title="'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'" alt="'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'" /></description>
-      <guid>https://xkcd.com/2756/</guid>
-      <pubDate>Wed, 29 Mar 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Dairy Grievance</title>
@@ -2518,17 +2525,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
