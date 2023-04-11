@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 11 Apr 2023 00:57:25 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Apr 2023 00:57:25 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Apr 2023 06:15:07 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2023 06:15:07 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: 1-to-1 Scale</title>
+      <link>https://xkcd.com/2761/</link>
+      <description><img src="https://imgs.xkcd.com/comics/1_to_1_scale.png" title="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." alt="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." /></description>
+      <guid>https://xkcd.com/2761/</guid>
+      <pubDate>Mon, 10 Apr 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: The Yolk's on You</title>
       <link>http://www.itchyfeetcomic.com/2023/04/the-yolks-on-you.html</link>
@@ -95,13 +102,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/worst-guy-you-know</guid>
       <pubDate>Fri, 31 Mar 2023 16:16:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Towed Message</title>
-      <link>https://xkcd.com/2757/</link>
-      <description><img src="https://imgs.xkcd.com/comics/towed_message.png" title="&quot;Hi, what you do is fly over a designated zone and detach the--&quot; &quot;WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE&quot;" alt="&quot;Hi, what you do is fly over a designated zone and detach the--&quot; &quot;WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE&quot;" /></description>
-      <guid>https://xkcd.com/2757/</guid>
-      <pubDate>Fri, 31 Mar 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Selectively Exhaustible (REMASTER)</title>
