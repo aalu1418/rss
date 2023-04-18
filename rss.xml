@@ -3,13 +3,20 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 18 Apr 2023 00:56:06 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Apr 2023 00:56:06 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2023 06:15:05 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2023 06:15:05 +0000</lastBuildDate>
     <item>
       <title>TheOatmeal: I'm thinking of a word. Try to guess what it is.</title>
       <link>http://theoatmeal.com/blog/wordy_online?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/wordy_online?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/wordy_online_big.png" alt="I'm thinking of a word. Try to guess what it is." class="border0" /></a><p>I coded a daily word-guessing game.</p><a href="http://theoatmeal.com/blog/wordy_online?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 17 Apr 2023 14:46:51 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Cosmological Nostalgia Content</title>
+      <link>https://xkcd.com/2764/</link>
+      <description><img src="https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png" title="Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career." alt="Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career." /></description>
+      <guid>https://xkcd.com/2764/</guid>
+      <pubDate>Mon, 17 Apr 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Swearing Curse</title>
@@ -73,13 +80,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1096986223696158414</guid>
       <pubDate>Fri, 07 Apr 2023 14:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Paleontology Museum</title>
-      <link>https://xkcd.com/2760/</link>
-      <description><img src="https://imgs.xkcd.com/comics/paleontology_museum.png" title="Nowadays the only ones left that do anything are turtles." alt="Nowadays the only ones left that do anything are turtles." /></description>
-      <guid>https://xkcd.com/2760/</guid>
-      <pubDate>Fri, 07 Apr 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Rest Regulation</title>
