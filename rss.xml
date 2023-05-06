@@ -3,14 +3,36 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 05 May 2023 12:20:25 +0000</pubDate>
-    <lastBuildDate>Fri, 05 May 2023 12:20:25 +0000</lastBuildDate>
+    <pubDate>Sat, 06 May 2023 00:53:59 +0000</pubDate>
+    <lastBuildDate>Sat, 06 May 2023 00:53:59 +0000</lastBuildDate>
+    <item>
+      <title>AwkwardYeti: Platelet Party</title>
+      <link>https://theawkwardyeti.com/comic/platelet-party/?utm_source=rss&utm_medium=rss&utm_campaign=platelet-party</link>
+      <description><p><a href="https://theawkwardyeti.com/comic/platelet-party/" rel="bookmark" title="Platelet Party"><img width="150" height="150" src="https://theawkwardyeti.com/wp-content/uploads/2023/05/111816_PlateletParty-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
+</p></description>
+      <guid>https://theawkwardyeti.com/?post_type=comic&p=19289</guid>
+      <pubDate>Fri, 05 May 2023 21:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odd1sout: Mailman</title>
+      <link>https://theodd1sout.com/blogs/comics/mailman</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/mailman</guid>
+      <pubDate>Fri, 05 May 2023 18:52:32 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Le Côrrect Englàis (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/05/le-correct-englais-remaster.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3341920921081729187</guid>
       <pubDate>Fri, 05 May 2023 09:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Commemorative Plaque</title>
+      <link>https://xkcd.com/2772/</link>
+      <description><img src="https://imgs.xkcd.com/comics/commemorative_plaque.png" title="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." alt="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." /></description>
+      <guid>https://xkcd.com/2772/</guid>
+      <pubDate>Fri, 05 May 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: College Knowledge</title>
@@ -53,13 +75,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1782117529956429654</guid>
       <pubDate>Thu, 27 Apr 2023 10:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Definition of e</title>
-      <link>https://xkcd.com/2768/</link>
-      <description><img src="https://imgs.xkcd.com/comics/definition_of_e.png" title="Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side." alt="Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side." /></description>
-      <guid>https://xkcd.com/2768/</guid>
-      <pubDate>Wed, 26 Apr 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Drive Time</title>
@@ -483,14 +498,6 @@
 </p></description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19257</guid>
       <pubDate>Fri, 02 Sep 2022 22:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>AwkwardYeti: The Secret to Happiness</title>
-      <link>https://theawkwardyeti.com/comic/the-secret-to-happiness/?utm_source=rss&utm_medium=rss&utm_campaign=the-secret-to-happiness</link>
-      <description><p><a href="https://theawkwardyeti.com/comic/the-secret-to-happiness/" rel="bookmark" title="The Secret to Happiness"><img width="150" height="150" src="https://theawkwardyeti.com/wp-content/uploads/2022/08/082622-secret-to-happiness-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://theawkwardyeti.com/wp-content/uploads/2022/08/082622-secret-to-happiness-150x150.png 150w, https://theawkwardyeti.com/wp-content/uploads/2022/08/082622-secret-to-happiness-300x300.png 300w, https://theawkwardyeti.com/wp-content/uploads/2022/08/082622-secret-to-happiness-768x768.png 768w, https://theawkwardyeti.com/wp-content/uploads/2022/08/082622-secret-to-happiness.png 948w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-</p></description>
-      <guid>https://theawkwardyeti.com/?post_type=comic&p=19254</guid>
-      <pubDate>Fri, 26 Aug 2022 21:32:39 +0000</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Brainstorming</title>
@@ -1156,17 +1163,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1661,17 +1668,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
