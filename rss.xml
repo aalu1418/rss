@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 29 May 2023 12:20:43 +0000</pubDate>
-    <lastBuildDate>Mon, 29 May 2023 12:20:43 +0000</lastBuildDate>
+    <pubDate>Mon, 29 May 2023 18:13:06 +0000</pubDate>
+    <lastBuildDate>Mon, 29 May 2023 18:13:06 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Wikipedia Article Titles</title>
+      <link>https://xkcd.com/2782/</link>
+      <description><img src="https://imgs.xkcd.com/comics/wikipedia_article_titles.png" title="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." alt="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." /></description>
+      <guid>https://xkcd.com/2782/</guid>
+      <pubDate>Mon, 29 May 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Major Landmark</title>
       <link>http://www.itchyfeetcomic.com/2023/05/major-landmark.html</link>
@@ -67,13 +74,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-4160776744559332545</guid>
       <pubDate>Fri, 19 May 2023 18:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Cuisine</title>
-      <link>https://xkcd.com/2778/</link>
-      <description><img src="https://imgs.xkcd.com/comics/cuisine.png" title="My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space." alt="My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space." /></description>
-      <guid>https://xkcd.com/2778/</guid>
-      <pubDate>Fri, 19 May 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Easi Peasi</title>
