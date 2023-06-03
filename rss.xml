@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 02 Jun 2023 18:13:04 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Jun 2023 18:13:04 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2023 06:13:38 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jun 2023 06:13:38 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Drainage Basins</title>
+      <link>https://xkcd.com/2784/</link>
+      <description><img src="https://imgs.xkcd.com/comics/drainage_basins.png" title="After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume." alt="After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume." /></description>
+      <guid>https://xkcd.com/2784/</guid>
+      <pubDate>Fri, 02 Jun 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Edible Deep Clean (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/06/edible-deep-clean-remaster.html</link>
@@ -60,13 +67,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-647753282511756089</guid>
       <pubDate>Thu, 25 May 2023 11:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Physical Quantities</title>
-      <link>https://xkcd.com/2780/</link>
-      <description><img src="https://imgs.xkcd.com/comics/physical_quantities.png" title="The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy." alt="The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy." /></description>
-      <guid>https://xkcd.com/2780/</guid>
-      <pubDate>Wed, 24 May 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Demonym Jumble</title>
