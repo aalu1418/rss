@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 07 Jun 2023 12:22:27 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Jun 2023 12:22:27 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jun 2023 18:14:04 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2023 18:14:04 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: UFO Evidence</title>
+      <link>https://xkcd.com/2786/</link>
+      <description><img src="https://imgs.xkcd.com/comics/ufo_evidence.png" title="[Decades in the future] &quot;Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019).&quot;" alt="[Decades in the future] &quot;Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019).&quot;" /></description>
+      <guid>https://xkcd.com/2786/</guid>
+      <pubDate>Wed, 07 Jun 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Odd1sout: Music</title>
       <link>https://theodd1sout.com/blogs/comics/music</link>
@@ -53,13 +60,6 @@
       <description></description>
       <guid>https://persnicketypets.com/blogs/the-persnickety-pets/on-a-roll</guid>
       <pubDate>Mon, 29 May 2023 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Wikipedia Article Titles</title>
-      <link>https://xkcd.com/2782/</link>
-      <description><img src="https://imgs.xkcd.com/comics/wikipedia_article_titles.png" title="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." alt="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." /></description>
-      <guid>https://xkcd.com/2782/</guid>
-      <pubDate>Mon, 29 May 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Major Landmark</title>
@@ -1906,17 +1906,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2835,17 +2835,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
