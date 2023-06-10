@@ -3,14 +3,28 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 09 Jun 2023 18:13:32 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jun 2023 18:13:32 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Jun 2023 01:02:48 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Jun 2023 01:02:48 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Under the Bed</title>
+      <link>https://theodd1sout.com/blogs/comics/under-the-bed</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/under-the-bed</guid>
+      <pubDate>Fri, 09 Jun 2023 20:56:57 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Diminishing Returns (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/06/diminishing-returns-remaster.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5873516453194777160</guid>
       <pubDate>Fri, 09 Jun 2023 17:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Iceberg</title>
+      <link>https://xkcd.com/2787/</link>
+      <description><img src="https://imgs.xkcd.com/comics/iceberg.png" title="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." alt="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." /></description>
+      <guid>https://xkcd.com/2787/</guid>
+      <pubDate>Fri, 09 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: UFO Evidence</title>
@@ -53,13 +67,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7514823489917718045</guid>
       <pubDate>Thu, 01 Jun 2023 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Ruling Out</title>
-      <link>https://xkcd.com/2783/</link>
-      <description><img src="https://imgs.xkcd.com/comics/ruling_out.png" title="We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence." alt="We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence." /></description>
-      <guid>https://xkcd.com/2783/</guid>
-      <pubDate>Wed, 31 May 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: On A Roll</title>
@@ -1906,17 +1913,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2835,17 +2842,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
