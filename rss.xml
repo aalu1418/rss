@@ -3,8 +3,22 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 16 Jun 2023 18:13:09 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Jun 2023 18:13:09 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Jun 2023 01:00:44 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Jun 2023 01:00:44 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Strong Man</title>
+      <link>https://theodd1sout.com/blogs/comics/strong-man</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/strong-man</guid>
+      <pubDate>Fri, 16 Jun 2023 21:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Heat Pump</title>
+      <link>https://xkcd.com/2790/</link>
+      <description><img src="https://imgs.xkcd.com/comics/heat_pump.png" title="If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often." alt="If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often." /></description>
+      <guid>https://xkcd.com/2790/</guid>
+      <pubDate>Fri, 16 Jun 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Phocine Vulgarity (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/06/phocine-vulgarity-remaster.html</link>
@@ -53,13 +67,6 @@
       <description><img src="https://imgs.xkcd.com/comics/iceberg.png" title="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." alt="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." /></description>
       <guid>https://xkcd.com/2787/</guid>
       <pubDate>Fri, 09 Jun 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: UFO Evidence</title>
-      <link>https://xkcd.com/2786/</link>
-      <description><img src="https://imgs.xkcd.com/comics/ufo_evidence.png" title="[Decades in the future] &quot;Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019).&quot;" alt="[Decades in the future] &quot;Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019).&quot;" /></description>
-      <guid>https://xkcd.com/2786/</guid>
-      <pubDate>Wed, 07 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Music</title>
@@ -1913,17 +1920,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2805,17 +2812,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2842,17 +2849,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
