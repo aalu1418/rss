@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 26 Jun 2023 12:25:09 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 12:25:09 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Jun 2023 18:16:21 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2023 18:16:21 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Alphabet Notes</title>
+      <link>https://xkcd.com/2794/</link>
+      <description><img src="https://imgs.xkcd.com/comics/alphabet_notes.png" title="Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!" alt="Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!" /></description>
+      <guid>https://xkcd.com/2794/</guid>
+      <pubDate>Mon, 26 Jun 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Security Theater</title>
       <link>http://www.itchyfeetcomic.com/2023/06/security-theater.html</link>
@@ -53,13 +60,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/strong-man</guid>
       <pubDate>Fri, 16 Jun 2023 21:52:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Heat Pump</title>
-      <link>https://xkcd.com/2790/</link>
-      <description><img src="https://imgs.xkcd.com/comics/heat_pump.png" title="If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often." alt="If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often." /></description>
-      <guid>https://xkcd.com/2790/</guid>
-      <pubDate>Fri, 16 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Phocine Vulgarity (REMASTER)</title>
@@ -2849,17 +2849,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
