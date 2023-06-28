@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 28 Jun 2023 12:26:23 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2023 12:26:23 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2023 18:15:32 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2023 18:15:32 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Glass-Topped Table</title>
+      <link>https://xkcd.com/2795/</link>
+      <description><img src="https://imgs.xkcd.com/comics/glass_topped_table.png" title="You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward." alt="You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward." /></description>
+      <guid>https://xkcd.com/2795/</guid>
+      <pubDate>Wed, 28 Jun 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Alphabet Notes</title>
       <link>https://xkcd.com/2794/</link>
@@ -39,13 +46,6 @@
       <description><img src="https://imgs.xkcd.com/comics/summer_solstice.png" title="Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)" alt="Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)" /></description>
       <guid>https://xkcd.com/2792/</guid>
       <pubDate>Wed, 21 Jun 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Bookshelf Sorting</title>
-      <link>https://xkcd.com/2791/</link>
-      <description><img src="https://imgs.xkcd.com/comics/bookshelf_sorting.png" title="Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence)." alt="Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence)." /></description>
-      <guid>https://xkcd.com/2791/</guid>
-      <pubDate>Mon, 19 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Streets Smart</title>
