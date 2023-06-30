@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 30 Jun 2023 12:23:50 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Jun 2023 12:23:50 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jun 2023 18:14:58 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Jun 2023 18:14:58 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Real Estate Analysis</title>
+      <link>https://xkcd.com/2796/</link>
+      <description><img src="https://imgs.xkcd.com/comics/real_estate_analysis.png" title="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." alt="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." /></description>
+      <guid>https://xkcd.com/2796/</guid>
+      <pubDate>Fri, 30 Jun 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Glass-Topped Table</title>
       <link>https://xkcd.com/2795/</link>
@@ -39,13 +46,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2545615680641958590</guid>
       <pubDate>Thu, 22 Jun 2023 14:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Summer Solstice</title>
-      <link>https://xkcd.com/2792/</link>
-      <description><img src="https://imgs.xkcd.com/comics/summer_solstice.png" title="Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)" alt="Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)" /></description>
-      <guid>https://xkcd.com/2792/</guid>
-      <pubDate>Wed, 21 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Streets Smart</title>
@@ -1415,17 +1415,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1920,17 +1920,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
