@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 03 Jul 2023 12:27:03 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Jul 2023 12:27:03 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Jul 2023 18:15:08 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2023 18:15:08 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Actual Progress</title>
+      <link>https://xkcd.com/2797/</link>
+      <description><img src="https://imgs.xkcd.com/comics/actual_progress.png" title="Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" alt="Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" /></description>
+      <guid>https://xkcd.com/2797/</guid>
+      <pubDate>Mon, 03 Jul 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Artificial Unintelligence</title>
       <link>http://www.itchyfeetcomic.com/2023/07/artificial-unintelligence.html</link>
@@ -53,13 +60,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-255253975427898779</guid>
       <pubDate>Sun, 25 Jun 2023 08:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Garden Path Sentence</title>
-      <link>https://xkcd.com/2793/</link>
-      <description><img src="https://imgs.xkcd.com/comics/garden_path_sentence.png" title="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" alt="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" /></description>
-      <guid>https://xkcd.com/2793/</guid>
-      <pubDate>Fri, 23 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Stranger Nonfiction (REMASTER)</title>
