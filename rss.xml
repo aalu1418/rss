@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 10 Jul 2023 06:17:10 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2023 06:17:10 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2023 12:25:47 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2023 12:25:47 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Down</title>
+      <link>https://xkcd.com/2800/</link>
+      <description><img src="https://imgs.xkcd.com/comics/down.png" title="It's just that I get nervous about heights." alt="It's just that I get nervous about heights." /></description>
+      <guid>https://xkcd.com/2800/</guid>
+      <pubDate>Mon, 10 Jul 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Flat Earth</title>
       <link>http://www.itchyfeetcomic.com/2023/07/flat-earth.html</link>
@@ -60,13 +67,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1005032732879603040</guid>
       <pubDate>Fri, 30 Jun 2023 18:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Real Estate Analysis</title>
-      <link>https://xkcd.com/2796/</link>
-      <description><img src="https://imgs.xkcd.com/comics/real_estate_analysis.png" title="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." alt="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." /></description>
-      <guid>https://xkcd.com/2796/</guid>
-      <pubDate>Fri, 30 Jun 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Security Theater</title>
@@ -2819,17 +2819,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
-      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
       <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
       <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
+      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
