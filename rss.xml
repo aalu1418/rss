@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 13 Jul 2023 18:15:10 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Jul 2023 18:15:10 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Jul 2023 01:14:56 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2023 01:14:56 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Choke</title>
+      <link>https://theodd1sout.com/blogs/comics/choke</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/choke</guid>
+      <pubDate>Thu, 13 Jul 2023 19:01:01 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Convenient Difference (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/07/convenient-difference-remaster.html</link>
@@ -2819,17 +2826,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
