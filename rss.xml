@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 20 Jul 2023 06:14:34 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Jul 2023 06:14:34 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 12:23:17 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 12:23:17 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Startling Sounds (REMASTER)</title>
+      <link>http://www.itchyfeetcomic.com/2023/07/startling-sounds-remaster.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-9076104689801057387</guid>
+      <pubDate>Thu, 20 Jul 2023 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Marshmallow</title>
       <link>https://xkcd.com/2804/</link>
@@ -301,13 +308,6 @@
       <pubDate>Mon, 24 Apr 2023 21:23:32 +0000</pubDate>
     </item>
     <item>
-      <title>ItchyFeet: Drive Time</title>
-      <link>http://www.itchyfeetcomic.com/2023/04/drive-time.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8197913715275943995</guid>
-      <pubDate>Sun, 23 Apr 2023 09:09:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Odd1sout: Cat People</title>
       <link>https://theodd1sout.com/blogs/comics/cat-people</link>
       <description></description>
@@ -349,17 +349,17 @@
       <pubDate>Mon, 03 Apr 2023 18:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Double Edged</title>
-      <link>https://www.monkeyuser.com/2023/double-edged/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/261-double-edged.png" alt="Double Edged" title="when the risks outweigh the benefits" /></p></description>
-      <guid>https://www.monkeyuser.com/2023/double-edged/</guid>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: History of Debugging</title>
       <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
       <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Double Edged</title>
+      <link>https://www.monkeyuser.com/2023/double-edged/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/261-double-edged.png" alt="Double Edged" title="when the risks outweigh the benefits" /></p></description>
+      <guid>https://www.monkeyuser.com/2023/double-edged/</guid>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2870,17 +2870,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
