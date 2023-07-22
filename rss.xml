@@ -3,8 +3,22 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 21 Jul 2023 18:14:15 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Jul 2023 18:14:15 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Jul 2023 01:03:18 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Jul 2023 01:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Have a Bite</title>
+      <link>https://theodd1sout.com/blogs/comics/have-a-bite</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/have-a-bite</guid>
+      <pubDate>Fri, 21 Jul 2023 18:24:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Global Atmospheric Circulation</title>
+      <link>https://xkcd.com/2805/</link>
+      <description><img src="https://imgs.xkcd.com/comics/global_atmospheric_circulation.png" title="Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling." alt="Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling." /></description>
+      <guid>https://xkcd.com/2805/</guid>
+      <pubDate>Fri, 21 Jul 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Startling Sounds (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/07/startling-sounds-remaster.html</link>
@@ -53,13 +67,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6856869263487319333</guid>
       <pubDate>Thu, 13 Jul 2023 11:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Contact Merge</title>
-      <link>https://xkcd.com/2801/</link>
-      <description><img src="https://imgs.xkcd.com/comics/contact_merge.png" title="I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack." alt="I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack." /></description>
-      <guid>https://xkcd.com/2801/</guid>
-      <pubDate>Wed, 12 Jul 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Flat Earth</title>
@@ -349,17 +356,17 @@
       <pubDate>Mon, 03 Apr 2023 18:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: History of Debugging</title>
-      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
-      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Double Edged</title>
       <link>https://www.monkeyuser.com/2023/double-edged/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/261-double-edged.png" alt="Double Edged" title="when the risks outweigh the benefits" /></p></description>
       <guid>https://www.monkeyuser.com/2023/double-edged/</guid>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: History of Debugging</title>
+      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
+      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2833,17 +2840,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2870,17 +2877,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
