@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 24 Jul 2023 12:22:54 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2023 12:22:54 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Jul 2023 18:15:48 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Jul 2023 18:15:48 +0000</lastBuildDate>
     <item>
       <title>ItchyFeet: Toxic Advice</title>
       <link>http://www.itchyfeetcomic.com/2023/07/toxic-advice.html</link>
@@ -356,17 +356,17 @@
       <pubDate>Mon, 03 Apr 2023 18:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: History of Debugging</title>
-      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
-      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Double Edged</title>
       <link>https://www.monkeyuser.com/2023/double-edged/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/261-double-edged.png" alt="Double Edged" title="when the risks outweigh the benefits" /></p></description>
       <guid>https://www.monkeyuser.com/2023/double-edged/</guid>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: History of Debugging</title>
+      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
+      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1948,17 +1948,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
