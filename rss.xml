@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 25 Jul 2023 01:08:22 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Jul 2023 01:08:22 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2023 06:14:47 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2023 06:14:47 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Anti-Vaxxers</title>
+      <link>https://xkcd.com/2806/</link>
+      <description><img src="https://imgs.xkcd.com/comics/anti_vaxxers.png" title="The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses." alt="The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses." /></description>
+      <guid>https://xkcd.com/2806/</guid>
+      <pubDate>Mon, 24 Jul 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Toxic Advice</title>
       <link>http://www.itchyfeetcomic.com/2023/07/toxic-advice.html</link>
@@ -53,13 +60,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3476240783616284649</guid>
       <pubDate>Sun, 16 Jul 2023 08:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Fireflies</title>
-      <link>https://xkcd.com/2802/</link>
-      <description><img src="https://imgs.xkcd.com/comics/fireflies.png" title="I feel bad for Earth 2 and their shadowflies." alt="I feel bad for Earth 2 and their shadowflies." /></description>
-      <guid>https://xkcd.com/2802/</guid>
-      <pubDate>Fri, 14 Jul 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Choke</title>
@@ -356,17 +356,17 @@
       <pubDate>Mon, 03 Apr 2023 18:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: History of Debugging</title>
-      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
-      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Double Edged</title>
       <link>https://www.monkeyuser.com/2023/double-edged/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/261-double-edged.png" alt="Double Edged" title="when the risks outweigh the benefits" /></p></description>
       <guid>https://www.monkeyuser.com/2023/double-edged/</guid>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: History of Debugging</title>
+      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
+      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
