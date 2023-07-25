@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 25 Jul 2023 06:14:47 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Jul 2023 06:14:47 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2023 12:23:45 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2023 12:23:45 +0000</lastBuildDate>
+    <item>
+      <title>MonkeyUser: Deprecated</title>
+      <link>https://www.monkeyuser.com/2023/deprecated/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/263-deprecated.png" alt="Deprecated" title="To be or not to be? That is the dependency!" /></p></description>
+      <guid>https://www.monkeyuser.com/2023/deprecated/</guid>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Anti-Vaxxers</title>
       <link>https://xkcd.com/2806/</link>
@@ -46,6 +53,13 @@
       <description><img src="https://imgs.xkcd.com/comics/marshmallow.png" title="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." alt="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." /></description>
       <guid>https://xkcd.com/2804/</guid>
       <pubDate>Wed, 19 Jul 2023 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: History of Debugging</title>
+      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
+      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Geohydrotypography</title>
@@ -360,13 +374,6 @@
       <link>https://www.monkeyuser.com/2023/double-edged/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/261-double-edged.png" alt="Double Edged" title="when the risks outweigh the benefits" /></p></description>
       <guid>https://www.monkeyuser.com/2023/double-edged/</guid>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MonkeyUser: History of Debugging</title>
-      <link>https://www.monkeyuser.com/2023/history-of-debugging/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/262-history-of-debugging.png" alt="History of Debugging" title="Debugging: where the past meets the present, and programmers try to fix ancient mysteries with modern coffee-fueled sorcery." /></p></description>
-      <guid>https://www.monkeyuser.com/2023/history-of-debugging/</guid>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1443,17 +1450,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
