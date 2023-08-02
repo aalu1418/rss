@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 02 Aug 2023 12:21:20 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Aug 2023 12:21:20 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Aug 2023 18:13:02 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: How to Coil a Cable</title>
+      <link>https://xkcd.com/2810/</link>
+      <description><img src="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png" title="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." alt="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." /></description>
+      <guid>https://xkcd.com/2810/</guid>
+      <pubDate>Wed, 02 Aug 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 903 - Hedwig</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-903-hedwig/viewer?title_no=352&episode_no=903</link>
@@ -157,13 +164,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/263-deprecated.png" alt="Deprecated" title="To be or not to be? That is the dependency!" /></p></description>
       <guid>https://www.monkeyuser.com/2023/deprecated/</guid>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Anti-Vaxxers</title>
-      <link>https://xkcd.com/2806/</link>
-      <description><img src="https://imgs.xkcd.com/comics/anti_vaxxers.png" title="The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses." alt="The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses." /></description>
-      <guid>https://xkcd.com/2806/</guid>
-      <pubDate>Mon, 24 Jul 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 900 - My Way</title>
@@ -3211,17 +3211,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
