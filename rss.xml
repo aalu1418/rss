@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 08 Aug 2023 00:57:29 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2023 00:57:29 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2023 06:14:02 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2023 06:14:02 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Solar Panel Placement</title>
+      <link>https://xkcd.com/2812/</link>
+      <description><img src="https://imgs.xkcd.com/comics/solar_panel_placement.png" title="Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time." alt="Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time." /></description>
+      <guid>https://xkcd.com/2812/</guid>
+      <pubDate>Mon, 07 Aug 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 904 - Friends</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-904-friends/viewer?title_no=352&episode_no=904</link>
@@ -187,13 +194,6 @@
 </p></description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19292</guid>
       <pubDate>Fri, 28 Jul 2023 21:23:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Daytime Firefly</title>
-      <link>https://xkcd.com/2808/</link>
-      <description><img src="https://imgs.xkcd.com/comics/daytime_firefly.png" title="Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!" alt="Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!" /></description>
-      <guid>https://xkcd.com/2808/</guid>
-      <pubDate>Fri, 28 Jul 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Deceptively Lovely</title>
@@ -2282,17 +2282,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
