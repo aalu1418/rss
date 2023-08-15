@@ -3,8 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 14 Aug 2023 12:20:44 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Aug 2023 12:20:44 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Aug 2023 00:48:09 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Aug 2023 00:48:09 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: I made some animated shorts</title>
+      <link>http://theoatmeal.com/blog/animated_shorts?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/blog/animated_shorts?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/animated_shorts_big.png" alt="I made some animated shorts" class="border0" /></a><p>Watch the very first Oatmeal cartoons.</p><a href="http://theoatmeal.com/blog/animated_shorts?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Mon, 14 Aug 2023 17:49:37 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Car Wash</title>
+      <link>https://xkcd.com/2815/</link>
+      <description><img src="https://imgs.xkcd.com/comics/car_wash.png" title="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." alt="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." /></description>
+      <guid>https://xkcd.com/2815/</guid>
+      <pubDate>Mon, 14 Aug 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 906 -  No Secret</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-906-no-secret/viewer?title_no=352&episode_no=906</link>
@@ -180,13 +193,6 @@
       <link>http://theoatmeal.com/blog/good_vs_evil?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/good_vs_evil?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/good_vs_evil_big.png" alt="Good vs Evil" class="border0" /></a><p>I have an update about my Netflix show.</p><a href="http://theoatmeal.com/blog/good_vs_evil?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Fri, 04 Aug 2023 19:20:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Free Fallin'</title>
-      <link>https://xkcd.com/2811/</link>
-      <description><img src="https://imgs.xkcd.com/comics/free_fallin.png" title="Their crash investigation team had some particularly harsh words for Dave Matthews." alt="Their crash investigation team had some particularly harsh words for Dave Matthews." /></description>
-      <guid>https://xkcd.com/2811/</guid>
-      <pubDate>Fri, 04 Aug 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Ample Prefix (REMASTER)</title>
@@ -1174,12 +1180,6 @@
       <description></description>
       <guid>https://persnicketypets.com/blogs/the-persnickety-pets/the-best-cat-toys</guid>
       <pubDate>Mon, 06 Jun 2022 21:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: I am making an Exploding Kittens TV series at Netflix</title>
-      <link>http://theoatmeal.com/blog/netflix_kittens?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/blog/netflix_kittens?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/netflix_kittens_big.png" alt="I am making an Exploding Kittens TV series at Netflix" class="border0" /></a><p>It's being produced by Mike Judge and Greg Daniels.</p><a href="http://theoatmeal.com/blog/netflix_kittens?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Wed, 20 Apr 2022 19:44:23 +0100</pubDate>
     </item>
     <item>
       <title>MonkeyUser: Mindlessness</title>
