@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 22 Aug 2023 00:48:46 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2023 00:48:46 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2023 06:13:34 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2023 06:13:34 +0000</lastBuildDate>
     <item>
       <title>AwkwardYeti: Pay Day</title>
       <link>https://theawkwardyeti.com/comic/pay-day/?utm_source=rss&utm_medium=rss&utm_campaign=pay-day</link>
@@ -60,6 +60,13 @@
 </p>Click Linktr.ee/theawkwardyeti to support my work on Patreon or check out my newest book</description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19372</guid>
       <pubDate>Mon, 21 Aug 2023 18:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Circuit Symbols</title>
+      <link>https://xkcd.com/2818/</link>
+      <description><img src="https://imgs.xkcd.com/comics/circuit_symbols.png" title="A circle with an A in it means that the circuit has committed a sin and has been marked as punishment." alt="A circle with an A in it means that the circuit has committed a sin and has been marked as punishment." /></description>
+      <guid>https://xkcd.com/2818/</guid>
+      <pubDate>Mon, 21 Aug 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 908 - Sweet Prince</title>
@@ -194,13 +201,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6537134340918560421</guid>
       <pubDate>Fri, 11 Aug 2023 14:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Perseids Pronunciation</title>
-      <link>https://xkcd.com/2814/</link>
-      <description><img src="https://imgs.xkcd.com/comics/perseids_pronunciation.png" title="When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)" alt="When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)" /></description>
-      <guid>https://xkcd.com/2814/</guid>
-      <pubDate>Fri, 11 Aug 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 905 - Drink</title>
