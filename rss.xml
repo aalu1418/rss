@@ -3,8 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 23 Aug 2023 12:20:26 +0000</pubDate>
-    <lastBuildDate>Wed, 23 Aug 2023 12:20:26 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Aug 2023 00:47:54 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Aug 2023 00:47:54 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: How my pets see me</title>
+      <link>http://theoatmeal.com/blog/how_pets_see_me?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/blog/how_pets_see_me?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/how_pets_see_me_big.png" alt="How my pets see me" class="border0" /></a><p>I created a little animation about how I see my pets versus how they see me. </p><a href="http://theoatmeal.com/blog/how_pets_see_me?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Wed, 23 Aug 2023 17:39:22 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Pronunciation</title>
+      <link>https://xkcd.com/2819/</link>
+      <description><img src="https://imgs.xkcd.com/comics/pronunciation.png" title="I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'." alt="I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'." /></description>
+      <guid>https://xkcd.com/2819/</guid>
+      <pubDate>Wed, 23 Aug 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 909 - Beep</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-909-beep/viewer?title_no=352&episode_no=909</link>
@@ -156,13 +169,6 @@
       <link>http://theoatmeal.com/blog/animated_shorts?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/animated_shorts?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/animated_shorts_big.png" alt="I made some animated shorts" class="border0" /></a><p>Watch the very first Oatmeal cartoons.</p><a href="http://theoatmeal.com/blog/animated_shorts?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 14 Aug 2023 17:49:37 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Car Wash</title>
-      <link>https://xkcd.com/2815/</link>
-      <description><img src="https://imgs.xkcd.com/comics/car_wash.png" title="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." alt="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." /></description>
-      <guid>https://xkcd.com/2815/</guid>
-      <pubDate>Mon, 14 Aug 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 906 -  No Secret</title>
@@ -1020,12 +1026,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2022/253-ai-care.png" alt="AI Care" title="Everybody asks how the AI is behaving but nobody asks how AI is feeling!" /></p></description>
       <guid>https://www.monkeyuser.com/2022/ai-care/</guid>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Watching movies with subtitles on</title>
-      <link>http://theoatmeal.com/comics/subtitles?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/subtitles?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/subtitles_big.png" alt="Watching movies with subtitles on" class="border0" /></a><p>A comic about watching movies with subtitles.</p><a href="http://theoatmeal.com/comics/subtitles?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Mon, 10 Oct 2022 20:24:04 +0100</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: Open Season</title>
@@ -2289,17 +2289,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
