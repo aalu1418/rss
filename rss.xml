@@ -3,8 +3,24 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 28 Aug 2023 00:50:06 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2023 00:50:06 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2023 06:14:23 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2023 06:14:23 +0000</lastBuildDate>
+    <item>
+      <title>SafelyEndangered: Ep. 910 - The Pooture</title>
+      <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-910-the-pooture/viewer?title_no=352&episode_no=910</link>
+      <description>
+			
+			
+			
+			<a href="https://www.webtoons.com/en/comedy/safely-endangered/ep-910-the-pooture/viewer?title_no=352&episode_no=910">
+			
+			
+			<img src="https://swebtoon-phinf.pstatic.net/20230828_154/1693149360995RteWm_JPEG/16931493609817137_910_01.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/><img src="https://swebtoon-phinf.pstatic.net/20230828_98/16931493610382dTJU_JPEG/16931493610182745_910_02.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			</description>
+      <pubDate>Mon, 28 Aug 2023 01:01:33 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Actual Location</title>
       <link>http://www.itchyfeetcomic.com/2023/08/actual-location.html</link>
@@ -623,22 +639,6 @@
 			
 			</description>
       <pubDate>Wed, 21 Jun 2023 01:01:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>SafelyEndangered: Ep. 890 - Side Quests</title>
-      <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-890-side-quests/viewer?title_no=352&episode_no=890</link>
-      <description>
-			
-			
-			
-			<a href="https://www.webtoons.com/en/comedy/safely-endangered/ep-890-side-quests/viewer?title_no=352&episode_no=890">
-			
-			
-			<img src="https://swebtoon-phinf.pstatic.net/20230607_242/1686146388151f3c2p_JPEG/16861463881382703_890_01.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/><img src="https://swebtoon-phinf.pstatic.net/20230607_132/1686146388182r07UN_JPEG/16861463881578539_890_02.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			</description>
-      <pubDate>Mon, 19 Jun 2023 01:01:06 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Streets Smart</title>
@@ -1784,17 +1784,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3181,17 +3181,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3218,17 +3218,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
