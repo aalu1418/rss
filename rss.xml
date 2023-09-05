@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 04 Sep 2023 18:13:04 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2023 18:13:04 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Sep 2023 00:48:36 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2023 00:48:36 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Abstract Pickup</title>
+      <link>https://xkcd.com/2824/</link>
+      <description><img src="https://imgs.xkcd.com/comics/abstract_pickup.png" title="Escape Artist Frees Self From Conversation With Pickup Artist" alt="Escape Artist Frees Self From Conversation With Pickup Artist" /></description>
+      <guid>https://xkcd.com/2824/</guid>
+      <pubDate>Mon, 04 Sep 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 912 - The Telephone</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-912-the-telephone/viewer?title_no=352&episode_no=912</link>
@@ -117,13 +124,6 @@
 </p>Click Linktr.ee/theawkwardyeti to support my work on Patreon or check out my newest book</description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19398</guid>
       <pubDate>Fri, 25 Aug 2023 21:29:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Inspiration</title>
-      <link>https://xkcd.com/2820/</link>
-      <description><img src="https://imgs.xkcd.com/comics/inspiration.png" title="An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious." alt="An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious." /></description>
-      <guid>https://xkcd.com/2820/</guid>
-      <pubDate>Fri, 25 Aug 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Laughing Matter (REMASTER)</title>
