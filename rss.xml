@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 06 Sep 2023 18:13:46 +0000</pubDate>
-    <lastBuildDate>Wed, 06 Sep 2023 18:13:46 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Sep 2023 00:48:56 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2023 00:48:56 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Autumn and Fall</title>
+      <link>https://xkcd.com/2825/</link>
+      <description><img src="https://imgs.xkcd.com/comics/autumn_and_fall.png" title="Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season." alt="Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season." /></description>
+      <guid>https://xkcd.com/2825/</guid>
+      <pubDate>Wed, 06 Sep 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 913 - Circle World</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-913-circle-world/viewer?title_no=352&episode_no=913</link>
@@ -94,13 +101,6 @@
 			
 			</description>
       <pubDate>Wed, 30 Aug 2023 01:01:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Path Minimization</title>
-      <link>https://xkcd.com/2821/</link>
-      <description><img src="https://imgs.xkcd.com/comics/path_minimization.png" title="Of course you get an ice cream cone for the swimmer too! You're not a monster." alt="Of course you get an ice cream cone for the swimmer too! You're not a monster." /></description>
-      <guid>https://xkcd.com/2821/</guid>
-      <pubDate>Mon, 28 Aug 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 910 - The Pooture</title>
