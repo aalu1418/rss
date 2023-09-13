@@ -3,8 +3,24 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 13 Sep 2023 00:50:49 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Sep 2023 00:50:49 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 06:14:36 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 06:14:36 +0000</lastBuildDate>
+    <item>
+      <title>SafelyEndangered: Ep 915 - Afterlife</title>
+      <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-915-afterlife/viewer?title_no=352&episode_no=915</link>
+      <description>
+			
+			
+			
+			<a href="https://www.webtoons.com/en/comedy/safely-endangered/ep-915-afterlife/viewer?title_no=352&episode_no=915">
+			
+			
+			<img src="https://swebtoon-phinf.pstatic.net/20230913_48/1694559217438XXHbJ_JPEG/16945592174144005_915_01.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/><img src="https://swebtoon-phinf.pstatic.net/20230913_116/16945592174704lXVV_JPEG/1694559217436268_915_02.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/>
+			</a><br/>
+			
+			</description>
+      <pubDate>Wed, 13 Sep 2023 01:01:24 +0000</pubDate>
+    </item>
     <item>
       <title>AwkwardYeti: Admission</title>
       <link>https://theawkwardyeti.com/comic/admission/?utm_source=rss&utm_medium=rss&utm_campaign=admission</link>
@@ -629,22 +645,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7837391811004045337</guid>
       <pubDate>Thu, 06 Jul 2023 19:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SafelyEndangered: Ep. 895 - Two Kinds</title>
-      <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-895-two-kinds/viewer?title_no=352&episode_no=895</link>
-      <description>
-			
-			
-			
-			<a href="https://www.webtoons.com/en/comedy/safely-endangered/ep-895-two-kinds/viewer?title_no=352&episode_no=895">
-			
-			
-			<img src="https://swebtoon-phinf.pstatic.net/20230705_95/1688503520106NQoj1_JPEG/16885035200923791_895_01.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/><img src="https://swebtoon-phinf.pstatic.net/20230705_34/1688503520085Q8YYy_JPEG/1688503520064325_895_02.jpg" border=0 style="padding: 0px;display:block;margin:0px;"/>
-			</a><br/>
-			
-			</description>
-      <pubDate>Wed, 05 Jul 2023 01:01:31 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Artificial Unintelligence</title>
@@ -1791,17 +1791,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2296,17 +2296,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3225,17 +3225,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
