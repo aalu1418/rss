@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 13 Sep 2023 12:20:58 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Sep 2023 12:20:58 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Sep 2023 18:13:42 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Sep 2023 18:13:42 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Exoplanet Observation</title>
+      <link>https://xkcd.com/2828/</link>
+      <description><img src="https://imgs.xkcd.com/comics/exoplanet_observation.png" title="NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'" alt="NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'" /></description>
+      <guid>https://xkcd.com/2828/</guid>
+      <pubDate>Wed, 13 Sep 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep 915 - Afterlife</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-915-afterlife/viewer?title_no=352&episode_no=915</link>
@@ -109,13 +116,6 @@
 			
 			</description>
       <pubDate>Wed, 06 Sep 2023 01:01:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Abstract Pickup</title>
-      <link>https://xkcd.com/2824/</link>
-      <description><img src="https://imgs.xkcd.com/comics/abstract_pickup.png" title="Escape Artist Frees Self From Conversation With Pickup Artist" alt="Escape Artist Frees Self From Conversation With Pickup Artist" /></description>
-      <guid>https://xkcd.com/2824/</guid>
-      <pubDate>Mon, 04 Sep 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 912 - The Telephone</title>
@@ -2296,17 +2296,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3188,17 +3188,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
-      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
       <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
       <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
+      <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
