@@ -3,8 +3,22 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 15 Sep 2023 12:20:37 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Sep 2023 12:20:37 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2023 18:13:32 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2023 18:13:32 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Go Big (REMASTER)</title>
+      <link>http://www.itchyfeetcomic.com/2023/09/go-big-remaster.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-4419988740436695225</guid>
+      <pubDate>Fri, 15 Sep 2023 16:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Iceberg Efficiency</title>
+      <link>https://xkcd.com/2829/</link>
+      <description><img src="https://imgs.xkcd.com/comics/iceberg_efficiency.png" title="Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners." alt="Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners." /></description>
+      <guid>https://xkcd.com/2829/</guid>
+      <pubDate>Fri, 15 Sep 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Exoplanet Observation</title>
       <link>https://xkcd.com/2828/</link>
@@ -93,13 +107,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5283841347164011731</guid>
       <pubDate>Thu, 07 Sep 2023 06:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Autumn and Fall</title>
-      <link>https://xkcd.com/2825/</link>
-      <description><img src="https://imgs.xkcd.com/comics/autumn_and_fall.png" title="Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season." alt="Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season." /></description>
-      <guid>https://xkcd.com/2825/</guid>
-      <pubDate>Wed, 06 Sep 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 913 - Circle World</title>
@@ -680,13 +687,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2545615680641958590</guid>
       <pubDate>Thu, 22 Jun 2023 14:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Streets Smart</title>
-      <link>http://www.itchyfeetcomic.com/2023/06/streets-smart.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7370959389098425325</guid>
-      <pubDate>Sun, 18 Jun 2023 05:43:00 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Strong Man</title>
@@ -2296,17 +2296,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
