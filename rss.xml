@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 20 Sep 2023 18:14:22 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2023 18:14:22 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 00:49:54 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 00:49:54 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: xkcd Phone Flip</title>
+      <link>https://xkcd.com/2831/</link>
+      <description><img src="https://imgs.xkcd.com/comics/xkcd_phone_flip.png" title="Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone." alt="Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone." /></description>
+      <guid>https://xkcd.com/2831/</guid>
+      <pubDate>Wed, 20 Sep 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 917 - The Exorcism</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-917-the-exorcism/viewer?title_no=352&episode_no=917</link>
@@ -124,13 +131,6 @@
       <link>http://theoatmeal.com/animations?no_popup=1</link>
       <description><a href="http://theoatmeal.com/animations?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/animations_big.png" alt="I posted some new animations" class="border0" /></a><p>I've posted a couple of new animated cartoons about microwaves, cuddling, and wombats.</p><a href="http://theoatmeal.com/animations?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 11 Sep 2023 21:34:30 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Brassica</title>
-      <link>https://xkcd.com/2827/</link>
-      <description><img src="https://imgs.xkcd.com/comics/brassica.png" title="Sequoia Brussels sprouts are delicious but it's pretty hard to finish one." alt="Sequoia Brussels sprouts are delicious but it's pretty hard to finish one." /></description>
-      <guid>https://xkcd.com/2827/</guid>
-      <pubDate>Mon, 11 Sep 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 914 - Shapes and Sizes</title>
