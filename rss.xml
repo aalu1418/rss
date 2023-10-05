@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 04 Oct 2023 18:14:57 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Oct 2023 18:14:57 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 00:50:47 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2023 00:50:47 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Odyssey</title>
+      <link>https://xkcd.com/2837/</link>
+      <description><img src="https://imgs.xkcd.com/comics/odyssey.png" title="Ugh, it says they attempted delivery but &quot;Nobody was home.&quot;" alt="Ugh, it says they attempted delivery but &quot;Nobody was home.&quot;" /></description>
+      <guid>https://xkcd.com/2837/</guid>
+      <pubDate>Wed, 04 Oct 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 921 - Submarine</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-921-submarine/viewer?title_no=352&episode_no=921</link>
@@ -116,13 +123,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/264-corporate-policy.png" alt="Corporate Policy" title="Productivity Peaks, But At What Cost?" /></p></description>
       <guid>https://www.monkeyuser.com/2023/corporate-policy/</guid>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Lying</title>
-      <link>https://xkcd.com/2833/</link>
-      <description><img src="https://imgs.xkcd.com/comics/lying.png" title="I was, at least at the start of this disastrous game night, your friend." alt="I was, at least at the start of this disastrous game night, your friend." /></description>
-      <guid>https://xkcd.com/2833/</guid>
-      <pubDate>Mon, 25 Sep 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 918 - Fight</title>
@@ -1819,17 +1819,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2324,17 +2324,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
