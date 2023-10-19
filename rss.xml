@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 19 Oct 2023 00:50:57 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Oct 2023 00:50:57 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2023 06:15:16 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2023 06:15:16 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Professional Oaths</title>
+      <link>https://xkcd.com/2843/</link>
+      <description><img src="https://imgs.xkcd.com/comics/professional_oaths.png" title="Interpretations of the Hermeneutic Oath differ." alt="Interpretations of the Hermeneutic Oath differ." /></description>
+      <guid>https://xkcd.com/2843/</guid>
+      <pubDate>Wed, 18 Oct 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 925 - Minority Retort</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-925-minority-retort/viewer?title_no=352&episode_no=925</link>
@@ -109,13 +116,6 @@
 </p>Click Linktr.ee/theawkwardyeti to support my work on Patreon or check out my newest book</description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19427</guid>
       <pubDate>Mon, 09 Oct 2023 20:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Language Acquisition</title>
-      <link>https://xkcd.com/2839/</link>
-      <description><img src="https://imgs.xkcd.com/comics/language_acquisition.png" title="My first words were 'These were my first words; what were yours?'" alt="My first words were 'These were my first words; what were yours?'" /></description>
-      <guid>https://xkcd.com/2839/</guid>
-      <pubDate>Mon, 09 Oct 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep 922 - Prison Break</title>
@@ -2338,17 +2338,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
