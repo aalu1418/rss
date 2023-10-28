@@ -3,14 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 27 Oct 2023 18:13:42 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2023 18:13:42 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Oct 2023 00:48:38 +0000</pubDate>
+    <lastBuildDate>Sat, 28 Oct 2023 00:48:38 +0000</lastBuildDate>
     <item>
       <title>ItchyFeet: Päätökset, päätökset (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/10/paatokset-paatokset-remaster.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3379044534952746820</guid>
       <pubDate>Fri, 27 Oct 2023 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Dendrochronology</title>
+      <link>https://xkcd.com/2847/</link>
+      <description><img src="https://imgs.xkcd.com/comics/dendrochronology.png" title="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." alt="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." /></description>
+      <guid>https://xkcd.com/2847/</guid>
+      <pubDate>Fri, 27 Oct 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Daylight Saving Choice</title>
@@ -85,13 +92,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1867120498141288872</guid>
       <pubDate>Thu, 19 Oct 2023 11:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Professional Oaths</title>
-      <link>https://xkcd.com/2843/</link>
-      <description><img src="https://imgs.xkcd.com/comics/professional_oaths.png" title="Interpretations of the Hermeneutic Oath differ." alt="Interpretations of the Hermeneutic Oath differ." /></description>
-      <guid>https://xkcd.com/2843/</guid>
-      <pubDate>Wed, 18 Oct 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 925 - Minority Retort</title>
@@ -3274,17 +3274,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
