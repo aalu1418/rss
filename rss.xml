@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 01 Nov 2023 12:21:18 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2023 12:21:18 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 18:14:21 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 18:14:21 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Under the Stars</title>
+      <link>https://xkcd.com/2849/</link>
+      <description><img src="https://imgs.xkcd.com/comics/under_the_stars.png" title="If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm." alt="If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm." /></description>
+      <guid>https://xkcd.com/2849/</guid>
+      <pubDate>Wed, 01 Nov 2023 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep 929 - Slice of Life</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-929-slice-of-life/viewer?title_no=352&episode_no=929</link>
@@ -87,13 +94,6 @@
 			
 			</description>
       <pubDate>Wed, 25 Oct 2023 01:01:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Extinction Mechanisms</title>
-      <link>https://xkcd.com/2845/</link>
-      <description><img src="https://imgs.xkcd.com/comics/extinction_mechanisms.png" title="The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment." alt="The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment." /></description>
-      <guid>https://xkcd.com/2845/</guid>
-      <pubDate>Mon, 23 Oct 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 926 - Nigel</title>
@@ -3274,17 +3274,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: How Project Managers Are Seen By</title>
-      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Heisenbug</title>
       <link>https://www.monkeyuser.com/2016/heisenbug/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
       <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: How Project Managers Are Seen By</title>
+      <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
