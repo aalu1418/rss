@@ -3,14 +3,28 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 03 Nov 2023 18:14:18 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 18:14:18 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Nov 2023 00:50:42 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Nov 2023 00:50:42 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Busy</title>
+      <link>https://theodd1sout.com/blogs/comics/busy</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/busy</guid>
+      <pubDate>Fri, 03 Nov 2023 18:53:27 +0000</pubDate>
+    </item>
     <item>
       <title>Odd1sout: Headless Horseman</title>
       <link>https://theodd1sout.com/blogs/comics/headless-horseman</link>
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/headless-horseman</guid>
       <pubDate>Fri, 03 Nov 2023 16:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Doctor's Office</title>
+      <link>https://xkcd.com/2850/</link>
+      <description><img src="https://imgs.xkcd.com/comics/doctors_office.png" title="&quot;The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say.&quot;" alt="&quot;The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say.&quot;" /></description>
+      <guid>https://xkcd.com/2850/</guid>
+      <pubDate>Fri, 03 Nov 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Varied Welcome</title>
@@ -85,13 +99,6 @@
       <description><img src="https://imgs.xkcd.com/comics/dendrochronology.png" title="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." alt="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." /></description>
       <guid>https://xkcd.com/2847/</guid>
       <pubDate>Fri, 27 Oct 2023 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Daylight Saving Choice</title>
-      <link>https://xkcd.com/2846/</link>
-      <description><img src="https://imgs.xkcd.com/comics/daylight_saving_choice.png" title="I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round." alt="I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round." /></description>
-      <guid>https://xkcd.com/2846/</guid>
-      <pubDate>Wed, 25 Oct 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 927 - The Man Who Doesn't Realise His Roommate is a Vampire 6</title>
@@ -1847,17 +1854,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
