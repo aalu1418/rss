@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 12 Nov 2023 06:13:35 +0000</pubDate>
-    <lastBuildDate>Sun, 12 Nov 2023 06:13:35 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Nov 2023 12:19:19 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2023 12:19:19 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Zoning Out</title>
+      <link>http://www.itchyfeetcomic.com/2023/11/zoning-out.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1549322846571311967</guid>
+      <pubDate>Sun, 12 Nov 2023 12:15:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: The teaser trailer for my Exploding Kittens Netflix series just dropped!</title>
       <link>http://theoatmeal.com/blog/netflix_trailer1?no_popup=1</link>
@@ -26,7 +33,7 @@
       <pubDate>Fri, 10 Nov 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ItchyFeet: Medical Oversight</title>
+      <title>ItchyFeet: Medical Oversight (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/11/medical-oversight.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6135644153713116186</guid>
@@ -702,13 +709,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/chips-1</guid>
       <pubDate>Fri, 18 Aug 2023 18:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Palm Grease (REMASTER)</title>
-      <link>http://www.itchyfeetcomic.com/2023/08/palm-grease-remaster.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-4181133011647251130</guid>
-      <pubDate>Thu, 17 Aug 2023 19:53:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: I made some animated shorts</title>
@@ -2366,17 +2366,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3295,17 +3295,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
