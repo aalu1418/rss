@@ -3,8 +3,14 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 11 Nov 2023 18:12:50 +0000</pubDate>
-    <lastBuildDate>Sat, 11 Nov 2023 18:12:50 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Nov 2023 00:55:24 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2023 00:55:24 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: The teaser trailer for my Exploding Kittens Netflix series just dropped!</title>
+      <link>http://theoatmeal.com/blog/netflix_trailer1?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/blog/netflix_trailer1?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/netflix_trailer1_big.png" alt="The teaser trailer for my Exploding Kittens Netflix series just dropped!" class="border0" /></a><p>After four years of work, I am finally sharing one minute of glorious footage!</p><a href="http://theoatmeal.com/blog/netflix_trailer1?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Sat, 11 Nov 2023 21:33:42 +0100</pubDate>
+    </item>
     <item>
       <title>Odd1sout: November 1st</title>
       <link>https://theodd1sout.com/blogs/comics/november-1st</link>
@@ -1083,12 +1089,6 @@
       <description></description>
       <guid>https://persnicketypets.com/blogs/the-persnickety-pets/costumes</guid>
       <pubDate>Mon, 31 Oct 2022 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Taking selfies from various angles</title>
-      <link>http://theoatmeal.com/comics/selfie_angles?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/selfie_angles?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/selfie_angles_big.png" alt="Taking selfies from various angles" class="border0" /></a><p>No one out-pizzas the Keith</p><a href="http://theoatmeal.com/comics/selfie_angles?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Wed, 26 Oct 2022 16:35:30 +0100</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: Beauty Routine</title>
@@ -2366,17 +2366,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
