@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 13 Nov 2023 18:14:13 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2023 18:14:13 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2023 00:51:48 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2023 00:51:48 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Date Line</title>
+      <link>https://xkcd.com/2854/</link>
+      <description><img src="https://imgs.xkcd.com/comics/date_line.png" title="They estimate the rocket should be free by approximately ... uh ... well, in about two hours." alt="They estimate the rocket should be free by approximately ... uh ... well, in about two hours." /></description>
+      <guid>https://xkcd.com/2854/</guid>
+      <pubDate>Mon, 13 Nov 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 932 - Stomach Ache</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-932-stomach-ache/viewer?title_no=352&episode_no=932</link>
@@ -121,13 +128,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/headless-horseman</guid>
       <pubDate>Fri, 03 Nov 2023 16:34:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Doctor's Office</title>
-      <link>https://xkcd.com/2850/</link>
-      <description><img src="https://imgs.xkcd.com/comics/doctors_office.png" title="&quot;The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say.&quot;" alt="&quot;The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say.&quot;" /></description>
-      <guid>https://xkcd.com/2850/</guid>
-      <pubDate>Fri, 03 Nov 2023 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Varied Welcome (REMASTER)</title>
@@ -1861,17 +1861,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
