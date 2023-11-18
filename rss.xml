@@ -3,14 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 18 Nov 2023 00:52:42 +0000</pubDate>
-    <lastBuildDate>Sat, 18 Nov 2023 00:52:42 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Nov 2023 06:13:54 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Nov 2023 06:13:54 +0000</lastBuildDate>
     <item>
       <title>ItchyFeet: Le Grand Selecçiòn (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2023/11/le-grand-seleccion-remaster.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3766482236207574324</guid>
       <pubDate>Fri, 17 Nov 2023 15:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Materials Scientists</title>
+      <link>https://xkcd.com/2856/</link>
+      <description><img src="https://imgs.xkcd.com/comics/materials_scientists.png" title="If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork." alt="If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork." /></description>
+      <guid>https://xkcd.com/2856/</guid>
+      <pubDate>Fri, 17 Nov 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Empiricism</title>
@@ -91,13 +98,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6135644153713116186</guid>
       <pubDate>Thu, 09 Nov 2023 13:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Parameterball</title>
-      <link>https://xkcd.com/2852/</link>
-      <description><img src="https://imgs.xkcd.com/comics/parameterball.png" title="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." alt="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." /></description>
-      <guid>https://xkcd.com/2852/</guid>
-      <pubDate>Wed, 08 Nov 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 931 - Question Time</title>
@@ -2366,17 +2366,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
