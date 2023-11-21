@@ -3,8 +3,22 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 20 Nov 2023 18:14:22 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2023 18:14:22 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Nov 2023 00:54:22 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Nov 2023 00:54:22 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Caramel Apple</title>
+      <link>https://theodd1sout.com/blogs/comics/caramel-apple</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/caramel-apple</guid>
+      <pubDate>Mon, 20 Nov 2023 18:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Rebuttals</title>
+      <link>https://xkcd.com/2857/</link>
+      <description><img src="https://imgs.xkcd.com/comics/rebuttals.png" title="The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream." alt="The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream." /></description>
+      <guid>https://xkcd.com/2857/</guid>
+      <pubDate>Mon, 20 Nov 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 934 - Boxed Off</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-934-boxed-off/viewer?title_no=352&episode_no=934</link>
@@ -107,13 +121,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/november-1st</guid>
       <pubDate>Fri, 10 Nov 2023 19:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Redshift</title>
-      <link>https://xkcd.com/2853/</link>
-      <description><img src="https://imgs.xkcd.com/comics/redshift.png" title="So do you have any plans for z=-0.000000000000045?" alt="So do you have any plans for z=-0.000000000000045?" /></description>
-      <guid>https://xkcd.com/2853/</guid>
-      <pubDate>Fri, 10 Nov 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Medical Oversight (REMASTER)</title>
@@ -923,13 +930,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/bereal</guid>
       <pubDate>Fri, 31 Mar 2023 16:17:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odd1sout: WORST GUY YOU KNOW</title>
-      <link>https://theodd1sout.com/blogs/comics/worst-guy-you-know</link>
-      <description></description>
-      <guid>https://theodd1sout.com/blogs/comics/worst-guy-you-know</guid>
-      <pubDate>Fri, 31 Mar 2023 16:16:23 +0000</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: Nocturnal Cat Society</title>
@@ -1861,17 +1861,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Space</title>
-      <link>https://www.monkeyuser.com/2020/open-space/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
-      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Next Level</title>
       <link>https://www.monkeyuser.com/2020/next-level/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
       <guid>https://www.monkeyuser.com/2020/next-level/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Space</title>
+      <link>https://www.monkeyuser.com/2020/open-space/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
+      <guid>https://www.monkeyuser.com/2020/open-space/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
