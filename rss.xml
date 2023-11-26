@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sun, 26 Nov 2023 06:13:58 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Nov 2023 06:13:58 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Nov 2023 12:19:33 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Nov 2023 12:19:33 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: Sight Shield</title>
+      <link>http://www.itchyfeetcomic.com/2023/11/sight-shield.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7967298270055602981</guid>
+      <pubDate>Sun, 26 Nov 2023 12:17:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Oceanography Gift</title>
       <link>https://xkcd.com/2859/</link>
@@ -672,13 +679,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/multiplayer-game</guid>
       <pubDate>Fri, 01 Sep 2023 18:07:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Look Out (REMASTER)</title>
-      <link>http://www.itchyfeetcomic.com/2023/08/look-out-remaster.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8108881304597076967</guid>
-      <pubDate>Thu, 31 Aug 2023 14:03:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: I Go Too</title>
@@ -1861,17 +1861,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
