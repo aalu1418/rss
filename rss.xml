@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 27 Nov 2023 18:14:31 +0000</pubDate>
-    <lastBuildDate>Mon, 27 Nov 2023 18:14:31 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2023 00:54:15 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 00:54:15 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Decay Modes</title>
+      <link>https://xkcd.com/2860/</link>
+      <description><img src="https://imgs.xkcd.com/comics/decay_modes.png" title="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." alt="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." /></description>
+      <guid>https://xkcd.com/2860/</guid>
+      <pubDate>Mon, 27 Nov 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 936 - Zulto</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-936-zulto/viewer?title_no=352&episode_no=936</link>
@@ -108,13 +115,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3766482236207574324</guid>
       <pubDate>Fri, 17 Nov 2023 15:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Materials Scientists</title>
-      <link>https://xkcd.com/2856/</link>
-      <description><img src="https://imgs.xkcd.com/comics/materials_scientists.png" title="If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork." alt="If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork." /></description>
-      <guid>https://xkcd.com/2856/</guid>
-      <pubDate>Fri, 17 Nov 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 933 - Knightmare</title>
