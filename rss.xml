@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 07 Dec 2023 06:15:25 +0000</pubDate>
-    <lastBuildDate>Thu, 07 Dec 2023 06:15:25 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2023 12:21:55 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2023 12:21:55 +0000</lastBuildDate>
+    <item>
+      <title>ItchyFeet: No Mistake (REMASTER)</title>
+      <link>http://www.itchyfeetcomic.com/2023/12/no-mistake-remaster.html</link>
+      <description></description>
+      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3301368554505409700</guid>
+      <pubDate>Thu, 07 Dec 2023 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Compact Graphs</title>
       <link>https://xkcd.com/2864/</link>
@@ -664,13 +671,6 @@
       <link>http://theoatmeal.com/animations?no_popup=1</link>
       <description><a href="http://theoatmeal.com/animations?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/animations_big.png" alt="I posted some new animations" class="border0" /></a><p>I've posted a couple of new animated cartoons about microwaves, cuddling, and wombats.</p><a href="http://theoatmeal.com/animations?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 11 Sep 2023 21:34:30 +0100</pubDate>
-    </item>
-    <item>
-      <title>ItchyFeet: Falso Cognado</title>
-      <link>http://www.itchyfeetcomic.com/2023/09/falso-cognado.html</link>
-      <description></description>
-      <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3768571382229060076</guid>
-      <pubDate>Sun, 10 Sep 2023 10:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: Heroes Just Know</title>
@@ -2373,17 +2373,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
