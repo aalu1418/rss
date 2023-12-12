@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 12 Dec 2023 00:54:24 +0000</pubDate>
-    <lastBuildDate>Tue, 12 Dec 2023 00:54:24 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 06:15:23 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 06:15:23 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Snow</title>
+      <link>https://xkcd.com/2866/</link>
+      <description><img src="https://imgs.xkcd.com/comics/snow.png" title="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." alt="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." /></description>
+      <guid>https://xkcd.com/2866/</guid>
+      <pubDate>Mon, 11 Dec 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 940 - Xmas</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-940-xmas/viewer?title_no=352&episode_no=940</link>
@@ -108,13 +115,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2446407790209963688</guid>
       <pubDate>Fri, 01 Dec 2023 20:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Typical Seating Chart</title>
-      <link>https://xkcd.com/2862/</link>
-      <description><img src="https://imgs.xkcd.com/comics/typical_seating_chart.png" title="Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole." alt="Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole." /></description>
-      <guid>https://xkcd.com/2862/</guid>
-      <pubDate>Fri, 01 Dec 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 937 - Task Complete</title>
