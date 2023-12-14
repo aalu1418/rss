@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 13 Dec 2023 18:13:03 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Dec 2023 18:13:03 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Dec 2023 00:53:15 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2023 00:53:15 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: DateTime</title>
+      <link>https://xkcd.com/2867/</link>
+      <description><img src="https://imgs.xkcd.com/comics/datetime.png" title="It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]" alt="It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]" /></description>
+      <guid>https://xkcd.com/2867/</guid>
+      <pubDate>Wed, 13 Dec 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 941 - Bermuda Triangle</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-941-bermuda-triangle/viewer?title_no=352&episode_no=941</link>
@@ -94,13 +101,6 @@
       <description><p><img src="https://www.monkeyuser.com/assets/images/2023/267-balancing-stick.jpg" alt="Balancing Stick" title="Balancing Stick" /></p></description>
       <guid>https://www.monkeyuser.com/2023/balancing-stick/</guid>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Space Typography</title>
-      <link>https://xkcd.com/2863/</link>
-      <description><img src="https://imgs.xkcd.com/comics/space_typography.png" title="And over heeee[...]eeeere (i)s Saturn." alt="And over heeee[...]eeeere (i)s Saturn." /></description>
-      <guid>https://xkcd.com/2863/</guid>
-      <pubDate>Mon, 04 Dec 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 938 - Catastrophe</title>
