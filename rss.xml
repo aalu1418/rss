@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 20 Dec 2023 18:14:29 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Dec 2023 18:14:29 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Dec 2023 00:52:55 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Dec 2023 00:52:55 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Love Songs</title>
+      <link>https://xkcd.com/2870/</link>
+      <description><img src="https://imgs.xkcd.com/comics/love_songs.png" title="The Piña Colada song carves a trajectory across the chart over the course of the song." alt="The Piña Colada song carves a trajectory across the chart over the course of the song." /></description>
+      <guid>https://xkcd.com/2870/</guid>
+      <pubDate>Wed, 20 Dec 2023 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 943 - The Dark Knight Before Christmas</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-943-the-dark-knight-before-christmas/viewer?title_no=352&episode_no=943</link>
@@ -87,13 +94,6 @@
 			
 			</description>
       <pubDate>Wed, 13 Dec 2023 02:01:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Snow</title>
-      <link>https://xkcd.com/2866/</link>
-      <description><img src="https://imgs.xkcd.com/comics/snow.png" title="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." alt="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." /></description>
-      <guid>https://xkcd.com/2866/</guid>
-      <pubDate>Mon, 11 Dec 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 940 - Xmas</title>
