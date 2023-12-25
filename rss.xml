@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 25 Dec 2023 06:15:20 +0000</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2023 06:15:20 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Dec 2023 12:20:24 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Dec 2023 12:20:24 +0000</lastBuildDate>
     <item>
       <title>SafelyEndangered: Ep. 944 - Merry Christmas!</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-944-merry-christmas/viewer?title_no=352&episode_no=944</link>
@@ -20,6 +20,13 @@
 			
 			</description>
       <pubDate>Mon, 25 Dec 2023 02:01:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Advent Calendar 2023</title>
+      <link>https://www.monkeyuser.com/2023/advent-calendar/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2023/268-advent-calendar.jpeg" alt="Advent Calendar 2023" title="Advent Calendar 2023" /></p></description>
+      <guid>https://www.monkeyuser.com/2023/advent-calendar/</guid>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Pirated Guidance</title>
@@ -2373,17 +2380,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3302,17 +3309,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
