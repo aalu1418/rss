@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 01 Jan 2024 18:14:31 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 18:14:31 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jan 2024 00:52:28 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Jan 2024 00:52:28 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: 2024</title>
+      <link>https://xkcd.com/2875/</link>
+      <description><img src="https://imgs.xkcd.com/comics/2024.png" title="It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth." alt="It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth." /></description>
+      <guid>https://xkcd.com/2875/</guid>
+      <pubDate>Mon, 01 Jan 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 946 - Another Year Over</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-946-another-year-over/viewer?title_no=352&episode_no=946</link>
@@ -122,13 +129,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/santa</guid>
       <pubDate>Fri, 22 Dec 2023 17:35:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Definitely</title>
-      <link>https://xkcd.com/2871/</link>
-      <description><img src="https://imgs.xkcd.com/comics/definitely.png" title="A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard." alt="A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard." /></description>
-      <guid>https://xkcd.com/2871/</guid>
-      <pubDate>Fri, 22 Dec 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Fluency Signal (REMASTER)</title>
