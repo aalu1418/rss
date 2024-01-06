@@ -3,14 +3,28 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 05 Jan 2024 18:14:04 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2024 18:14:04 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Jan 2024 00:53:13 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Jan 2024 00:53:13 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Tail</title>
+      <link>https://theodd1sout.com/blogs/comics/tail</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/tail</guid>
+      <pubDate>Fri, 05 Jan 2024 19:18:37 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Media Alteration (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2024/01/media-alteration-remaster.html</link>
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2393857509620920352</guid>
       <pubDate>Fri, 05 Jan 2024 16:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Fever</title>
+      <link>https://xkcd.com/2877/</link>
+      <description><img src="https://imgs.xkcd.com/comics/fever.png" title="Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star." alt="Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star." /></description>
+      <guid>https://xkcd.com/2877/</guid>
+      <pubDate>Fri, 05 Jan 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Range Safety</title>
@@ -78,13 +92,6 @@
       <description><img src="https://imgs.xkcd.com/comics/iceland.png" title="The HVAC bill for installing the Gulf Stream was enormous." alt="The HVAC bill for installing the Gulf Stream was enormous." /></description>
       <guid>https://xkcd.com/2874/</guid>
       <pubDate>Fri, 29 Dec 2023 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Supersymmetry</title>
-      <link>https://xkcd.com/2873/</link>
-      <description><img src="https://imgs.xkcd.com/comics/supersymmetry.png" title="High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask." alt="High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask." /></description>
-      <guid>https://xkcd.com/2873/</guid>
-      <pubDate>Wed, 27 Dec 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 945 - No Doggity</title>
@@ -937,13 +944,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/garlic-bread</guid>
       <pubDate>Sat, 01 Apr 2023 00:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odd1sout: CHOPSTICKS</title>
-      <link>https://theodd1sout.com/blogs/comics/chopsticks-1</link>
-      <description></description>
-      <guid>https://theodd1sout.com/blogs/comics/chopsticks-1</guid>
-      <pubDate>Fri, 31 Mar 2023 17:15:45 +0000</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: Nocturnal Cat Society</title>
