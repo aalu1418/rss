@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 08 Jan 2024 12:21:57 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2024 12:21:57 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jan 2024 18:15:10 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 18:15:10 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Supernova</title>
+      <link>https://xkcd.com/2878/</link>
+      <description><img src="https://imgs.xkcd.com/comics/supernova.png" title="They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet." alt="They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet." /></description>
+      <guid>https://xkcd.com/2878/</guid>
+      <pubDate>Mon, 08 Jan 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 948 - Plonka</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-948-plonka/viewer?title_no=352&episode_no=948</link>
@@ -108,13 +115,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3296543081196910373</guid>
       <pubDate>Fri, 29 Dec 2023 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Iceland</title>
-      <link>https://xkcd.com/2874/</link>
-      <description><img src="https://imgs.xkcd.com/comics/iceland.png" title="The HVAC bill for installing the Gulf Stream was enormous." alt="The HVAC bill for installing the Gulf Stream was enormous." /></description>
-      <guid>https://xkcd.com/2874/</guid>
-      <pubDate>Fri, 29 Dec 2023 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 945 - No Doggity</title>
@@ -2380,17 +2380,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Happy Flow</title>
-      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: TBD</title>
       <link>https://www.monkeyuser.com/2018/tbd/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
       <guid>https://www.monkeyuser.com/2018/tbd/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Happy Flow</title>
+      <link>https://www.monkeyuser.com/2018/happy-flow/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3272,17 +3272,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
-      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Battle of the JS frameworks in 2016</title>
       <link>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/9-battle-of-js-frameworks.png" alt="JS Frameworks battle: For recruiters" title="JS Frameworks battle" /></p></description>
       <guid>https://www.monkeyuser.com/2016/battle-of-js-frameworks/</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Open Source: Expectation vs. Reality</title>
+      <link>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/10-expectation-vs-reality-open-source.png" alt="Open Source: Expectation vs. Reality" title="Open Source: Expectation vs. Reality" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/open-source-expectation-vs-reality/</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3309,17 +3309,17 @@ Soldiers (in unison): &quot;MERGE!!&quot; Panel 6 A sole onlooker, one of the so
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Heisenbug</title>
-      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
-      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
-      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: How Project Managers Are Seen By</title>
       <link>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2016/7-project-managers.png" alt="ProjectManagers" title="ProjectManagers" /></p></description>
       <guid>https://www.monkeyuser.com/2016/how-project-managers-are-seen-by/</guid>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Heisenbug</title>
+      <link>https://www.monkeyuser.com/2016/heisenbug/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2016/5-heisenbug.png" alt="Heisenbug" title="Heisenbug" /></p></description>
+      <guid>https://www.monkeyuser.com/2016/heisenbug/</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
