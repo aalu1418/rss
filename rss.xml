@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 17 Jan 2024 18:14:57 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2024 18:14:57 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 00:54:15 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2024 00:54:15 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Net Rotations</title>
+      <link>https://xkcd.com/2882/</link>
+      <description><img src="https://imgs.xkcd.com/comics/net_rotations.png" title="For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight." alt="For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight." /></description>
+      <guid>https://xkcd.com/2882/</guid>
+      <pubDate>Wed, 17 Jan 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 950 - Checklist</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-950-checklist/viewer?title_no=352&episode_no=950</link>
@@ -86,13 +93,6 @@
       <description><img src="https://imgs.xkcd.com/comics/like_this_one.png" title="A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'" alt="A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'" /></description>
       <guid>https://xkcd.com/2879/</guid>
       <pubDate>Wed, 10 Jan 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Supernova</title>
-      <link>https://xkcd.com/2878/</link>
-      <description><img src="https://imgs.xkcd.com/comics/supernova.png" title="They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet." alt="They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet." /></description>
-      <guid>https://xkcd.com/2878/</guid>
-      <pubDate>Mon, 08 Jan 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 948 - Plonka</title>
@@ -1882,17 +1882,17 @@
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: Next Level</title>
-      <link>https://www.monkeyuser.com/2020/next-level/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
-      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Open Space</title>
       <link>https://www.monkeyuser.com/2020/open-space/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2020/163-open-space.png" alt="Open Space" title="Big brother is watching!" /></p></description>
       <guid>https://www.monkeyuser.com/2020/open-space/</guid>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: Next Level</title>
+      <link>https://www.monkeyuser.com/2020/next-level/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2020/164-next-level.png" alt="Next Level" title="This can only be fixed with therapy." /></p></description>
+      <guid>https://www.monkeyuser.com/2020/next-level/</guid>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2387,17 +2387,17 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>MonkeyUser: TBD</title>
-      <link>https://www.monkeyuser.com/2018/tbd/</link>
-      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
-      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MonkeyUser: Happy Flow</title>
       <link>https://www.monkeyuser.com/2018/happy-flow/</link>
       <description><p><img src="https://www.monkeyuser.com/assets/images/2018/93-happy-flow.png" alt="Happy Flow" title="Happy Flow" /></p></description>
       <guid>https://www.monkeyuser.com/2018/happy-flow/</guid>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MonkeyUser: TBD</title>
+      <link>https://www.monkeyuser.com/2018/tbd/</link>
+      <description><p><img src="https://www.monkeyuser.com/assets/images/2018/94-tbd.png" alt="TBD" title="TBD" /></p></description>
+      <guid>https://www.monkeyuser.com/2018/tbd/</guid>
       <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
