@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 20 Jan 2024 00:54:01 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Jan 2024 00:54:01 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2024 06:14:08 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2024 06:14:08 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Astronaut Guests</title>
+      <link>https://xkcd.com/2883/</link>
+      <description><img src="https://imgs.xkcd.com/comics/astronaut_guests.png" title="They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best." alt="They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best." /></description>
+      <guid>https://xkcd.com/2883/</guid>
+      <pubDate>Fri, 19 Jan 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Drop v Ocean (REMASTER)</title>
       <link>http://www.itchyfeetcomic.com/2024/01/drop-v-ocean-remaster.html</link>
@@ -93,13 +100,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6755411599112499238</guid>
       <pubDate>Thu, 11 Jan 2024 16:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Like This One</title>
-      <link>https://xkcd.com/2879/</link>
-      <description><img src="https://imgs.xkcd.com/comics/like_this_one.png" title="A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'" alt="A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'" /></description>
-      <guid>https://xkcd.com/2879/</guid>
-      <pubDate>Wed, 10 Jan 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 948 - Plonka</title>
