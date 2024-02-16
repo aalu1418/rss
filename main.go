@@ -50,7 +50,7 @@ func main() {
 		fp := gofeed.NewParser()
 		feed, err := fp.ParseURLWithContext(url, ctx)
 		if err != nil {
-			log.Errorf("failed to parse feed (%s): %s", url, err)
+			log.Printf("ERROR: failed to parse feed (%s): %s", url, err)
 			continue
 		}
 		cancel()
