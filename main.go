@@ -21,7 +21,7 @@ const (
 var (
 	urls = map[string]string{
 		"XKCD":             "https://xkcd.com/rss.xml",
-		"MonkeyUser":       "https://www.monkeyuser.com/feed",
+		"MonkeyUser":       "https://www.monkeyuser.com/index.html",
 		"AwkwardYeti":      "https://theawkwardyeti.com/feed/",
 		"ItchyFeet":        "http://www.itchyfeetcomic.com/feeds/posts/default",
 		"TheOatmeal":       "https://theoatmeal.com/feed/rss",
@@ -50,7 +50,8 @@ func main() {
 		fp := gofeed.NewParser()
 		feed, err := fp.ParseURLWithContext(url, ctx)
 		if err != nil {
-			log.Fatalf("failed to parse feed (%s): %s", url, err)
+			log.Errorf("failed to parse feed (%s): %s", url, err)
+			continue
 		}
 		cancel()
 
