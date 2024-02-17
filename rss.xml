@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 17 Feb 2024 00:49:58 +0000</pubDate>
-    <lastBuildDate>Sat, 17 Feb 2024 00:49:58 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Feb 2024 06:13:51 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Feb 2024 06:13:51 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Treasure Chests</title>
+      <link>https://xkcd.com/2895/</link>
+      <description><img src="https://imgs.xkcd.com/comics/treasure_chests.png" title="[earlier] &quot;Your vintage-style handmade chest business is struggling. But I have a plan.&quot;" alt="[earlier] &quot;Your vintage-style handmade chest business is struggling. But I have a plan.&quot;" /></description>
+      <guid>https://xkcd.com/2895/</guid>
+      <pubDate>Fri, 16 Feb 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Research Account</title>
       <link>https://xkcd.com/2894/</link>
@@ -71,13 +78,6 @@
       <description><img src="https://imgs.xkcd.com/comics/banana_prices.png" title="It's a linear extrapolation, Michael. How big could the error be? 10%?" alt="It's a linear extrapolation, Michael. How big could the error be? 10%?" /></description>
       <guid>https://xkcd.com/2892/</guid>
       <pubDate>Fri, 09 Feb 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Log Cabin</title>
-      <link>https://xkcd.com/2891/</link>
-      <description><img src="https://imgs.xkcd.com/comics/log_cabin.png" title="I'm sure the building inspectors will approve my design once they finally manage to escape." alt="I'm sure the building inspectors will approve my design once they finally manage to escape." /></description>
-      <guid>https://xkcd.com/2891/</guid>
-      <pubDate>Wed, 07 Feb 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 956 - It's-a me</title>
