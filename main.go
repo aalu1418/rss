@@ -28,6 +28,7 @@ var (
 		"Odd1sout":         "https://theodd1sout.com/blogs/comics.atom",
 		"PersnicketyPets":  "https://persnicketypets.com/blogs/the-persnickety-pets.atom",
 		"SafelyEndangered": "https://www.webtoons.com/en/comedy/safely-endangered/rss?title_no=352",
+		"PixieAndBrutus":   "https://www.webtoons.com/en/challenge/pixie-and-brutus/rss?title_no=452175",
 	}
 )
 
