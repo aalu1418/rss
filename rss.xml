@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 29 Feb 2024 00:50:11 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Feb 2024 00:50:11 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Feb 2024 06:14:46 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Feb 2024 06:14:46 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Call My Cell</title>
+      <link>https://xkcd.com/2900/</link>
+      <description><img src="https://imgs.xkcd.com/comics/call_my_cell.png" title="'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'" alt="'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'" /></description>
+      <guid>https://xkcd.com/2900/</guid>
+      <pubDate>Wed, 28 Feb 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 962 - Tired-al Wave</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-962-tired-al-wave/viewer?title_no=352&episode_no=962</link>
@@ -103,13 +110,6 @@
 			
 			</description>
       <pubDate>Wed, 21 Feb 2024 02:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Crossword Constructors</title>
-      <link>https://xkcd.com/2896/</link>
-      <description><img src="https://imgs.xkcd.com/comics/crossword_constructors.png" title="Also, we would really appreciate it if you could prominently refer to it as an 'eHit'." alt="Also, we would really appreciate it if you could prominently refer to it as an 'eHit'." /></description>
-      <guid>https://xkcd.com/2896/</guid>
-      <pubDate>Mon, 19 Feb 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 959 - Sherlock Holmes and the Jammie Dodger</title>
