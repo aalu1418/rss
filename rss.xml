@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 01 Mar 2024 18:15:05 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Mar 2024 18:15:05 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Mar 2024 00:49:14 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:49:14 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Geographic Qualifiers</title>
+      <link>https://xkcd.com/2901/</link>
+      <description><img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" title="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" alt="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" /></description>
+      <guid>https://xkcd.com/2901/</guid>
+      <pubDate>Fri, 01 Mar 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Call My Cell</title>
       <link>https://xkcd.com/2900/</link>
@@ -87,13 +94,6 @@
       <description><img src="https://imgs.xkcd.com/comics/orbital_argument.png" title="&quot;Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?&quot; &quot;YES, BUT YOU SHOULDN'T BE!&quot;" alt="&quot;Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?&quot; &quot;YES, BUT YOU SHOULDN'T BE!&quot;" /></description>
       <guid>https://xkcd.com/2898/</guid>
       <pubDate>Fri, 23 Feb 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Light Leap Years</title>
-      <link>https://xkcd.com/2897/</link>
-      <description><img src="https://imgs.xkcd.com/comics/light_leap_years.png" title="When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships." alt="When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships." /></description>
-      <guid>https://xkcd.com/2897/</guid>
-      <pubDate>Wed, 21 Feb 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 960 - Afraid</title>
