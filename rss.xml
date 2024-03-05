@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 04 Mar 2024 18:14:09 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2024 18:14:09 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Mar 2024 00:50:25 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Mar 2024 00:50:25 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Ice Core</title>
+      <link>https://xkcd.com/2902/</link>
+      <description><img src="https://imgs.xkcd.com/comics/ice_core.png" title="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." alt="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." /></description>
+      <guid>https://xkcd.com/2902/</guid>
+      <pubDate>Mon, 04 Mar 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 963 - Ship Happens</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-963-ship-happens/viewer?title_no=352&episode_no=963</link>
@@ -110,13 +117,6 @@
 			She's really good at understanding grumpy. It's like she has practice with somebody or something.
 			</description>
       <pubDate>Fri, 23 Feb 2024 23:39:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Orbital Argument</title>
-      <link>https://xkcd.com/2898/</link>
-      <description><img src="https://imgs.xkcd.com/comics/orbital_argument.png" title="&quot;Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?&quot; &quot;YES, BUT YOU SHOULDN'T BE!&quot;" alt="&quot;Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?&quot; &quot;YES, BUT YOU SHOULDN'T BE!&quot;" /></description>
-      <guid>https://xkcd.com/2898/</guid>
-      <pubDate>Fri, 23 Feb 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 960 - Afraid</title>
