@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 11 Mar 2024 18:14:16 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2024 18:14:16 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2024 00:50:18 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:50:18 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Supergroup</title>
+      <link>https://xkcd.com/2905/</link>
+      <description><img src="https://imgs.xkcd.com/comics/supergroup.png" title="I love their cover of 1,200 Balloons, Dalmatians, and Miles." alt="I love their cover of 1,200 Balloons, Dalmatians, and Miles." /></description>
+      <guid>https://xkcd.com/2905/</guid>
+      <pubDate>Mon, 11 Mar 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 965 - Luigi</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-965-luigi/viewer?title_no=352&episode_no=965</link>
@@ -87,13 +94,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7211842627955208611</guid>
       <pubDate>Sun, 03 Mar 2024 09:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Geographic Qualifiers</title>
-      <link>https://xkcd.com/2901/</link>
-      <description><img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" title="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" alt="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" /></description>
-      <guid>https://xkcd.com/2901/</guid>
-      <pubDate>Fri, 01 Mar 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 962 - Tired-al Wave</title>
