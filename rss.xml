@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 14 Mar 2024 00:50:49 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2024 00:50:49 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Mar 2024 06:14:27 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Mar 2024 06:14:27 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Earth</title>
+      <link>https://xkcd.com/2906/</link>
+      <description><img src="https://imgs.xkcd.com/comics/earth.png" title="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." alt="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." /></description>
+      <guid>https://xkcd.com/2906/</guid>
+      <pubDate>Wed, 13 Mar 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 966 - You can't explane</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-966-you-cant-explane/viewer?title_no=352&episode_no=966</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Wed, 06 Mar 2024 02:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Ice Core</title>
-      <link>https://xkcd.com/2902/</link>
-      <description><img src="https://imgs.xkcd.com/comics/ice_core.png" title="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." alt="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." /></description>
-      <guid>https://xkcd.com/2902/</guid>
-      <pubDate>Mon, 04 Mar 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 963 - Ship Happens</title>
