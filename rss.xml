@@ -3,8 +3,36 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 15 Mar 2024 18:15:02 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Mar 2024 18:15:02 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Mar 2024 00:49:50 +0000</pubDate>
+    <lastBuildDate>Sat, 16 Mar 2024 00:49:50 +0000</lastBuildDate>
+    <item>
+      <title>Odd1sout: Saint Patrick's Day</title>
+      <link>https://theodd1sout.com/blogs/comics/saint-patricks-day</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/saint-patricks-day</guid>
+      <pubDate>Fri, 15 Mar 2024 19:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odd1sout: The Unknown</title>
+      <link>https://theodd1sout.com/blogs/comics/the-unknown</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/the-unknown</guid>
+      <pubDate>Fri, 15 Mar 2024 18:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odd1sout: Live Action Remake</title>
+      <link>https://theodd1sout.com/blogs/comics/live-action-remake</link>
+      <description></description>
+      <guid>https://theodd1sout.com/blogs/comics/live-action-remake</guid>
+      <pubDate>Fri, 15 Mar 2024 18:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Schwa</title>
+      <link>https://xkcd.com/2907/</link>
+      <description><img src="https://imgs.xkcd.com/comics/schwa.png" title="Doug's cousin, the one from London, runs a Bumble love cult." alt="Doug's cousin, the one from London, runs a Bumble love cult." /></description>
+      <guid>https://xkcd.com/2907/</guid>
+      <pubDate>Fri, 15 Mar 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PixieAndBrutus: Wild Animal</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/wild-animal/viewer?title_no=452175&episode_no=154</link>
@@ -80,13 +108,6 @@
       <description><img src="https://imgs.xkcd.com/comics/physics_vs_magic.png" title="'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian." alt="'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian." /></description>
       <guid>https://xkcd.com/2904/</guid>
       <pubDate>Fri, 08 Mar 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Earth/Venus Venn Diagram</title>
-      <link>https://xkcd.com/2903/</link>
-      <description><img src="https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png" title="Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one." alt="Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one." /></description>
-      <guid>https://xkcd.com/2903/</guid>
-      <pubDate>Wed, 06 Mar 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep 964 - Kaijoops</title>
@@ -1107,13 +1128,6 @@
       <pubDate>Fri, 26 May 2023 17:33:56 +0000</pubDate>
     </item>
     <item>
-      <title>Odd1sout: Bigfoot</title>
-      <link>https://theodd1sout.com/blogs/comics/bigfoot</link>
-      <description></description>
-      <guid>https://theodd1sout.com/blogs/comics/bigfoot</guid>
-      <pubDate>Fri, 19 May 2023 18:26:11 +0000</pubDate>
-    </item>
-    <item>
       <title>PixieAndBrutus: The Long Story Part 3</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/the-long-story-part-3/viewer?title_no=452175&episode_no=137</link>
       <description>
@@ -1146,13 +1160,6 @@
       <pubDate>Sat, 13 May 2023 15:19:59 +0000</pubDate>
     </item>
     <item>
-      <title>Odd1sout: Play Fetch</title>
-      <link>https://theodd1sout.com/blogs/comics/play-fetch</link>
-      <description></description>
-      <guid>https://theodd1sout.com/blogs/comics/play-fetch</guid>
-      <pubDate>Fri, 12 May 2023 18:13:17 +0000</pubDate>
-    </item>
-    <item>
       <title>PixieAndBrutus: The Long Story Part 1</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/the-long-story-part-1/viewer?title_no=452175&episode_no=135</link>
       <description>
@@ -1167,13 +1174,6 @@
 			Here's the first part of a multi-part story. Stay tuned!
 			</description>
       <pubDate>Sun, 07 May 2023 20:49:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odd1sout: Mailman</title>
-      <link>https://theodd1sout.com/blogs/comics/mailman</link>
-      <description></description>
-      <guid>https://theodd1sout.com/blogs/comics/mailman</guid>
-      <pubDate>Fri, 05 May 2023 18:52:32 +0000</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: A Special Treat</title>
