@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 20 Mar 2024 12:20:07 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Mar 2024 12:20:07 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2024 18:13:43 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2024 18:13:43 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Moon Landing Mission Profiles</title>
+      <link>https://xkcd.com/2909/</link>
+      <description><img src="https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png" title="If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder." alt="If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder." /></description>
+      <guid>https://xkcd.com/2909/</guid>
+      <pubDate>Wed, 20 Mar 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep 968 - #1 DAD</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-968-1-dad/viewer?title_no=352&episode_no=968</link>
@@ -117,13 +124,6 @@
 			
 			</description>
       <pubDate>Wed, 13 Mar 2024 01:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Supergroup</title>
-      <link>https://xkcd.com/2905/</link>
-      <description><img src="https://imgs.xkcd.com/comics/supergroup.png" title="I love their cover of 1,200 Balloons, Dalmatians, and Miles." alt="I love their cover of 1,200 Balloons, Dalmatians, and Miles." /></description>
-      <guid>https://xkcd.com/2905/</guid>
-      <pubDate>Mon, 11 Mar 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 965 - Luigi</title>
