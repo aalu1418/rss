@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 22 Mar 2024 06:14:24 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Mar 2024 06:14:24 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Mar 2024 12:20:21 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Mar 2024 12:20:21 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: The Wreck of the Edmund Fitzgerald</title>
+      <link>https://xkcd.com/2910/</link>
+      <description><img src="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png" title="You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!" alt="You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!" /></description>
+      <guid>https://xkcd.com/2910/</guid>
+      <pubDate>Fri, 22 Mar 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Moon Landing Mission Profiles</title>
       <link>https://xkcd.com/2909/</link>
@@ -101,13 +108,6 @@
 			
 			</description>
       <pubDate>Thu, 14 Mar 2024 14:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Earth</title>
-      <link>https://xkcd.com/2906/</link>
-      <description><img src="https://imgs.xkcd.com/comics/earth.png" title="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." alt="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." /></description>
-      <guid>https://xkcd.com/2906/</guid>
-      <pubDate>Wed, 13 Mar 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 966 - You can't explane</title>
