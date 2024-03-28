@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 27 Mar 2024 18:15:04 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Mar 2024 18:15:04 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Mar 2024 00:51:31 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:51:31 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Cursive Letters</title>
+      <link>https://xkcd.com/2912/</link>
+      <description><img src="https://imgs.xkcd.com/comics/cursive_letters.png" title="𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻." alt="𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻." /></description>
+      <guid>https://xkcd.com/2912/</guid>
+      <pubDate>Wed, 27 Mar 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 970 - Metasquad</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-970-metasquad/viewer?title_no=352&episode_no=970</link>
@@ -93,13 +100,6 @@
 			
 			</description>
       <pubDate>Wed, 20 Mar 2024 01:02:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Moon Armor Index</title>
-      <link>https://xkcd.com/2908/</link>
-      <description><img src="https://imgs.xkcd.com/comics/moon_armor_index.png" title="Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor." alt="Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor." /></description>
-      <guid>https://xkcd.com/2908/</guid>
-      <pubDate>Mon, 18 Mar 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 967 - I choose me</title>
