@@ -29,6 +29,7 @@ var (
 		"PersnicketyPets":  "https://persnicketypets.com/blogs/the-persnickety-pets.atom",
 		"SafelyEndangered": "https://www.webtoons.com/en/comedy/safely-endangered/rss?title_no=352",
 		"PixieAndBrutus":   "https://www.webtoons.com/en/challenge/pixie-and-brutus/rss?title_no=452175",
+		"LovingReaper":     "https://www.webtoons.com/en/challenge/loving-reaper/rss?title_no=353275",
 	}
 )
 
