@@ -3,14 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 02 Apr 2024 00:54:00 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2024 00:54:00 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Apr 2024 06:14:58 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2024 06:14:58 +0000</lastBuildDate>
     <item>
       <title>Odd1sout: Deviled Eggs</title>
       <link>https://theodd1sout.com/blogs/comics/deviled-eggs</link>
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/deviled-eggs</guid>
       <pubDate>Mon, 01 Apr 2024 23:49:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Eclipse Coolness</title>
+      <link>https://xkcd.com/2914/</link>
+      <description><img src="https://imgs.xkcd.com/comics/eclipse_coolness.png" title="A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky." alt="A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky." /></description>
+      <guid>https://xkcd.com/2914/</guid>
+      <pubDate>Mon, 01 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 971 - Clever Grill</title>
@@ -126,13 +133,6 @@ Thank you so much and especially thank you for your patience :')
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/adderall</guid>
       <pubDate>Fri, 22 Mar 2024 17:53:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: The Wreck of the Edmund Fitzgerald</title>
-      <link>https://xkcd.com/2910/</link>
-      <description><img src="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png" title="You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!" alt="You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!" /></description>
-      <guid>https://xkcd.com/2910/</guid>
-      <pubDate>Fri, 22 Mar 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep 968 - #1 DAD</title>
