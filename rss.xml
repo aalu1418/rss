@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 03 Apr 2024 12:20:25 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Apr 2024 12:20:25 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Apr 2024 18:14:15 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Apr 2024 18:14:15 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Eclipse Clouds</title>
+      <link>https://xkcd.com/2915/</link>
+      <description><img src="https://imgs.xkcd.com/comics/eclipse_clouds.png" title="The rare compound solar-lunar-nephelogical eclipse" alt="The rare compound solar-lunar-nephelogical eclipse" /></description>
+      <guid>https://xkcd.com/2915/</guid>
+      <pubDate>Wed, 03 Apr 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 972 - Spiders</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-972-spiders/viewer?title_no=352&episode_no=972</link>
@@ -112,13 +119,6 @@ Thank you so much and especially thank you for your patience :')
       <link>http://theoatmeal.com/comics/taking_care?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/taking_care?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/taking_care_big.png" alt="Taking care" class="border0" /></a><p>This is a comic about grief, and it's based on a poem by Callista Buchen.</p><a href="http://theoatmeal.com/comics/taking_care?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 25 Mar 2024 15:40:08 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Greenland Size</title>
-      <link>https://xkcd.com/2911/</link>
-      <description><img src="https://imgs.xkcd.com/comics/greenland_size.png" title="The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles." alt="The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles." /></description>
-      <guid>https://xkcd.com/2911/</guid>
-      <pubDate>Mon, 25 Mar 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 969 - Pumped</title>
