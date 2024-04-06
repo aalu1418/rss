@@ -3,14 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 06 Apr 2024 12:19:16 +0000</pubDate>
-    <lastBuildDate>Sat, 06 Apr 2024 12:19:16 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Apr 2024 18:13:11 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Apr 2024 18:13:11 +0000</lastBuildDate>
     <item>
       <title>Odd1sout: Text Them</title>
       <link>https://theodd1sout.com/blogs/comics/text-them</link>
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/text-them</guid>
       <pubDate>Fri, 05 Apr 2024 18:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Machine</title>
+      <link>https://xkcd.com/2916/</link>
+      <description><img src="https://imgs.xkcd.com/comics/machine.png" title="The Credible Machine" alt="The Credible Machine" /></description>
+      <guid>https://xkcd.com/2916/</guid>
+      <pubDate>Fri, 05 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Eclipse Clouds</title>
@@ -97,13 +104,6 @@ Thank you so much and especially thank you for your patience :')
       <description><img src="https://imgs.xkcd.com/comics/periodic_table_regions.png" title="Cesium-133, let it be. Cesium-134, let it be even more." alt="Cesium-133, let it be. Cesium-134, let it be even more." /></description>
       <guid>https://xkcd.com/2913/</guid>
       <pubDate>Fri, 29 Mar 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Cursive Letters</title>
-      <link>https://xkcd.com/2912/</link>
-      <description><img src="https://imgs.xkcd.com/comics/cursive_letters.png" title="𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻." alt="𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻." /></description>
-      <guid>https://xkcd.com/2912/</guid>
-      <pubDate>Wed, 27 Mar 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 970 - Metasquad</title>
