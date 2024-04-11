@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 11 Apr 2024 00:52:20 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2024 00:52:20 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2024 06:15:10 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2024 06:15:10 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Tick Marks</title>
+      <link>https://xkcd.com/2918/</link>
+      <description><img src="https://imgs.xkcd.com/comics/tick_marks.png" title="If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset." alt="If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset." /></description>
+      <guid>https://xkcd.com/2918/</guid>
+      <pubDate>Wed, 10 Apr 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 974 - Snackman</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-974-snackman/viewer?title_no=352&episode_no=974</link>
@@ -100,13 +107,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/deviled-eggs</guid>
       <pubDate>Mon, 01 Apr 2024 23:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Eclipse Coolness</title>
-      <link>https://xkcd.com/2914/</link>
-      <description><img src="https://imgs.xkcd.com/comics/eclipse_coolness.png" title="A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky." alt="A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky." /></description>
-      <guid>https://xkcd.com/2914/</guid>
-      <pubDate>Mon, 01 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 971 - Clever Grill</title>
