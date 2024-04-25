@@ -3,8 +3,14 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 25 Apr 2024 12:17:54 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Apr 2024 12:17:54 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Apr 2024 18:14:49 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:14:49 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: Terrible things are going down</title>
+      <link>http://theoatmeal.com/comics/terrible_things?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/terrible_things?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/terrible_things_big.png" alt="Terrible things are going down" class="border0" /></a><p>Shit hits the fan</p><a href="http://theoatmeal.com/comics/terrible_things?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Thu, 25 Apr 2024 18:13:04 +0100</pubDate>
+    </item>
     <item>
       <title>XKCD: Pendulum Types</title>
       <link>https://xkcd.com/2924/</link>
@@ -1462,13 +1468,6 @@ Have a nice and colorful Easter 😊
       <description></description>
       <guid>https://persnicketypets.com/blogs/the-persnickety-pets/yucky-part-2</guid>
       <pubDate>Mon, 16 Jan 2023 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Horrible Therapist - Random Comic Generator</title>
-      <link>http://theoatmeal.com/therapist?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/therapist?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/horrible_therapist_big.png" alt="Horrible Therapist - Random Comic Generator" class="border0" /></a><p>The images here are picked randomly, so they might be nonsensical and/or terrible. 
-</p><a href="http://theoatmeal.com/therapist?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Mon, 09 Jan 2023 21:09:46 +0100</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: Cookie Fiends</title>
