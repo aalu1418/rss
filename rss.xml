@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 26 Apr 2024 12:21:07 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 12:21:07 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 18:14:12 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:14:12 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Earth Formation Site</title>
+      <link>https://xkcd.com/2925/</link>
+      <description><img src="https://imgs.xkcd.com/comics/earth_formation_site.png" title="It's not far from the sign marking the exact latitude and longitude of the Earth's core." alt="It's not far from the sign marking the exact latitude and longitude of the Earth's core." /></description>
+      <guid>https://xkcd.com/2925/</guid>
+      <pubDate>Fri, 26 Apr 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: Terrible things are going down</title>
       <link>http://theoatmeal.com/comics/terrible_things?no_popup=1</link>
@@ -86,13 +93,6 @@
 			
 			</description>
       <pubDate>Thu, 18 Apr 2024 16:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Eclipse Path Maps</title>
-      <link>https://xkcd.com/2921/</link>
-      <description><img src="https://imgs.xkcd.com/comics/eclipse_path_maps.png" title="Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot..." alt="Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot..." /></description>
-      <guid>https://xkcd.com/2921/</guid>
-      <pubDate>Wed, 17 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 976 - CD-ROMance</title>
