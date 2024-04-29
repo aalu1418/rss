@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 29 Apr 2024 12:22:11 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2024 12:22:11 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2024 18:14:56 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:14:56 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Doppler Effect</title>
+      <link>https://xkcd.com/2926/</link>
+      <description><img src="https://imgs.xkcd.com/comics/doppler_effect.png" title="The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red." alt="The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red." /></description>
+      <guid>https://xkcd.com/2926/</guid>
+      <pubDate>Mon, 29 Apr 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 979 - Watch it</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-979-watch-it/viewer?title_no=352&episode_no=979</link>
@@ -93,13 +100,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3742971180863271839</guid>
       <pubDate>Sun, 21 Apr 2024 11:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Pub Trivia</title>
-      <link>https://xkcd.com/2922/</link>
-      <description><img src="https://imgs.xkcd.com/comics/pub_trivia.png" title="Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or 'the EU') (e) Greater London" alt="Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or 'the EU') (e) Greater London" /></description>
-      <guid>https://xkcd.com/2922/</guid>
-      <pubDate>Fri, 19 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PixieAndBrutus: Critical Thinking</title>
