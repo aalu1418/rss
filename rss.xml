@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 01 May 2024 12:22:09 +0000</pubDate>
-    <lastBuildDate>Wed, 01 May 2024 12:22:09 +0000</lastBuildDate>
+    <pubDate>Wed, 01 May 2024 18:15:18 +0000</pubDate>
+    <lastBuildDate>Wed, 01 May 2024 18:15:18 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Alphabetical Cartogram</title>
+      <link>https://xkcd.com/2927/</link>
+      <description><img src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png" title="Poor Weeoming." alt="Poor Weeoming." /></description>
+      <guid>https://xkcd.com/2927/</guid>
+      <pubDate>Wed, 01 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep 980 - Nightclub</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-980-nightclub/viewer?title_no=352&episode_no=980</link>
@@ -86,13 +93,6 @@
 			
 			</description>
       <pubDate>Wed, 24 Apr 2024 01:02:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Scary Triangles</title>
-      <link>https://xkcd.com/2923/</link>
-      <description><img src="https://imgs.xkcd.com/comics/scary_triangles.png" title="Concealed mostly beneath the surface, sharks are the icebergs of the sea." alt="Concealed mostly beneath the surface, sharks are the icebergs of the sea." /></description>
-      <guid>https://xkcd.com/2923/</guid>
-      <pubDate>Mon, 22 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 977 - Brightest</title>
