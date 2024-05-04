@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 04 May 2024 00:52:49 +0000</pubDate>
-    <lastBuildDate>Sat, 04 May 2024 00:52:49 +0000</lastBuildDate>
+    <pubDate>Sat, 04 May 2024 06:15:16 +0000</pubDate>
+    <lastBuildDate>Sat, 04 May 2024 06:15:16 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Software Testing Day</title>
+      <link>https://xkcd.com/2928/</link>
+      <description><img src="https://imgs.xkcd.com/comics/software_testing_day.png" title="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." alt="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." /></description>
+      <guid>https://xkcd.com/2928/</guid>
+      <pubDate>Fri, 03 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Alphabetical Cartogram</title>
       <link>https://xkcd.com/2927/</link>
@@ -70,13 +77,6 @@
       <link>http://theoatmeal.com/comics/terrible_things?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/terrible_things?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/terrible_things_big.png" alt="Terrible things are going down" class="border0" /></a><p>Shit hits the fan</p><a href="http://theoatmeal.com/comics/terrible_things?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 25 Apr 2024 18:13:04 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Pendulum Types</title>
-      <link>https://xkcd.com/2924/</link>
-      <description><img src="https://imgs.xkcd.com/comics/pendulum_types.png" title="The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe." alt="The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe." /></description>
-      <guid>https://xkcd.com/2924/</guid>
-      <pubDate>Wed, 24 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 978 - Puppy Pad</title>
