@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 07 May 2024 00:53:37 +0000</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 00:53:37 +0000</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 06:16:28 +0000</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 06:16:28 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Good and Bad Ideas</title>
+      <link>https://xkcd.com/2929/</link>
+      <description><img src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png" title="While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake." alt="While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake." /></description>
+      <guid>https://xkcd.com/2929/</guid>
+      <pubDate>Mon, 06 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 981 - The Wizard and the Frog</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-981-the-wizard-and-the-frog/viewer?title_no=352&episode_no=981</link>
@@ -119,13 +126,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5777948857705126602</guid>
       <pubDate>Sun, 28 Apr 2024 07:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Earth Formation Site</title>
-      <link>https://xkcd.com/2925/</link>
-      <description><img src="https://imgs.xkcd.com/comics/earth_formation_site.png" title="It's not far from the sign marking the exact latitude and longitude of the Earth's core." alt="It's not far from the sign marking the exact latitude and longitude of the Earth's core." /></description>
-      <guid>https://xkcd.com/2925/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: Terrible things are going down</title>
