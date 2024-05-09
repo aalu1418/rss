@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 08 May 2024 18:15:47 +0000</pubDate>
-    <lastBuildDate>Wed, 08 May 2024 18:15:47 +0000</lastBuildDate>
+    <pubDate>Thu, 09 May 2024 00:53:51 +0000</pubDate>
+    <lastBuildDate>Thu, 09 May 2024 00:53:51 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Google Solar Cycle</title>
+      <link>https://xkcd.com/2930/</link>
+      <description><img src="https://imgs.xkcd.com/comics/google_solar_cycle.png" title="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." alt="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." /></description>
+      <guid>https://xkcd.com/2930/</guid>
+      <pubDate>Wed, 08 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 982 - Slynapse</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-982-slynapse/viewer?title_no=352&episode_no=982</link>
@@ -112,13 +119,6 @@
 			
 			</description>
       <pubDate>Wed, 01 May 2024 01:02:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Doppler Effect</title>
-      <link>https://xkcd.com/2926/</link>
-      <description><img src="https://imgs.xkcd.com/comics/doppler_effect.png" title="The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red." alt="The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red." /></description>
-      <guid>https://xkcd.com/2926/</guid>
-      <pubDate>Mon, 29 Apr 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 979 - Watch it</title>
