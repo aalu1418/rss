@@ -3,8 +3,14 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 09 May 2024 18:14:16 +0000</pubDate>
-    <lastBuildDate>Thu, 09 May 2024 18:14:16 +0000</lastBuildDate>
+    <pubDate>Fri, 10 May 2024 00:53:54 +0000</pubDate>
+    <lastBuildDate>Fri, 10 May 2024 00:53:54 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: The full trailer for my Netflix series just dropped!</title>
+      <link>http://theoatmeal.com/blog/netflix_trailer2?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/blog/netflix_trailer2?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/netflix_trailer2_big.png" alt="The full trailer for my Netflix series just dropped!" class="border0" /></a><p></p><a href="http://theoatmeal.com/blog/netflix_trailer2?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Thu, 09 May 2024 18:17:00 +0100</pubDate>
+    </item>
     <item>
       <title>XKCD: Google Solar Cycle</title>
       <link>https://xkcd.com/2930/</link>
@@ -1379,12 +1385,6 @@ And thank you for helping Loving Reaper to grow so much <3
       <description></description>
       <guid>https://persnicketypets.com/blogs/the-persnickety-pets/let-it-fly</guid>
       <pubDate>Mon, 24 Apr 2023 21:23:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: I'm thinking of a word. Try to guess what it is.</title>
-      <link>http://theoatmeal.com/blog/wordy_online?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/blog/wordy_online?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/wordy_online_big.png" alt="I'm thinking of a word. Try to guess what it is." class="border0" /></a><p>I coded a daily word-guessing game.</p><a href="http://theoatmeal.com/blog/wordy_online?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Mon, 17 Apr 2023 14:46:51 +0100</pubDate>
     </item>
     <item>
       <title>PersnicketyPets: Pet Maths</title>
