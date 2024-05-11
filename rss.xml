@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 10 May 2024 18:15:24 +0000</pubDate>
-    <lastBuildDate>Fri, 10 May 2024 18:15:24 +0000</lastBuildDate>
+    <pubDate>Sat, 11 May 2024 00:53:07 +0000</pubDate>
+    <lastBuildDate>Sat, 11 May 2024 00:53:07 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Chasing</title>
+      <link>https://xkcd.com/2931/</link>
+      <description><img src="https://imgs.xkcd.com/comics/chasing.png" title="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." alt="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." /></description>
+      <guid>https://xkcd.com/2931/</guid>
+      <pubDate>Fri, 10 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: The full trailer for my Netflix series just dropped!</title>
       <link>http://theoatmeal.com/blog/netflix_trailer2?no_popup=1</link>
@@ -102,13 +109,6 @@
       <description><img src="https://imgs.xkcd.com/comics/software_testing_day.png" title="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." alt="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." /></description>
       <guid>https://xkcd.com/2928/</guid>
       <pubDate>Fri, 03 May 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Alphabetical Cartogram</title>
-      <link>https://xkcd.com/2927/</link>
-      <description><img src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png" title="Poor Weeoming." alt="Poor Weeoming." /></description>
-      <guid>https://xkcd.com/2927/</guid>
-      <pubDate>Wed, 01 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep 980 - Nightclub</title>
