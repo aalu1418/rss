@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 14 May 2024 00:54:47 +0000</pubDate>
-    <lastBuildDate>Tue, 14 May 2024 00:54:47 +0000</lastBuildDate>
+    <pubDate>Tue, 14 May 2024 06:17:43 +0000</pubDate>
+    <lastBuildDate>Tue, 14 May 2024 06:17:43 +0000</lastBuildDate>
     <item>
       <title>PixieAndBrutus: Santa</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/santa/viewer?title_no=452175&episode_no=157</link>
@@ -20,6 +20,13 @@
 			
 			</description>
       <pubDate>Mon, 13 May 2024 14:53:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Driving PSA</title>
+      <link>https://xkcd.com/2932/</link>
+      <description><img src="https://imgs.xkcd.com/comics/driving_psa.png" title="This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time." alt="This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time." /></description>
+      <guid>https://xkcd.com/2932/</guid>
+      <pubDate>Mon, 13 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 983 - Level Up</title>
@@ -141,13 +148,6 @@
 			
 			</description>
       <pubDate>Sat, 04 May 2024 21:00:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Software Testing Day</title>
-      <link>https://xkcd.com/2928/</link>
-      <description><img src="https://imgs.xkcd.com/comics/software_testing_day.png" title="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." alt="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." /></description>
-      <guid>https://xkcd.com/2928/</guid>
-      <pubDate>Fri, 03 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep 980 - Nightclub</title>
