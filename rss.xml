@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 17 May 2024 18:16:09 +0000</pubDate>
-    <lastBuildDate>Fri, 17 May 2024 18:16:09 +0000</lastBuildDate>
+    <pubDate>Sat, 18 May 2024 00:53:58 +0000</pubDate>
+    <lastBuildDate>Sat, 18 May 2024 00:53:58 +0000</lastBuildDate>
     <item>
       <title>Odd1sout: Cracked Spider</title>
       <link>https://theodd1sout.com/blogs/comics/cracked-spider</link>
@@ -32,6 +32,13 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/minecraft</guid>
       <pubDate>Fri, 17 May 2024 16:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Bloom Filter</title>
+      <link>https://xkcd.com/2934/</link>
+      <description><img src="https://imgs.xkcd.com/comics/bloom_filter.png" title="Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure." alt="Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure." /></description>
+      <guid>https://xkcd.com/2934/</guid>
+      <pubDate>Fri, 17 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Elementary Physics Paths</title>
@@ -114,13 +121,6 @@
       <link>http://theoatmeal.com/blog/netflix_trailer2?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/netflix_trailer2?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/netflix_trailer2_big.png" alt="The full trailer for my Netflix series just dropped!" class="border0" /></a><p></p><a href="http://theoatmeal.com/blog/netflix_trailer2?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 09 May 2024 18:17:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Google Solar Cycle</title>
-      <link>https://xkcd.com/2930/</link>
-      <description><img src="https://imgs.xkcd.com/comics/google_solar_cycle.png" title="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." alt="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." /></description>
-      <guid>https://xkcd.com/2930/</guid>
-      <pubDate>Wed, 08 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 982 - Slynapse</title>
