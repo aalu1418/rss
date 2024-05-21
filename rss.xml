@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 20 May 2024 18:15:23 +0000</pubDate>
-    <lastBuildDate>Mon, 20 May 2024 18:15:23 +0000</lastBuildDate>
+    <pubDate>Tue, 21 May 2024 00:54:52 +0000</pubDate>
+    <lastBuildDate>Tue, 21 May 2024 00:54:52 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Ocean Loop</title>
+      <link>https://xkcd.com/2935/</link>
+      <description><img src="https://imgs.xkcd.com/comics/ocean_loop.png" title="I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop." alt="I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop." /></description>
+      <guid>https://xkcd.com/2935/</guid>
+      <pubDate>Mon, 20 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 985 - Dopamine</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-985-dopamine/viewer?title_no=352&episode_no=985</link>
@@ -131,13 +138,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6067496996511919943</guid>
       <pubDate>Sun, 12 May 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Chasing</title>
-      <link>https://xkcd.com/2931/</link>
-      <description><img src="https://imgs.xkcd.com/comics/chasing.png" title="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." alt="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." /></description>
-      <guid>https://xkcd.com/2931/</guid>
-      <pubDate>Fri, 10 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: The full trailer for my Netflix series just dropped!</title>
