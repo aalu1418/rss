@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 22 May 2024 18:15:55 +0000</pubDate>
-    <lastBuildDate>Wed, 22 May 2024 18:15:55 +0000</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 00:54:40 +0000</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 00:54:40 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Exponential Growth</title>
+      <link>https://xkcd.com/2936/</link>
+      <description><img src="https://imgs.xkcd.com/comics/exponential_growth.png" title="Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end." alt="Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end." /></description>
+      <guid>https://xkcd.com/2936/</guid>
+      <pubDate>Wed, 22 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 986 - Boss Battle</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-986-boss-battle/viewer?title_no=352&episode_no=986</link>
@@ -124,13 +131,6 @@
 			
 			</description>
       <pubDate>Mon, 13 May 2024 14:53:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Driving PSA</title>
-      <link>https://xkcd.com/2932/</link>
-      <description><img src="https://imgs.xkcd.com/comics/driving_psa.png" title="This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time." alt="This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time." /></description>
-      <guid>https://xkcd.com/2932/</guid>
-      <pubDate>Mon, 13 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 983 - Level Up</title>
