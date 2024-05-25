@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 24 May 2024 18:16:05 +0000</pubDate>
-    <lastBuildDate>Fri, 24 May 2024 18:16:05 +0000</lastBuildDate>
+    <pubDate>Sat, 25 May 2024 00:53:55 +0000</pubDate>
+    <lastBuildDate>Sat, 25 May 2024 00:53:55 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Room Code</title>
+      <link>https://xkcd.com/2937/</link>
+      <description><img src="https://imgs.xkcd.com/comics/room_code.png" title="Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018." alt="Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018." /></description>
+      <guid>https://xkcd.com/2937/</guid>
+      <pubDate>Fri, 24 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: JokeBomb - Series One</title>
       <link>http://theoatmeal.com/blog/jokebomb1?no_popup=1</link>
@@ -98,13 +105,6 @@
       <description><img src="https://imgs.xkcd.com/comics/bloom_filter.png" title="Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure." alt="Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure." /></description>
       <guid>https://xkcd.com/2934/</guid>
       <pubDate>Fri, 17 May 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Elementary Physics Paths</title>
-      <link>https://xkcd.com/2933/</link>
-      <description><img src="https://imgs.xkcd.com/comics/elementary_physics_paths.png" title="==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'" alt="==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'" /></description>
-      <guid>https://xkcd.com/2933/</guid>
-      <pubDate>Wed, 15 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 984 - Pokemon Master</title>
