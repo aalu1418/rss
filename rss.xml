@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 27 May 2024 18:15:50 +0000</pubDate>
-    <lastBuildDate>Mon, 27 May 2024 18:15:50 +0000</lastBuildDate>
+    <pubDate>Tue, 28 May 2024 00:55:20 +0000</pubDate>
+    <lastBuildDate>Tue, 28 May 2024 00:55:20 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Local Group</title>
+      <link>https://xkcd.com/2938/</link>
+      <description><img src="https://imgs.xkcd.com/comics/local_group.png" title="Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter." alt="Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter." /></description>
+      <guid>https://xkcd.com/2938/</guid>
+      <pubDate>Mon, 27 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Functional Relic</title>
       <link>http://www.itchyfeetcomic.com/2024/05/functional-relic.html</link>
@@ -105,13 +112,6 @@
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/minecraft</guid>
       <pubDate>Fri, 17 May 2024 16:40:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Bloom Filter</title>
-      <link>https://xkcd.com/2934/</link>
-      <description><img src="https://imgs.xkcd.com/comics/bloom_filter.png" title="Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure." alt="Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure." /></description>
-      <guid>https://xkcd.com/2934/</guid>
-      <pubDate>Fri, 17 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 984 - Pokemon Master</title>
