@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 29 May 2024 18:15:45 +0000</pubDate>
-    <lastBuildDate>Wed, 29 May 2024 18:15:45 +0000</lastBuildDate>
+    <pubDate>Thu, 30 May 2024 00:55:46 +0000</pubDate>
+    <lastBuildDate>Thu, 30 May 2024 00:55:46 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Complexity Analysis</title>
+      <link>https://xkcd.com/2939/</link>
+      <description><img src="https://imgs.xkcd.com/comics/complexity_analysis.png" title="PERPETUALLY OPTIMISTIC CASE: Early in the execution, our research group makes a breakthrough on proving P=NP." alt="PERPETUALLY OPTIMISTIC CASE: Early in the execution, our research group makes a breakthrough on proving P=NP." /></description>
+      <guid>https://xkcd.com/2939/</guid>
+      <pubDate>Wed, 29 May 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 987 - Comic Con</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-987-comic-con/viewer?title_no=352&episode_no=987</link>
@@ -70,13 +77,6 @@
 			
 			</description>
       <pubDate>Wed, 22 May 2024 01:02:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Ocean Loop</title>
-      <link>https://xkcd.com/2935/</link>
-      <description><img src="https://imgs.xkcd.com/comics/ocean_loop.png" title="I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop." alt="I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop." /></description>
-      <guid>https://xkcd.com/2935/</guid>
-      <pubDate>Mon, 20 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 985 - Dopamine</title>
