@@ -3,14 +3,21 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 31 May 2024 18:16:05 +0000</pubDate>
-    <lastBuildDate>Fri, 31 May 2024 18:16:05 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Jun 2024 00:59:06 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:59:06 +0000</lastBuildDate>
     <item>
       <title>Odd1sout: Blueberries</title>
       <link>https://theodd1sout.com/blogs/comics/blueberries</link>
       <description></description>
       <guid>https://theodd1sout.com/blogs/comics/blueberries</guid>
       <pubDate>Fri, 31 May 2024 17:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Modes of Transportation</title>
+      <link>https://xkcd.com/2940/</link>
+      <description><img src="https://imgs.xkcd.com/comics/modes_of_transportation.png" title="My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me." alt="My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me." /></description>
+      <guid>https://xkcd.com/2940/</guid>
+      <pubDate>Fri, 31 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Complexity Analysis</title>
@@ -61,13 +68,6 @@
       <link>http://theoatmeal.com/blog/jokebomb1?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/jokebomb1?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/jokebomb1_big.png" alt="JokeBomb - Series One" class="border0" /></a><p>This is a series of animated shorts about tortillas, butts, and a hit TV show called Gene's Jeans starring a handsome man named Gene.</p><a href="http://theoatmeal.com/blog/jokebomb1?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 23 May 2024 17:36:44 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Exponential Growth</title>
-      <link>https://xkcd.com/2936/</link>
-      <description><img src="https://imgs.xkcd.com/comics/exponential_growth.png" title="Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end." alt="Karpov's construction of a series of increasingly large rice cookers led to a protracted deadlock, but exponential growth won in the end." /></description>
-      <guid>https://xkcd.com/2936/</guid>
-      <pubDate>Wed, 22 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 986 - Boss Battle</title>
