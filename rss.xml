@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 05 Jun 2024 18:15:50 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2024 18:15:50 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Jun 2024 00:56:01 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Jun 2024 00:56:01 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Fluid Speech</title>
+      <link>https://xkcd.com/2942/</link>
+      <description><img src="https://imgs.xkcd.com/comics/fluid_speech.png" title="Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay." alt="Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay." /></description>
+      <guid>https://xkcd.com/2942/</guid>
+      <pubDate>Wed, 05 Jun 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 989 - Dress Code</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-989-dress-code/viewer?title_no=352&episode_no=989</link>
@@ -95,13 +102,6 @@
 			
 			</description>
       <pubDate>Wed, 29 May 2024 01:02:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Local Group</title>
-      <link>https://xkcd.com/2938/</link>
-      <description><img src="https://imgs.xkcd.com/comics/local_group.png" title="Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter." alt="Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter." /></description>
-      <guid>https://xkcd.com/2938/</guid>
-      <pubDate>Mon, 27 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Functional Relic</title>
