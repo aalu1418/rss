@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 10 Jun 2024 12:23:49 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2024 12:23:49 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2024 18:16:37 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2024 18:16:37 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Magnet Fishing</title>
+      <link>https://xkcd.com/2944/</link>
+      <description><img src="https://imgs.xkcd.com/comics/magnet_fishing.png" title="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." alt="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." /></description>
+      <guid>https://xkcd.com/2944/</guid>
+      <pubDate>Mon, 10 Jun 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 990 - Pet</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-990-pet/viewer?title_no=352&episode_no=990</link>
@@ -95,13 +102,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1540908200924697645</guid>
       <pubDate>Sun, 02 Jun 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Modes of Transportation</title>
-      <link>https://xkcd.com/2940/</link>
-      <description><img src="https://imgs.xkcd.com/comics/modes_of_transportation.png" title="My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me." alt="My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me." /></description>
-      <guid>https://xkcd.com/2940/</guid>
-      <pubDate>Fri, 31 May 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 987 - Comic Con</title>
