@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 15 Jun 2024 00:56:53 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Jun 2024 00:56:53 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Jun 2024 06:15:44 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:15:44 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: 1.2 Kilofives</title>
+      <link>https://xkcd.com/2946/</link>
+      <description><img src="https://imgs.xkcd.com/comics/1_2_kilofives.png" title="'Oh yeah? Give me 50 milliscore reasons why I should stop.'" alt="'Oh yeah? Give me 50 milliscore reasons why I should stop.'" /></description>
+      <guid>https://xkcd.com/2946/</guid>
+      <pubDate>Fri, 14 Jun 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Broken Model</title>
       <link>https://xkcd.com/2945/</link>
@@ -64,13 +71,6 @@
       <description><img src="https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png" title="I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'." alt="I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'." /></description>
       <guid>https://xkcd.com/2943/</guid>
       <pubDate>Fri, 07 Jun 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Fluid Speech</title>
-      <link>https://xkcd.com/2942/</link>
-      <description><img src="https://imgs.xkcd.com/comics/fluid_speech.png" title="Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay." alt="Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay." /></description>
-      <guid>https://xkcd.com/2942/</guid>
-      <pubDate>Wed, 05 Jun 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 989 - Dress Code</title>
