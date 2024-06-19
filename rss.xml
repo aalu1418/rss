@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 19 Jun 2024 12:23:54 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Jun 2024 12:23:54 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Jun 2024 18:15:59 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Jun 2024 18:15:59 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Electric vs Gas</title>
+      <link>https://xkcd.com/2948/</link>
+      <description><img src="https://imgs.xkcd.com/comics/electric_vs_gas.png" title="An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill." alt="An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill." /></description>
+      <guid>https://xkcd.com/2948/</guid>
+      <pubDate>Wed, 19 Jun 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 993 - Medicine</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-993-medicine/viewer?title_no=352&episode_no=993</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Wed, 12 Jun 2024 01:02:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Magnet Fishing</title>
-      <link>https://xkcd.com/2944/</link>
-      <description><img src="https://imgs.xkcd.com/comics/magnet_fishing.png" title="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." alt="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." /></description>
-      <guid>https://xkcd.com/2944/</guid>
-      <pubDate>Mon, 10 Jun 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 990 - Pet</title>
