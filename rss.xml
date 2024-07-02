@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 02 Jul 2024 00:57:56 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Jul 2024 00:57:56 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 06:18:53 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 06:18:53 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Alien Theories</title>
+      <link>https://xkcd.com/2953/</link>
+      <description><img src="https://imgs.xkcd.com/comics/alien_theories.png" title="They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust." alt="They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust." /></description>
+      <guid>https://xkcd.com/2953/</guid>
+      <pubDate>Mon, 01 Jul 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 966 - Snack</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-966-snack/viewer?title_no=352&episode_no=996</link>
@@ -125,13 +132,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5052516495865752953</guid>
       <pubDate>Sun, 23 Jun 2024 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Network Configuration</title>
-      <link>https://xkcd.com/2949/</link>
-      <description><img src="https://imgs.xkcd.com/comics/network_configuration.png" title="If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one." alt="If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one." /></description>
-      <guid>https://xkcd.com/2949/</guid>
-      <pubDate>Fri, 21 Jun 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 993 - Medicine</title>
