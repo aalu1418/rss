@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 04 Jul 2024 00:57:51 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Jul 2024 00:57:51 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jul 2024 06:18:06 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:18:06 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Bracket Symbols</title>
+      <link>https://xkcd.com/2954/</link>
+      <description><img src="https://imgs.xkcd.com/comics/bracket_symbols.png" title="’&quot;‘”’&quot; means &quot;I edited this text on both my phone and my laptop before sending it&quot;" alt="’&quot;‘”’&quot; means &quot;I edited this text on both my phone and my laptop before sending it&quot;" /></description>
+      <guid>https://xkcd.com/2954/</guid>
+      <pubDate>Wed, 03 Jul 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 997 - Activity</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-997-activity/viewer?title_no=352&episode_no=997</link>
@@ -118,13 +125,6 @@
       <link>http://theoatmeal.com/blog/godcat_message?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/godcat_message?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/godcat_message_big.png" alt="Godcat has a special message for you" class="border0" /></a><p>Your lord and savior, Godcat, has a favor to ask regarding his new Netflix series.</p><a href="http://theoatmeal.com/blog/godcat_message?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Tue, 25 Jun 2024 19:01:13 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Situation</title>
-      <link>https://xkcd.com/2950/</link>
-      <description><img src="https://imgs.xkcd.com/comics/situation.png" title="We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone." alt="We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone." /></description>
-      <guid>https://xkcd.com/2950/</guid>
-      <pubDate>Mon, 24 Jun 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep 994 - Carpet</title>
