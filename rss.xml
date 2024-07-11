@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 10 Jul 2024 18:19:12 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2024 18:19:12 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2024 00:59:25 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2024 00:59:25 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: A Crossword Puzzle</title>
+      <link>https://xkcd.com/2957/</link>
+      <description><img src="https://imgs.xkcd.com/comics/a_crossword_puzzle.png" title="Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality]." alt="Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality]." /></description>
+      <guid>https://xkcd.com/2957/</guid>
+      <pubDate>Wed, 10 Jul 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 999 - Cool-down</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-999-cool-down/viewer?title_no=352&episode_no=999</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Wed, 03 Jul 2024 01:02:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Alien Theories</title>
-      <link>https://xkcd.com/2953/</link>
-      <description><img src="https://imgs.xkcd.com/comics/alien_theories.png" title="They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust." alt="They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust." /></description>
-      <guid>https://xkcd.com/2953/</guid>
-      <pubDate>Mon, 01 Jul 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 966 - Snack</title>
