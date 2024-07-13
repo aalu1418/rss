@@ -3,13 +3,20 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 12 Jul 2024 18:17:46 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Jul 2024 18:17:46 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jul 2024 00:58:54 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jul 2024 00:58:54 +0000</lastBuildDate>
     <item>
       <title>TheOatmeal: It's been fifteen years.</title>
       <link>http://theoatmeal.com/blog/15_years?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/15_years?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/15_years_big.png" alt="It's been fifteen years." class="border0" /></a><p>I created The Oatmeal fifteen years ago.</p><a href="http://theoatmeal.com/blog/15_years?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Fri, 12 Jul 2024 16:41:16 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Hatchery</title>
+      <link>https://xkcd.com/2958/</link>
+      <description><img src="https://imgs.xkcd.com/comics/hatchery.png" title="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." alt="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." /></description>
+      <guid>https://xkcd.com/2958/</guid>
+      <pubDate>Fri, 12 Jul 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: A Crossword Puzzle</title>
@@ -70,13 +77,6 @@
       <description><img src="https://imgs.xkcd.com/comics/pole_vault.png" title="Ugh, and we JUST went through this yesterday with javelin." alt="Ugh, and we JUST went through this yesterday with javelin." /></description>
       <guid>https://xkcd.com/2955/</guid>
       <pubDate>Fri, 05 Jul 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Bracket Symbols</title>
-      <link>https://xkcd.com/2954/</link>
-      <description><img src="https://imgs.xkcd.com/comics/bracket_symbols.png" title="’&quot;‘”’&quot; means &quot;I edited this text on both my phone and my laptop before sending it&quot;" alt="’&quot;‘”’&quot; means &quot;I edited this text on both my phone and my laptop before sending it&quot;" /></description>
-      <guid>https://xkcd.com/2954/</guid>
-      <pubDate>Wed, 03 Jul 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 997 - Activity</title>
