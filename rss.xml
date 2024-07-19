@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 19 Jul 2024 12:23:44 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jul 2024 12:23:44 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 18:16:58 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 18:16:58 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: CrowdStrike</title>
+      <link>https://xkcd.com/2961/</link>
+      <description><img src="https://imgs.xkcd.com/comics/crowdstrike.png" title="We were going to try swordfighting, but all my compiling is on hold." alt="We were going to try swordfighting, but all my compiling is on hold." /></description>
+      <guid>https://xkcd.com/2961/</guid>
+      <pubDate>Fri, 19 Jul 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PixieAndBrutus: Dangerous</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/dangerous/viewer?title_no=452175&episode_no=159</link>
@@ -70,13 +77,6 @@
       <description><img src="https://imgs.xkcd.com/comics/hatchery.png" title="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." alt="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." /></description>
       <guid>https://xkcd.com/2958/</guid>
       <pubDate>Fri, 12 Jul 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: A Crossword Puzzle</title>
-      <link>https://xkcd.com/2957/</link>
-      <description><img src="https://imgs.xkcd.com/comics/a_crossword_puzzle.png" title="Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality]." alt="Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality]." /></description>
-      <guid>https://xkcd.com/2957/</guid>
-      <pubDate>Wed, 10 Jul 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 999 - Cool-down</title>
