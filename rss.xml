@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 07 Aug 2024 06:18:25 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Aug 2024 06:18:25 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2024 12:25:38 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:25:38 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Vice President First Names</title>
+      <link>https://xkcd.com/2969/</link>
+      <description><img src="https://imgs.xkcd.com/comics/vice_president_first_names.png" title="[Political pundit on the ScrabbleTV News channel] &quot;After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim.&quot;" alt="[Political pundit on the ScrabbleTV News channel] &quot;After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim.&quot;" /></description>
+      <guid>https://xkcd.com/2969/</guid>
+      <pubDate>Wed, 07 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: University Age</title>
       <link>https://xkcd.com/2968/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/exam_numbers.png" title="Calligraphy exam: Write down the number 37, spelled out, nicely." alt="Calligraphy exam: Write down the number 37, spelled out, nicely." /></description>
       <guid>https://xkcd.com/2966/</guid>
       <pubDate>Wed, 31 Jul 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Chili Tornado Quake</title>
-      <link>https://xkcd.com/2965/</link>
-      <description><img src="https://imgs.xkcd.com/comics/chili_tornado_quake.png" title="Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating." alt="Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating." /></description>
-      <guid>https://xkcd.com/2965/</guid>
-      <pubDate>Mon, 29 Jul 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>LovingReaper: Stuck</title>
