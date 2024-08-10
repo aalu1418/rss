@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 10 Aug 2024 01:00:27 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Aug 2024 01:00:27 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Aug 2024 06:16:59 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Aug 2024 06:16:59 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Meteor Shower PSA</title>
+      <link>https://xkcd.com/2970/</link>
+      <description><img src="https://imgs.xkcd.com/comics/meteor_shower_psa.png" title="If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult." alt="If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult." /></description>
+      <guid>https://xkcd.com/2970/</guid>
+      <pubDate>Fri, 09 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: Do you need to settle a dispute?</title>
       <link>http://theoatmeal.com/blog/swords?no_popup=1</link>
@@ -38,13 +45,6 @@
       <description><img src="https://imgs.xkcd.com/comics/matter.png" title="He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics." alt="He was the first person to land a 900, which is especially impressive because pulling off a half-integer spin requires obeying Fermi-Dirac statistics." /></description>
       <guid>https://xkcd.com/2967/</guid>
       <pubDate>Fri, 02 Aug 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Exam Numbers</title>
-      <link>https://xkcd.com/2966/</link>
-      <description><img src="https://imgs.xkcd.com/comics/exam_numbers.png" title="Calligraphy exam: Write down the number 37, spelled out, nicely." alt="Calligraphy exam: Write down the number 37, spelled out, nicely." /></description>
-      <guid>https://xkcd.com/2966/</guid>
-      <pubDate>Wed, 31 Jul 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>LovingReaper: Stuck</title>
