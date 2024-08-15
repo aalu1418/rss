@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 15 Aug 2024 00:57:59 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Aug 2024 00:57:59 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Aug 2024 06:18:26 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Aug 2024 06:18:26 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Helium Synthesis</title>
+      <link>https://xkcd.com/2972/</link>
+      <description><img src="https://imgs.xkcd.com/comics/helium_synthesis.png" title="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." alt="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." /></description>
+      <guid>https://xkcd.com/2972/</guid>
+      <pubDate>Wed, 14 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1001 - Awoken</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1001-awoken/viewer?title_no=352&episode_no=1001</link>
@@ -70,13 +77,6 @@
       <description><img src="https://imgs.xkcd.com/comics/vice_president_first_names.png" title="[Political pundit on the ScrabbleTV News channel] &quot;After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim.&quot;" alt="[Political pundit on the ScrabbleTV News channel] &quot;After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim.&quot;" /></description>
       <guid>https://xkcd.com/2969/</guid>
       <pubDate>Wed, 07 Aug 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: University Age</title>
-      <link>https://xkcd.com/2968/</link>
-      <description><img src="https://imgs.xkcd.com/comics/university_age.png" title="This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead." alt="This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead." /></description>
-      <guid>https://xkcd.com/2968/</guid>
-      <pubDate>Mon, 05 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Background Noise</title>
