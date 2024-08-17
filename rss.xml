@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 16 Aug 2024 18:17:25 +0000</pubDate>
-    <lastBuildDate>Fri, 16 Aug 2024 18:17:25 +0000</lastBuildDate>
+    <pubDate>Sat, 17 Aug 2024 00:58:25 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Aug 2024 00:58:25 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Ferris Wheels</title>
+      <link>https://xkcd.com/2973/</link>
+      <description><img src="https://imgs.xkcd.com/comics/ferris_wheels.png" title="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." alt="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." /></description>
+      <guid>https://xkcd.com/2973/</guid>
+      <pubDate>Fri, 16 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Helium Synthesis</title>
       <link>https://xkcd.com/2972/</link>
@@ -70,13 +77,6 @@
       <link>http://theoatmeal.com/blog/swords?no_popup=1</link>
       <description><a href="http://theoatmeal.com/blog/swords?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/swords_big.png" alt="Do you need to settle a dispute?" class="border0" /></a><p>Let's hit each other with fake swords.</p><a href="http://theoatmeal.com/blog/swords?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 08 Aug 2024 18:54:47 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Vice President First Names</title>
-      <link>https://xkcd.com/2969/</link>
-      <description><img src="https://imgs.xkcd.com/comics/vice_president_first_names.png" title="[Political pundit on the ScrabbleTV News channel] &quot;After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim.&quot;" alt="[Political pundit on the ScrabbleTV News channel] &quot;After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim.&quot;" /></description>
-      <guid>https://xkcd.com/2969/</guid>
-      <pubDate>Wed, 07 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Background Noise</title>
