@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 21 Aug 2024 12:24:33 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Aug 2024 12:24:33 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Aug 2024 18:17:15 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Aug 2024 18:17:15 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Classical Periodic Table</title>
+      <link>https://xkcd.com/2975/</link>
+      <description><img src="https://imgs.xkcd.com/comics/classical_periodic_table.png" title="Personally I think mercury is more of a 'wet earth' hybrid element." alt="Personally I think mercury is more of a 'wet earth' hybrid element." /></description>
+      <guid>https://xkcd.com/2975/</guid>
+      <pubDate>Wed, 21 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1003 - Update</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1003-update/viewer?title_no=352&episode_no=1003</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Wed, 14 Aug 2024 01:02:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Celestial Event</title>
-      <link>https://xkcd.com/2971/</link>
-      <description><img src="https://imgs.xkcd.com/comics/celestial_event.png" title="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." alt="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." /></description>
-      <guid>https://xkcd.com/2971/</guid>
-      <pubDate>Mon, 12 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Georgia on my Mind</title>
