@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 23 Aug 2024 12:25:08 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Aug 2024 12:25:08 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2024 18:17:20 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2024 18:17:20 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Time Traveler Causes of Death</title>
+      <link>https://xkcd.com/2976/</link>
+      <description><img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" title="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." alt="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." /></description>
+      <guid>https://xkcd.com/2976/</guid>
+      <pubDate>Fri, 23 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PixieAndBrutus: Invincibility Part 2</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/invincibility-part-2/viewer?title_no=452175&episode_no=162</link>
@@ -80,13 +87,6 @@
       <description><img src="https://imgs.xkcd.com/comics/ferris_wheels.png" title="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." alt="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." /></description>
       <guid>https://xkcd.com/2973/</guid>
       <pubDate>Fri, 16 Aug 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Helium Synthesis</title>
-      <link>https://xkcd.com/2972/</link>
-      <description><img src="https://imgs.xkcd.com/comics/helium_synthesis.png" title="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." alt="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." /></description>
-      <guid>https://xkcd.com/2972/</guid>
-      <pubDate>Wed, 14 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1001 - Awoken</title>
