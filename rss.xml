@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 27 Aug 2024 01:01:47 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Aug 2024 01:01:47 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Aug 2024 06:19:00 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Aug 2024 06:19:00 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Three Kinds of Research</title>
+      <link>https://xkcd.com/2977/</link>
+      <description><img src="https://imgs.xkcd.com/comics/three_kinds_of_research.png" title="The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" alt="The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" /></description>
+      <guid>https://xkcd.com/2977/</guid>
+      <pubDate>Mon, 26 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep 1004 - Fishy</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1004-fishy/viewer?title_no=352&episode_no=1004</link>
@@ -103,13 +110,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8350246793528215565</guid>
       <pubDate>Sun, 18 Aug 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Ferris Wheels</title>
-      <link>https://xkcd.com/2973/</link>
-      <description><img src="https://imgs.xkcd.com/comics/ferris_wheels.png" title="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." alt="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." /></description>
-      <guid>https://xkcd.com/2973/</guid>
-      <pubDate>Fri, 16 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1001 - Awoken</title>
@@ -1020,7 +1020,7 @@ And thank you for helping Loving Reaper to grow so much <3
     <item>
       <title>AwkwardYeti: Bile</title>
       <link>https://theawkwardyeti.com/comic/bile/?utm_source=rss&utm_medium=rss&utm_campaign=bile</link>
-      <description><p><a href="https://theawkwardyeti.com/comic/bile/" rel="bookmark" title="Bile"><img width="150" height="150" src="https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Liver carries a pail of bile. They approach a small green character sitting on the ground: “What’s wrong, Gallbladder?” Gallbladder cuddles some small stones to their chest. Their eyes are wide and wet as they say “You was mean to me!” Liver touches Gallbladder’s head: “Listen kid, I’m under a lot of stress. I’m sorry I lost my temper and said all those true things.” Liver leaves the pail of bile next to Gallbladder. Gallbladder squints into the distance." decoding="async" loading="lazy" srcset="https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-150x150.png 150w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-300x300.png 300w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-1024x1024.png 1024w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-768x768.png 768w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile.png 1440w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+      <description><p><a href="https://theawkwardyeti.com/comic/bile/" rel="bookmark" title="Bile"><img width="150" height="150" src="https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-150x150.png 150w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-300x300.png 300w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-1024x1024.png 1024w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile-768x768.png 768w, https://theawkwardyeti.com/wp-content/uploads/2023/10/100923-Bile.png 1440w" sizes="(max-width: 150px) 100vw, 150px" /></a>
 </p>Click Linktr.ee/theawkwardyeti to support my work on Patreon or check out my newest book</description>
       <guid>https://theawkwardyeti.com/?post_type=comic&p=19427</guid>
       <pubDate>Mon, 09 Oct 2023 20:02:00 +0000</pubDate>
