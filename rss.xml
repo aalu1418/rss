@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 31 Aug 2024 01:02:39 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Aug 2024 01:02:39 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Aug 2024 06:17:31 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Aug 2024 06:17:31 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Sky Alarm</title>
+      <link>https://xkcd.com/2979/</link>
+      <description><img src="https://imgs.xkcd.com/comics/sky_alarm.png" title="During the day it also activates for neat clouds and pretty sunsets." alt="During the day it also activates for neat clouds and pretty sunsets." /></description>
+      <guid>https://xkcd.com/2979/</guid>
+      <pubDate>Fri, 30 Aug 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Stranded</title>
       <link>https://xkcd.com/2978/</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Thu, 22 Aug 2024 19:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Classical Periodic Table</title>
-      <link>https://xkcd.com/2975/</link>
-      <description><img src="https://imgs.xkcd.com/comics/classical_periodic_table.png" title="Personally I think mercury is more of a 'wet earth' hybrid element." alt="Personally I think mercury is more of a 'wet earth' hybrid element." /></description>
-      <guid>https://xkcd.com/2975/</guid>
-      <pubDate>Wed, 21 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1003 - Update</title>
