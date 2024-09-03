@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 02 Sep 2024 18:17:49 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Sep 2024 18:17:49 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2024 01:02:30 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 01:02:30 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Lava Lakes</title>
+      <link>https://xkcd.com/2980/</link>
+      <description><img src="https://imgs.xkcd.com/comics/lava_lakes.png" title="Hey, golf balls float on lava, so this should make recovering them from the hazards easier." alt="Hey, golf balls float on lava, so this should make recovering them from the hazards easier." /></description>
+      <guid>https://xkcd.com/2980/</guid>
+      <pubDate>Mon, 02 Sep 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1006 - Seariously</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1006-seariously/viewer?title_no=352&episode_no=1006</link>
@@ -87,13 +94,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3305791341976937402</guid>
       <pubDate>Sun, 25 Aug 2024 13:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Time Traveler Causes of Death</title>
-      <link>https://xkcd.com/2976/</link>
-      <description><img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" title="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." alt="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." /></description>
-      <guid>https://xkcd.com/2976/</guid>
-      <pubDate>Fri, 23 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PixieAndBrutus: Invincibility Part 2</title>
