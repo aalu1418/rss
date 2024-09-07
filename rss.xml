@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 07 Sep 2024 01:02:10 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2024 01:02:10 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Sep 2024 06:17:45 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2024 06:17:45 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Water Filtration</title>
+      <link>https://xkcd.com/2982/</link>
+      <description><img src="https://imgs.xkcd.com/comics/water_filtration.png" title="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." alt="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." /></description>
+      <guid>https://xkcd.com/2982/</guid>
+      <pubDate>Fri, 06 Sep 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Slingshots</title>
       <link>https://xkcd.com/2981/</link>
@@ -64,13 +71,6 @@
       <description><img src="https://imgs.xkcd.com/comics/sky_alarm.png" title="During the day it also activates for neat clouds and pretty sunsets." alt="During the day it also activates for neat clouds and pretty sunsets." /></description>
       <guid>https://xkcd.com/2979/</guid>
       <pubDate>Fri, 30 Aug 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Stranded</title>
-      <link>https://xkcd.com/2978/</link>
-      <description><img src="https://imgs.xkcd.com/comics/stranded.png" title="At least they're not alone down there." alt="At least they're not alone down there." /></description>
-      <guid>https://xkcd.com/2978/</guid>
-      <pubDate>Wed, 28 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1005 - Luigi Kart</title>
