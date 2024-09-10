@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 10 Sep 2024 01:04:09 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Sep 2024 01:04:09 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Sep 2024 06:19:23 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Sep 2024 06:19:23 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Monocaster</title>
+      <link>https://xkcd.com/2983/</link>
+      <description><img src="https://imgs.xkcd.com/comics/monocaster.png" title="My competitors say the tiny single tiny caster is unsafe, unstable, and offers no advantages over traditional designs, to which I say: wow, why are you guys so mean? I thought we were friends!" alt="My competitors say the tiny single tiny caster is unsafe, unstable, and offers no advantages over traditional designs, to which I say: wow, why are you guys so mean? I thought we were friends!" /></description>
+      <guid>https://xkcd.com/2983/</guid>
+      <pubDate>Mon, 09 Sep 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1008 - Disconnected</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1008-disconnected/viewer?title_no=352&episode_no=1008</link>
@@ -87,13 +94,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7819665890883968071</guid>
       <pubDate>Sun, 01 Sep 2024 14:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Sky Alarm</title>
-      <link>https://xkcd.com/2979/</link>
-      <description><img src="https://imgs.xkcd.com/comics/sky_alarm.png" title="During the day it also activates for neat clouds and pretty sunsets." alt="During the day it also activates for neat clouds and pretty sunsets." /></description>
-      <guid>https://xkcd.com/2979/</guid>
-      <pubDate>Fri, 30 Aug 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1005 - Luigi Kart</title>
