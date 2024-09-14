@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 13 Sep 2024 18:18:33 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Sep 2024 18:18:33 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Sep 2024 01:03:15 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Sep 2024 01:03:15 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Craters</title>
+      <link>https://xkcd.com/2985/</link>
+      <description><img src="https://imgs.xkcd.com/comics/craters.png" title="It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one." alt="It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one." /></description>
+      <guid>https://xkcd.com/2985/</guid>
+      <pubDate>Fri, 13 Sep 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Asteroid News</title>
       <link>https://xkcd.com/2984/</link>
@@ -64,13 +71,6 @@
       <description><img src="https://imgs.xkcd.com/comics/water_filtration.png" title="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." alt="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." /></description>
       <guid>https://xkcd.com/2982/</guid>
       <pubDate>Fri, 06 Sep 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Slingshots</title>
-      <link>https://xkcd.com/2981/</link>
-      <description><img src="https://imgs.xkcd.com/comics/slingshots.png" title="In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden." alt="In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden." /></description>
-      <guid>https://xkcd.com/2981/</guid>
-      <pubDate>Wed, 04 Sep 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1007 - Majora's Flask</title>
