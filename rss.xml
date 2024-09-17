@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 17 Sep 2024 00:54:06 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2024 00:54:06 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Sep 2024 06:18:14 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Sep 2024 06:18:14 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Every Scientific Field</title>
+      <link>https://xkcd.com/2986/</link>
+      <description><img src="https://imgs.xkcd.com/comics/every_scientific_field.png" title="Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps." alt="Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps." /></description>
+      <guid>https://xkcd.com/2986/</guid>
+      <pubDate>Tue, 17 Sep 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1010 - Lawman</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1010-lawman/viewer?title_no=352&episode_no=1010</link>
@@ -87,13 +94,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7200969277453795052</guid>
       <pubDate>Sun, 08 Sep 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Water Filtration</title>
-      <link>https://xkcd.com/2982/</link>
-      <description><img src="https://imgs.xkcd.com/comics/water_filtration.png" title="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." alt="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." /></description>
-      <guid>https://xkcd.com/2982/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1007 - Majora's Flask</title>
