@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 05 Oct 2024 01:06:01 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Oct 2024 01:06:01 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Oct 2024 06:18:57 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2024 06:18:57 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Númenor Margaritaville</title>
+      <link>https://xkcd.com/2994/</link>
+      <description><img src="https://imgs.xkcd.com/comics/numenor_margaritaville.png" title="I see white shores, and beyond it, a far green country under a tequila sunrise." alt="I see white shores, and beyond it, a far green country under a tequila sunrise." /></description>
+      <guid>https://xkcd.com/2994/</guid>
+      <pubDate>Fri, 04 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Ingredients</title>
       <link>https://xkcd.com/2993/</link>
@@ -80,13 +87,6 @@
       <description><img src="https://imgs.xkcd.com/comics/beamsplitters.png" title="Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold." alt="Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold." /></description>
       <guid>https://xkcd.com/2991/</guid>
       <pubDate>Fri, 27 Sep 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Late Cenozoic</title>
-      <link>https://xkcd.com/2990/</link>
-      <description><img src="https://imgs.xkcd.com/comics/late_cenozoic.png" title="Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates." alt="Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates." /></description>
-      <guid>https://xkcd.com/2990/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1013 - s h a r k s</title>
