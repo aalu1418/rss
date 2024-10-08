@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 07 Oct 2024 18:19:11 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Oct 2024 18:19:11 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 01:06:49 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 01:06:49 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: University Commas</title>
+      <link>https://xkcd.com/2995/</link>
+      <description><img src="https://imgs.xkcd.com/comics/university_commas.png" title="The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively." alt="The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively." /></description>
+      <guid>https://xkcd.com/2995/</guid>
+      <pubDate>Mon, 07 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1016 - Gen 1</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1016-gen-1/viewer?title_no=352&episode_no=1016</link>
@@ -103,13 +110,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6455090087210425581</guid>
       <pubDate>Sun, 29 Sep 2024 08:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Beamsplitters</title>
-      <link>https://xkcd.com/2991/</link>
-      <description><img src="https://imgs.xkcd.com/comics/beamsplitters.png" title="Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold." alt="Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold." /></description>
-      <guid>https://xkcd.com/2991/</guid>
-      <pubDate>Fri, 27 Sep 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1013 - s h a r k s</title>
