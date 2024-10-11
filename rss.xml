@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 11 Oct 2024 12:27:59 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Oct 2024 12:27:59 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2024 18:18:36 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2024 18:18:36 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Solar Protons</title>
+      <link>https://xkcd.com/2997/</link>
+      <description><img src="https://imgs.xkcd.com/comics/solar_protons.png" title="If any of you want to meet some cool local oxygen atoms, I can introduce you!" alt="If any of you want to meet some cool local oxygen atoms, I can introduce you!" /></description>
+      <guid>https://xkcd.com/2997/</guid>
+      <pubDate>Fri, 11 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: Therapy is now horrible</title>
       <link>http://theoatmeal.com/blog/horrible_therapist_game?no_popup=1</link>
@@ -70,13 +77,6 @@
       <description><img src="https://imgs.xkcd.com/comics/numenor_margaritaville.png" title="I see white shores, and beyond it, a far green country under a tequila sunrise." alt="I see white shores, and beyond it, a far green country under a tequila sunrise." /></description>
       <guid>https://xkcd.com/2994/</guid>
       <pubDate>Fri, 04 Oct 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Ingredients</title>
-      <link>https://xkcd.com/2993/</link>
-      <description><img src="https://imgs.xkcd.com/comics/ingredients.png" title="Add main-belt asteroids to taste." alt="Add main-belt asteroids to taste." /></description>
-      <guid>https://xkcd.com/2993/</guid>
-      <pubDate>Wed, 02 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1015 - Acutie Pi</title>
