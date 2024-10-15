@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 14 Oct 2024 18:19:03 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2024 18:19:03 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2024 01:08:01 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2024 01:08:01 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Ravioli-Shaped Objects</title>
+      <link>https://xkcd.com/2998/</link>
+      <description><img src="https://imgs.xkcd.com/comics/ravioli_shaped_objects.png" title="It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond." alt="It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond." /></description>
+      <guid>https://xkcd.com/2998/</guid>
+      <pubDate>Mon, 14 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1018 - Reely?</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1018-reely/viewer?title_no=352&episode_no=1018</link>
@@ -93,13 +100,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6686541482950255290</guid>
       <pubDate>Sun, 06 Oct 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Númenor Margaritaville</title>
-      <link>https://xkcd.com/2994/</link>
-      <description><img src="https://imgs.xkcd.com/comics/numenor_margaritaville.png" title="I see white shores, and beyond it, a far green country under a tequila sunrise." alt="I see white shores, and beyond it, a far green country under a tequila sunrise." /></description>
-      <guid>https://xkcd.com/2994/</guid>
-      <pubDate>Fri, 04 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1015 - Acutie Pi</title>
