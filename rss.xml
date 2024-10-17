@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 16 Oct 2024 18:19:26 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Oct 2024 18:19:26 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Oct 2024 01:07:14 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Oct 2024 01:07:14 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Bad Map Projection: The United Stralia</title>
+      <link>https://xkcd.com/2999/</link>
+      <description><img src="https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png" title="This projection distorts both area and direction, but preserves Melbourne." alt="This projection distorts both area and direction, but preserves Melbourne." /></description>
+      <guid>https://xkcd.com/2999/</guid>
+      <pubDate>Wed, 16 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1019 - Zoops</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1019-zoops/viewer?title_no=352&episode_no=1019</link>
@@ -86,13 +93,6 @@
 			
 			</description>
       <pubDate>Wed, 09 Oct 2024 01:02:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: University Commas</title>
-      <link>https://xkcd.com/2995/</link>
-      <description><img src="https://imgs.xkcd.com/comics/university_commas.png" title="The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively." alt="The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively." /></description>
-      <guid>https://xkcd.com/2995/</guid>
-      <pubDate>Mon, 07 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1016 - Gen 1</title>
