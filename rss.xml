@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 21 Oct 2024 18:19:30 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2024 18:19:30 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 01:08:10 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2024 01:08:10 +0000</lastBuildDate>
     <item>
       <title>PixieAndBrutus: Pumpkin Patch</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/pumpkin-patch/viewer?title_no=452175&episode_no=164</link>
@@ -20,6 +20,13 @@
 			
 			</description>
       <pubDate>Mon, 21 Oct 2024 15:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Temperature Scales</title>
+      <link>https://xkcd.com/3001/</link>
+      <description><img src="https://imgs.xkcd.com/comics/temperature_scales.png" title="In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed." alt="In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed." /></description>
+      <guid>https://xkcd.com/3001/</guid>
+      <pubDate>Mon, 21 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1020 - Super Waluigi Bro</title>
@@ -103,13 +110,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3023436194881769382</guid>
       <pubDate>Sun, 13 Oct 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Solar Protons</title>
-      <link>https://xkcd.com/2997/</link>
-      <description><img src="https://imgs.xkcd.com/comics/solar_protons.png" title="If any of you want to meet some cool local oxygen atoms, I can introduce you!" alt="If any of you want to meet some cool local oxygen atoms, I can introduce you!" /></description>
-      <guid>https://xkcd.com/2997/</guid>
-      <pubDate>Fri, 11 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: Therapy is now horrible</title>
