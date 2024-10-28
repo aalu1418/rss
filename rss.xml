@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 28 Oct 2024 12:29:32 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Oct 2024 12:29:32 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2024 18:19:38 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:19:38 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Wells</title>
+      <link>https://xkcd.com/3004/</link>
+      <description><img src="https://imgs.xkcd.com/comics/wells.png" title="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." alt="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." /></description>
+      <guid>https://xkcd.com/3004/</guid>
+      <pubDate>Mon, 28 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1022 - Kitchen Nightmares</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1022-kitchen-nightmares/viewer?title_no=352&episode_no=1022</link>
@@ -103,13 +110,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7425439413418363003</guid>
       <pubDate>Sun, 20 Oct 2024 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Experimental Astrophysics</title>
-      <link>https://xkcd.com/3000/</link>
-      <description><img src="https://imgs.xkcd.com/comics/experimental_astrophysics.png" title="Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle." alt="Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle." /></description>
-      <guid>https://xkcd.com/3000/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1019 - Zoops</title>
