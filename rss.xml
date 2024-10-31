@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 30 Oct 2024 18:19:47 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Oct 2024 18:19:47 +0000</lastBuildDate>
+    <pubDate>Thu, 31 Oct 2024 01:08:42 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:08:42 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Disposal</title>
+      <link>https://xkcd.com/3005/</link>
+      <description><img src="https://imgs.xkcd.com/comics/disposal.png" title="We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect." alt="We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect." /></description>
+      <guid>https://xkcd.com/3005/</guid>
+      <pubDate>Wed, 30 Oct 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1023 - The Asstrix</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1023-the-asstrix/viewer?title_no=352&episode_no=1023</link>
@@ -96,13 +103,6 @@
 			
 			</description>
       <pubDate>Mon, 21 Oct 2024 15:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Temperature Scales</title>
-      <link>https://xkcd.com/3001/</link>
-      <description><img src="https://imgs.xkcd.com/comics/temperature_scales.png" title="In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed." alt="In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed." /></description>
-      <guid>https://xkcd.com/3001/</guid>
-      <pubDate>Mon, 21 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1020 - Super Waluigi Bro</title>
