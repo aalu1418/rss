@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 01 Nov 2024 12:27:44 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Nov 2024 12:27:44 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Nov 2024 18:19:23 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:19:23 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Demons</title>
+      <link>https://xkcd.com/3006/</link>
+      <description><img src="https://imgs.xkcd.com/comics/demons.png" title="Though they do appreciate how much he improved the heating system for the flame pit." alt="Though they do appreciate how much he improved the heating system for the flame pit." /></description>
+      <guid>https://xkcd.com/3006/</guid>
+      <pubDate>Fri, 01 Nov 2024 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Disposal</title>
       <link>https://xkcd.com/3005/</link>
@@ -64,13 +71,6 @@
       <description><img src="https://imgs.xkcd.com/comics/sandwich_helix.png" title="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." alt="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." /></description>
       <guid>https://xkcd.com/3003/</guid>
       <pubDate>Fri, 25 Oct 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: RNAWorld</title>
-      <link>https://xkcd.com/3002/</link>
-      <description><img src="https://imgs.xkcd.com/comics/rnaworld.png" title="Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism." alt="Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism." /></description>
-      <guid>https://xkcd.com/3002/</guid>
-      <pubDate>Wed, 23 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1021 - Sick</title>
