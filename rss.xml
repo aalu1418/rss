@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 04 Nov 2024 18:18:50 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Nov 2024 18:18:50 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Nov 2024 01:05:59 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:05:59 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Probabilistic Uncertainty</title>
+      <link>https://xkcd.com/3007/</link>
+      <description><img src="https://imgs.xkcd.com/comics/probabilistic_uncertainty.png" title="&quot;One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us.&quot;" alt="&quot;One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us.&quot;" /></description>
+      <guid>https://xkcd.com/3007/</guid>
+      <pubDate>Mon, 04 Nov 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1024 - Features</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1024-features/viewer?title_no=352&episode_no=1024</link>
@@ -103,13 +110,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7835809767757324358</guid>
       <pubDate>Sun, 27 Oct 2024 18:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Sandwich Helix</title>
-      <link>https://xkcd.com/3003/</link>
-      <description><img src="https://imgs.xkcd.com/comics/sandwich_helix.png" title="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." alt="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." /></description>
-      <guid>https://xkcd.com/3003/</guid>
-      <pubDate>Fri, 25 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1021 - Sick</title>
