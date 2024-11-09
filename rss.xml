@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 09 Nov 2024 01:04:28 +0000</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2024 01:04:28 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Nov 2024 06:18:11 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Nov 2024 06:18:11 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Number Shortage</title>
+      <link>https://xkcd.com/3009/</link>
+      <description><img src="https://imgs.xkcd.com/comics/number_shortage.png" title="&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;" alt="&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;" /></description>
+      <guid>https://xkcd.com/3009/</guid>
+      <pubDate>Fri, 08 Nov 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Proterozoic Rocks</title>
       <link>https://xkcd.com/3008/</link>
@@ -80,13 +87,6 @@
       <description><img src="https://imgs.xkcd.com/comics/demons.png" title="Though they do appreciate how much he improved the heating system for the flame pit." alt="Though they do appreciate how much he improved the heating system for the flame pit." /></description>
       <guid>https://xkcd.com/3006/</guid>
       <pubDate>Fri, 01 Nov 2024 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Disposal</title>
-      <link>https://xkcd.com/3005/</link>
-      <description><img src="https://imgs.xkcd.com/comics/disposal.png" title="We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect." alt="We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect." /></description>
-      <guid>https://xkcd.com/3005/</guid>
-      <pubDate>Wed, 30 Oct 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1023 - The Asstrix</title>
