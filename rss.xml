@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 11 Nov 2024 18:18:33 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Nov 2024 18:18:33 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Nov 2024 01:05:35 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Nov 2024 01:05:35 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Geometriphylogenetics</title>
+      <link>https://xkcd.com/3010/</link>
+      <description><img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" title="There's a maximum likelihood that I'm doing phylogenetics wrong." alt="There's a maximum likelihood that I'm doing phylogenetics wrong." /></description>
+      <guid>https://xkcd.com/3010/</guid>
+      <pubDate>Mon, 11 Nov 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1026 - Coo Coo Coo</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1026-coo-coo-coo/viewer?title_no=352&episode_no=1026</link>
@@ -103,13 +110,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5628749121617159286</guid>
       <pubDate>Sun, 03 Nov 2024 11:29:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Demons</title>
-      <link>https://xkcd.com/3006/</link>
-      <description><img src="https://imgs.xkcd.com/comics/demons.png" title="Though they do appreciate how much he improved the heating system for the flame pit." alt="Though they do appreciate how much he improved the heating system for the flame pit." /></description>
-      <guid>https://xkcd.com/3006/</guid>
-      <pubDate>Fri, 01 Nov 2024 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1023 - The Asstrix</title>
