@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 20 Nov 2024 12:29:45 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Nov 2024 12:29:45 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Nov 2024 18:20:30 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:20:30 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Arizona Chess</title>
+      <link>https://xkcd.com/3014/</link>
+      <description><img src="https://imgs.xkcd.com/comics/arizona_chess.png" title="Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back." alt="Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back." /></description>
+      <guid>https://xkcd.com/3014/</guid>
+      <pubDate>Wed, 20 Nov 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1029 - Abduction</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1029-abduction/viewer?title_no=352&episode_no=1029</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Wed, 13 Nov 2024 02:02:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Geometriphylogenetics</title>
-      <link>https://xkcd.com/3010/</link>
-      <description><img src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" title="There's a maximum likelihood that I'm doing phylogenetics wrong." alt="There's a maximum likelihood that I'm doing phylogenetics wrong." /></description>
-      <guid>https://xkcd.com/3010/</guid>
-      <pubDate>Mon, 11 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1026 - Coo Coo Coo</title>
