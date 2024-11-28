@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 27 Nov 2024 18:20:20 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Nov 2024 18:20:20 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Nov 2024 01:12:35 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:12:35 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Neutrino Modem</title>
+      <link>https://xkcd.com/3017/</link>
+      <description><img src="https://imgs.xkcd.com/comics/neutrino_modem.png" title="Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction." alt="Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction." /></description>
+      <guid>https://xkcd.com/3017/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1031 - Santa's Dead</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1031-santas-dead/viewer?title_no=352&episode_no=1031</link>
@@ -86,13 +93,6 @@
 			
 			</description>
       <pubDate>Wed, 20 Nov 2024 02:02:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Kedging Cannon</title>
-      <link>https://xkcd.com/3013/</link>
-      <description><img src="https://imgs.xkcd.com/comics/kedging_cannon.png" title="The real key was inventing the windmill-powered winch." alt="The real key was inventing the windmill-powered winch." /></description>
-      <guid>https://xkcd.com/3013/</guid>
-      <pubDate>Mon, 18 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1028 - Trespassteroid</title>
