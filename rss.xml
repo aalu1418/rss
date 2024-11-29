@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 29 Nov 2024 12:30:17 +0000</pubDate>
-    <lastBuildDate>Fri, 29 Nov 2024 12:30:17 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Nov 2024 18:20:05 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Nov 2024 18:20:05 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Second Stage</title>
+      <link>https://xkcd.com/3018/</link>
+      <description><img src="https://imgs.xkcd.com/comics/second_stage.png" title="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." alt="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." /></description>
+      <guid>https://xkcd.com/3018/</guid>
+      <pubDate>Fri, 29 Nov 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Neutrino Modem</title>
       <link>https://xkcd.com/3017/</link>
@@ -70,13 +77,6 @@
       <link>http://theoatmeal.com/comics/rip_voicemail?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/rip_voicemail?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/rip_voicemail_big.png" alt="A funeral for voicemail" class="border0" /></a><p>Is voicemail dead?</p><a href="http://theoatmeal.com/comics/rip_voicemail?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 21 Nov 2024 20:04:42 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Arizona Chess</title>
-      <link>https://xkcd.com/3014/</link>
-      <description><img src="https://imgs.xkcd.com/comics/arizona_chess.png" title="Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back." alt="Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back." /></description>
-      <guid>https://xkcd.com/3014/</guid>
-      <pubDate>Wed, 20 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1029 - Abduction</title>
