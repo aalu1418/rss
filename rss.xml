@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 02 Dec 2024 12:32:02 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Dec 2024 12:32:02 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 18:20:51 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 18:20:51 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Advent Calendar Advent Calendar</title>
+      <link>https://xkcd.com/3019/</link>
+      <description><img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" title="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." alt="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." /></description>
+      <guid>https://xkcd.com/3019/</guid>
+      <pubDate>Mon, 02 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep.1032 - Birthday Boy</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep1032-birthday-boy/viewer?title_no=352&episode_no=1032</link>
@@ -87,13 +94,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-2246260080502128451</guid>
       <pubDate>Sun, 24 Nov 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: D Combinatorics</title>
-      <link>https://xkcd.com/3015/</link>
-      <description><img src="https://imgs.xkcd.com/comics/dnd_combinatorics.png" title="Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys." alt="Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys." /></description>
-      <guid>https://xkcd.com/3015/</guid>
-      <pubDate>Fri, 22 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: A funeral for voicemail</title>
