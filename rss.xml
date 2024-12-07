@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 06 Dec 2024 18:20:45 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Dec 2024 18:20:45 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Dec 2024 01:12:46 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Dec 2024 01:12:46 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Seismologists</title>
+      <link>https://xkcd.com/3021/</link>
+      <description><img src="https://imgs.xkcd.com/comics/seismologists.png" title="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." alt="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." /></description>
+      <guid>https://xkcd.com/3021/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Infinite Armada Chess</title>
       <link>https://xkcd.com/3020/</link>
@@ -64,13 +71,6 @@
       <description><img src="https://imgs.xkcd.com/comics/second_stage.png" title="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." alt="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." /></description>
       <guid>https://xkcd.com/3018/</guid>
       <pubDate>Fri, 29 Nov 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Neutrino Modem</title>
-      <link>https://xkcd.com/3017/</link>
-      <description><img src="https://imgs.xkcd.com/comics/neutrino_modem.png" title="Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction." alt="Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction." /></description>
-      <guid>https://xkcd.com/3017/</guid>
-      <pubDate>Wed, 27 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1031 - Santa's Dead</title>
