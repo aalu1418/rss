@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 10 Dec 2024 01:15:00 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Dec 2024 01:15:00 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Dec 2024 06:22:08 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Dec 2024 06:22:08 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Making Tea</title>
+      <link>https://xkcd.com/3022/</link>
+      <description><img src="https://imgs.xkcd.com/comics/making_tea.png" title="No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately." alt="No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately." /></description>
+      <guid>https://xkcd.com/3022/</guid>
+      <pubDate>Mon, 09 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1034 - Darts</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1034-darts/viewer?title_no=352&episode_no=1034</link>
@@ -87,13 +94,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-9197189980076141923</guid>
       <pubDate>Sun, 01 Dec 2024 11:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Second Stage</title>
-      <link>https://xkcd.com/3018/</link>
-      <description><img src="https://imgs.xkcd.com/comics/second_stage.png" title="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." alt="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." /></description>
-      <guid>https://xkcd.com/3018/</guid>
-      <pubDate>Fri, 29 Nov 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1031 - Santa's Dead</title>
