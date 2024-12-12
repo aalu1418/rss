@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 11 Dec 2024 18:21:23 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Dec 2024 18:21:23 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 01:13:32 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:13:32 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: The Maritime Approximation</title>
+      <link>https://xkcd.com/3023/</link>
+      <description><img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png" title="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." alt="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." /></description>
+      <guid>https://xkcd.com/3023/</guid>
+      <pubDate>Wed, 11 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1035 - Bread Pun</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1035-bread-pun/viewer?title_no=352&episode_no=1035</link>
@@ -80,13 +87,6 @@
 			
 			</description>
       <pubDate>Wed, 04 Dec 2024 02:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Advent Calendar Advent Calendar</title>
-      <link>https://xkcd.com/3019/</link>
-      <description><img src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" title="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." alt="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." /></description>
-      <guid>https://xkcd.com/3019/</guid>
-      <pubDate>Mon, 02 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep.1032 - Birthday Boy</title>
