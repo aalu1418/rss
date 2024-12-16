@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 16 Dec 2024 12:32:24 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2024 12:32:24 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 18:21:19 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 18:21:19 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Phase Change</title>
+      <link>https://xkcd.com/3025/</link>
+      <description><img src="https://imgs.xkcd.com/comics/phase_change.png" title="Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation." alt="Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation." /></description>
+      <guid>https://xkcd.com/3025/</guid>
+      <pubDate>Mon, 16 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AwkwardYeti: Never give up, etcetera</title>
       <link>https://theawkwardyeti.com/comic/never-give-up-etcetera/?utm_source=rss&utm_medium=rss&utm_campaign=never-give-up-etcetera</link>
@@ -111,13 +118,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8700135692519697167</guid>
       <pubDate>Sun, 08 Dec 2024 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Seismologists</title>
-      <link>https://xkcd.com/3021/</link>
-      <description><img src="https://imgs.xkcd.com/comics/seismologists.png" title="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." alt="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." /></description>
-      <guid>https://xkcd.com/3021/</guid>
-      <pubDate>Fri, 06 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1033 - Mole People</title>
