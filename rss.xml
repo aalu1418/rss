@@ -3,8 +3,14 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 20 Dec 2024 18:19:06 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Dec 2024 18:19:06 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Dec 2024 01:06:38 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:06:38 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: Rudolph with your nose so bright</title>
+      <link>http://theoatmeal.com/comics/rudolph?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/rudolph?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/rudolph_big.png" alt="Rudolph with your nose so bright" class="border0" /></a><p>Won't you guide my sleigh tonight?</p><a href="http://theoatmeal.com/comics/rudolph?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Fri, 20 Dec 2024 18:45:39 +0100</pubDate>
+    </item>
     <item>
       <title>XKCD: Linear Sort</title>
       <link>https://xkcd.com/3026/</link>
@@ -847,12 +853,6 @@
 			
 			</description>
       <pubDate>Thu, 18 Apr 2024 16:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Now is your moment to shine</title>
-      <link>http://theoatmeal.com/comics/eclipse?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/eclipse?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/eclipse_big.png" alt="Now is your moment to shine" class="border0" /></a><p>A comic about an eclipse.</p><a href="http://theoatmeal.com/comics/eclipse?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Mon, 08 Apr 2024 17:00:01 +0100</pubDate>
     </item>
     <item>
       <title>LovingReaper: Did you hear that?</title>
