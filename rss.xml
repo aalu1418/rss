@@ -3,13 +3,20 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 21 Dec 2024 01:06:38 +0000</pubDate>
-    <lastBuildDate>Sat, 21 Dec 2024 01:06:38 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Dec 2024 06:18:29 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Dec 2024 06:18:29 +0000</lastBuildDate>
     <item>
       <title>TheOatmeal: Rudolph with your nose so bright</title>
       <link>http://theoatmeal.com/comics/rudolph?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/rudolph?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/rudolph_big.png" alt="Rudolph with your nose so bright" class="border0" /></a><p>Won't you guide my sleigh tonight?</p><a href="http://theoatmeal.com/comics/rudolph?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Fri, 20 Dec 2024 18:45:39 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Exclusion Principle</title>
+      <link>https://xkcd.com/3027/</link>
+      <description><img src="https://imgs.xkcd.com/comics/exclusion_principle.png" title="Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way." alt="Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way." /></description>
+      <guid>https://xkcd.com/3027/</guid>
+      <pubDate>Fri, 20 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XKCD: Linear Sort</title>
@@ -94,13 +101,6 @@
       <description><img src="https://imgs.xkcd.com/comics/metar.png" title="In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM." alt="In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM." /></description>
       <guid>https://xkcd.com/3024/</guid>
       <pubDate>Fri, 13 Dec 2024 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: The Maritime Approximation</title>
-      <link>https://xkcd.com/3023/</link>
-      <description><img src="https://imgs.xkcd.com/comics/the_maritime_approximation.png" title="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." alt="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." /></description>
-      <guid>https://xkcd.com/3023/</guid>
-      <pubDate>Wed, 11 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1035 - Bread Pun</title>
