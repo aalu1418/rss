@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 24 Dec 2024 01:07:34 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Dec 2024 01:07:34 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Dec 2024 06:20:10 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Dec 2024 06:20:10 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: D Roll</title>
+      <link>https://xkcd.com/3028/</link>
+      <description><img src="https://imgs.xkcd.com/comics/dnd_roll.png" title="Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8's greater pointiness you actually have to roll a D12 and D8 respectively to determine damage." alt="Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8's greater pointiness you actually have to roll a D12 and D8 respectively to determine damage." /></description>
+      <guid>https://xkcd.com/3028/</guid>
+      <pubDate>Mon, 23 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep 1038 - Finale (Part 1/3)</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1038-finale-part-13/viewer?title_no=352&episode_no=1038</link>
@@ -117,13 +124,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5461889391969622277</guid>
       <pubDate>Sun, 15 Dec 2024 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: METAR</title>
-      <link>https://xkcd.com/3024/</link>
-      <description><img src="https://imgs.xkcd.com/comics/metar.png" title="In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM." alt="In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM." /></description>
-      <guid>https://xkcd.com/3024/</guid>
-      <pubDate>Fri, 13 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1035 - Bread Pun</title>
