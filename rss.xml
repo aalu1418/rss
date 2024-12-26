@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 25 Dec 2024 18:18:34 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2024 18:18:34 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Dec 2024 01:07:06 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Dec 2024 01:07:06 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Sun Avoidance</title>
+      <link>https://xkcd.com/3029/</link>
+      <description><img src="https://imgs.xkcd.com/comics/sun_avoidance.png" title="C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny." alt="C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny." /></description>
+      <guid>https://xkcd.com/3029/</guid>
+      <pubDate>Wed, 25 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1039 - Finale (Part 2/3)</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1039-finale-part-23/viewer?title_no=352&episode_no=1039</link>
@@ -86,13 +93,6 @@
 			
 			</description>
       <pubDate>Wed, 18 Dec 2024 02:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Phase Change</title>
-      <link>https://xkcd.com/3025/</link>
-      <description><img src="https://imgs.xkcd.com/comics/phase_change.png" title="Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation." alt="Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation." /></description>
-      <guid>https://xkcd.com/3025/</guid>
-      <pubDate>Mon, 16 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>AwkwardYeti: Never give up, etcetera</title>
