@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 30 Dec 2024 18:19:07 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Dec 2024 18:19:07 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Dec 2024 01:07:19 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:07:19 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Time Capsule Instructions</title>
+      <link>https://xkcd.com/3031/</link>
+      <description><img src="https://imgs.xkcd.com/comics/time_capsule_instructions.png" title="Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES." alt="Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES." /></description>
+      <guid>https://xkcd.com/3031/</guid>
+      <pubDate>Mon, 30 Dec 2024 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>SafelyEndangered: Ep. 1040 - Finale (Part 3/3)</title>
       <link>https://www.webtoons.com/en/comedy/safely-endangered/ep-1040-finale-part-33/viewer?title_no=352&episode_no=1040</link>
@@ -93,13 +100,6 @@
       <link>http://theoatmeal.com/comics/rudolph?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/rudolph?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/rudolph_big.png" alt="Rudolph with your nose so bright" class="border0" /></a><p>Won't you guide my sleigh tonight?</p><a href="http://theoatmeal.com/comics/rudolph?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Fri, 20 Dec 2024 18:45:39 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Exclusion Principle</title>
-      <link>https://xkcd.com/3027/</link>
-      <description><img src="https://imgs.xkcd.com/comics/exclusion_principle.png" title="Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way." alt="Fermions are weird about each other in a standoffish way. Integer-spin particles are weird about each other in a 'stand uncomfortably close while talking' kind of way." /></description>
-      <guid>https://xkcd.com/3027/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1037 - Lunartic</title>
