@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 06 Jan 2025 18:19:34 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Jan 2025 18:19:34 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 01:08:09 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:08:09 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Features of Adulthood</title>
+      <link>https://xkcd.com/3034/</link>
+      <description><img src="https://imgs.xkcd.com/comics/features_of_adulthood.png" title="I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month." alt="I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month." /></description>
+      <guid>https://xkcd.com/3034/</guid>
+      <pubDate>Mon, 06 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Supreme Qurt</title>
       <link>http://www.itchyfeetcomic.com/2025/01/supreme-qurt.html</link>
@@ -71,13 +78,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-5387290696561415066</guid>
       <pubDate>Sun, 29 Dec 2024 19:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Lasering Incidents</title>
-      <link>https://xkcd.com/3030/</link>
-      <description><img src="https://imgs.xkcd.com/comics/lasering_incidents.png" title="I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range." alt="I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range." /></description>
-      <guid>https://xkcd.com/3030/</guid>
-      <pubDate>Fri, 27 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1039 - Finale (Part 2/3)</title>
