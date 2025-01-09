@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Thu, 09 Jan 2025 01:07:41 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Jan 2025 01:07:41 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jan 2025 06:19:50 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jan 2025 06:19:50 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Trimix</title>
+      <link>https://xkcd.com/3035/</link>
+      <description><img src="https://imgs.xkcd.com/comics/trimix.png" title="You don't want the nitrogen percentage to be too high or you run the risk of eutrophication." alt="You don't want the nitrogen percentage to be too high or you run the risk of eutrophication." /></description>
+      <guid>https://xkcd.com/3035/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Features of Adulthood</title>
       <link>https://xkcd.com/3034/</link>
@@ -48,13 +55,6 @@
       <description><img src="https://imgs.xkcd.com/comics/skew_t_log_p.png" title="The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second." alt="The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second." /></description>
       <guid>https://xkcd.com/3032/</guid>
       <pubDate>Wed, 01 Jan 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Time Capsule Instructions</title>
-      <link>https://xkcd.com/3031/</link>
-      <description><img src="https://imgs.xkcd.com/comics/time_capsule_instructions.png" title="Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES." alt="Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES." /></description>
-      <guid>https://xkcd.com/3031/</guid>
-      <pubDate>Mon, 30 Dec 2024 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1040 - Finale (Part 3/3)</title>
