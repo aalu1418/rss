@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 15 Jan 2025 12:27:33 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Jan 2025 12:27:33 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2025 18:18:47 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:18:47 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Uncanceled Units</title>
+      <link>https://xkcd.com/3038/</link>
+      <description><img src="https://imgs.xkcd.com/comics/uncanceled_units.png" title="Speed limit c arcminutes^2 per steradian" alt="Speed limit c arcminutes^2 per steradian" /></description>
+      <guid>https://xkcd.com/3038/</guid>
+      <pubDate>Wed, 15 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Radon</title>
       <link>https://xkcd.com/3037/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/trimix.png" title="You don't want the nitrogen percentage to be too high or you run the risk of eutrophication." alt="You don't want the nitrogen percentage to be too high or you run the risk of eutrophication." /></description>
       <guid>https://xkcd.com/3035/</guid>
       <pubDate>Wed, 08 Jan 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Features of Adulthood</title>
-      <link>https://xkcd.com/3034/</link>
-      <description><img src="https://imgs.xkcd.com/comics/features_of_adulthood.png" title="I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month." alt="I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month." /></description>
-      <guid>https://xkcd.com/3034/</guid>
-      <pubDate>Mon, 06 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Supreme Qurt</title>
