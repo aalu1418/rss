@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 21 Jan 2025 01:05:47 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Jan 2025 01:05:47 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jan 2025 06:19:44 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jan 2025 06:19:44 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Chemical Formulas</title>
+      <link>https://xkcd.com/3040/</link>
+      <description><img src="https://imgs.xkcd.com/comics/chemical_formulas.png" title="Can you pass the nackle?" alt="Can you pass the nackle?" /></description>
+      <guid>https://xkcd.com/3040/</guid>
+      <pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>LovingReaper: Visitors</title>
       <link>https://www.webtoons.com/en/canvas/loving-reaper/visitors/viewer?title_no=353275&episode_no=67</link>
@@ -55,13 +62,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-340075119675862758</guid>
       <pubDate>Sun, 12 Jan 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Chess Zoo</title>
-      <link>https://xkcd.com/3036/</link>
-      <description><img src="https://imgs.xkcd.com/comics/chess_zoo.png" title="The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity." alt="The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity." /></description>
-      <guid>https://xkcd.com/3036/</guid>
-      <pubDate>Fri, 10 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Supreme Qurt</title>
