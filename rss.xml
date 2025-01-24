@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 24 Jan 2025 12:27:27 +0000</pubDate>
-    <lastBuildDate>Fri, 24 Jan 2025 12:27:27 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jan 2025 18:19:05 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jan 2025 18:19:05 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: T. Rex Evolution</title>
+      <link>https://xkcd.com/3042/</link>
+      <description><img src="https://imgs.xkcd.com/comics/t_rex_evolution.png" title="Unfortunately, body size and bite force continue to increase." alt="Unfortunately, body size and bite force continue to increase." /></description>
+      <guid>https://xkcd.com/3042/</guid>
+      <pubDate>Fri, 24 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Unit Circle</title>
       <link>https://xkcd.com/3041/</link>
@@ -54,13 +61,6 @@
       <description><img src="https://imgs.xkcd.com/comics/human_altitude.png" title="I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano." alt="I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano." /></description>
       <guid>https://xkcd.com/3039/</guid>
       <pubDate>Fri, 17 Jan 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Uncanceled Units</title>
-      <link>https://xkcd.com/3038/</link>
-      <description><img src="https://imgs.xkcd.com/comics/uncanceled_units.png" title="Speed limit c arcminutes^2 per steradian" alt="Speed limit c arcminutes^2 per steradian" /></description>
-      <guid>https://xkcd.com/3038/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Macro-Exonymics</title>
