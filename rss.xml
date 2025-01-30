@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 29 Jan 2025 18:19:11 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Jan 2025 18:19:11 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jan 2025 01:04:52 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jan 2025 01:04:52 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Humidifier Review</title>
+      <link>https://xkcd.com/3044/</link>
+      <description><img src="https://imgs.xkcd.com/comics/humidifier_review.png" title="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." alt="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." /></description>
+      <guid>https://xkcd.com/3044/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Muons</title>
       <link>https://xkcd.com/3043/</link>
@@ -38,13 +45,6 @@
       <link>http://theoatmeal.com/comics/150_characters?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/150_characters?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/150_characters_big.png" alt="In 150 characters or less" class="border0" /></a><p>This is based on a poem by Nikita Gill</p><a href="http://theoatmeal.com/comics/150_characters?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Tue, 21 Jan 2025 20:46:26 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Chemical Formulas</title>
-      <link>https://xkcd.com/3040/</link>
-      <description><img src="https://imgs.xkcd.com/comics/chemical_formulas.png" title="Can you pass the nackle?" alt="Can you pass the nackle?" /></description>
-      <guid>https://xkcd.com/3040/</guid>
-      <pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>LovingReaper: Visitors</title>
