@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 31 Jan 2025 18:18:41 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2025 18:18:41 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Feb 2025 01:10:05 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Feb 2025 01:10:05 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: AlphaMove</title>
+      <link>https://xkcd.com/3045/</link>
+      <description><img src="https://imgs.xkcd.com/comics/alphamove.png" title="It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four." alt="It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four." /></description>
+      <guid>https://xkcd.com/3045/</guid>
+      <pubDate>Fri, 31 Jan 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Humidifier Review</title>
       <link>https://xkcd.com/3044/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/t_rex_evolution.png" title="Unfortunately, body size and bite force continue to increase." alt="Unfortunately, body size and bite force continue to increase." /></description>
       <guid>https://xkcd.com/3042/</guid>
       <pubDate>Fri, 24 Jan 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Unit Circle</title>
-      <link>https://xkcd.com/3041/</link>
-      <description><img src="https://imgs.xkcd.com/comics/unit_circle.png" title="They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties." alt="They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties." /></description>
-      <guid>https://xkcd.com/3041/</guid>
-      <pubDate>Wed, 22 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: In 150 characters or less</title>
