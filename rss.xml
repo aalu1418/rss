@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 05 Feb 2025 12:28:17 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Feb 2025 12:28:17 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Feb 2025 18:19:25 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:19:25 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Rotary Tool</title>
+      <link>https://xkcd.com/3047/</link>
+      <description><img src="https://imgs.xkcd.com/comics/rotary_tool.png" title="It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8." alt="It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8." /></description>
+      <guid>https://xkcd.com/3047/</guid>
+      <pubDate>Wed, 05 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Stromatolites</title>
       <link>https://xkcd.com/3046/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/humidifier_review.png" title="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." alt="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." /></description>
       <guid>https://xkcd.com/3044/</guid>
       <pubDate>Wed, 29 Jan 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Muons</title>
-      <link>https://xkcd.com/3043/</link>
-      <description><img src="https://imgs.xkcd.com/comics/muons.png" title="Update: I've been banned from the physics department for the way I pronounce &quot;Doppler effect.&quot;" alt="Update: I've been banned from the physics department for the way I pronounce &quot;Doppler effect.&quot;" /></description>
-      <guid>https://xkcd.com/3043/</guid>
-      <pubDate>Mon, 27 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Delayed Urgency</title>
