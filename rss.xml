@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 07 Feb 2025 18:19:07 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2025 18:19:07 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Feb 2025 01:05:21 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2025 01:05:21 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Suspension Bridge</title>
+      <link>https://xkcd.com/3048/</link>
+      <description><img src="https://imgs.xkcd.com/comics/suspension_bridge.png" title="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." alt="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." /></description>
+      <guid>https://xkcd.com/3048/</guid>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Rotary Tool</title>
       <link>https://xkcd.com/3047/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/alphamove.png" title="It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four." alt="It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four." /></description>
       <guid>https://xkcd.com/3045/</guid>
       <pubDate>Fri, 31 Jan 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Humidifier Review</title>
-      <link>https://xkcd.com/3044/</link>
-      <description><img src="https://imgs.xkcd.com/comics/humidifier_review.png" title="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." alt="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." /></description>
-      <guid>https://xkcd.com/3044/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Delayed Urgency</title>
