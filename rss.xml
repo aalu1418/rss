@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 10 Feb 2025 18:19:39 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Feb 2025 18:19:39 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 01:07:02 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 01:07:02 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Incoming Asteroid</title>
+      <link>https://xkcd.com/3049/</link>
+      <description><img src="https://imgs.xkcd.com/comics/incoming_asteroid.png" title="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." alt="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." /></description>
+      <guid>https://xkcd.com/3049/</guid>
+      <pubDate>Mon, 10 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Preferential Mistreatment</title>
       <link>http://www.itchyfeetcomic.com/2025/02/preferential-mistreatment.html</link>
@@ -39,13 +46,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3886690453549627145</guid>
       <pubDate>Sun, 02 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: AlphaMove</title>
-      <link>https://xkcd.com/3045/</link>
-      <description><img src="https://imgs.xkcd.com/comics/alphamove.png" title="It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four." alt="It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four." /></description>
-      <guid>https://xkcd.com/3045/</guid>
-      <pubDate>Fri, 31 Jan 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Delayed Urgency</title>
@@ -812,9 +812,9 @@
     </item>
     <item>
       <title>Odd1sout: Blueberries</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/blueberries</link>
+      <link>https://www.theodd1sout.com/blogs/comics/blueberries</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/blueberries</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/blueberries</guid>
       <pubDate>Fri, 31 May 2024 17:40:15 +0000</pubDate>
     </item>
     <item>
@@ -825,30 +825,30 @@
     </item>
     <item>
       <title>Odd1sout: Cracked Spider</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/cracked-spider</link>
+      <link>https://www.theodd1sout.com/blogs/comics/cracked-spider</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/cracked-spider</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/cracked-spider</guid>
       <pubDate>Fri, 17 May 2024 17:09:31 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Weak Stomach</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/weak-stomach</link>
+      <link>https://www.theodd1sout.com/blogs/comics/weak-stomach</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/weak-stomach</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/weak-stomach</guid>
       <pubDate>Fri, 17 May 2024 16:50:55 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Burrito</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/burrito</link>
+      <link>https://www.theodd1sout.com/blogs/comics/burrito</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/burrito</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/burrito</guid>
       <pubDate>Fri, 17 May 2024 16:43:33 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Minecraft</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/minecraft</link>
+      <link>https://www.theodd1sout.com/blogs/comics/minecraft</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/minecraft</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/minecraft</guid>
       <pubDate>Fri, 17 May 2024 16:40:40 +0000</pubDate>
     </item>
     <item>
@@ -923,16 +923,16 @@
     </item>
     <item>
       <title>Odd1sout: Text Them</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/text-them</link>
+      <link>https://www.theodd1sout.com/blogs/comics/text-them</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/text-them</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/text-them</guid>
       <pubDate>Fri, 05 Apr 2024 18:19:38 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Deviled Eggs</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/deviled-eggs</link>
+      <link>https://www.theodd1sout.com/blogs/comics/deviled-eggs</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/deviled-eggs</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/deviled-eggs</guid>
       <pubDate>Mon, 01 Apr 2024 23:49:04 +0000</pubDate>
     </item>
     <item>
@@ -956,30 +956,30 @@ Thank you so much and especially thank you for your patience :')
     </item>
     <item>
       <title>Odd1sout: Adderall</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/adderall</link>
+      <link>https://www.theodd1sout.com/blogs/comics/adderall</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/adderall</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/adderall</guid>
       <pubDate>Fri, 22 Mar 2024 17:53:50 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Saint Patrick's Day</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/saint-patricks-day</link>
+      <link>https://www.theodd1sout.com/blogs/comics/saint-patricks-day</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/saint-patricks-day</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/saint-patricks-day</guid>
       <pubDate>Fri, 15 Mar 2024 19:00:08 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: The Unknown</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/the-unknown</link>
+      <link>https://www.theodd1sout.com/blogs/comics/the-unknown</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/the-unknown</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/the-unknown</guid>
       <pubDate>Fri, 15 Mar 2024 18:50:44 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Live Action Remake</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/live-action-remake</link>
+      <link>https://www.theodd1sout.com/blogs/comics/live-action-remake</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/live-action-remake</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/live-action-remake</guid>
       <pubDate>Fri, 15 Mar 2024 18:49:00 +0000</pubDate>
     </item>
     <item>
@@ -1000,9 +1000,9 @@ Thank you so much and especially thank you for your patience :')
     </item>
     <item>
       <title>Odd1sout: False Hairball</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/false-hairball</link>
+      <link>https://www.theodd1sout.com/blogs/comics/false-hairball</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/false-hairball</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/false-hairball</guid>
       <pubDate>Mon, 26 Feb 2024 18:24:39 +0000</pubDate>
     </item>
     <item>
@@ -1023,9 +1023,9 @@ Thank you so much and especially thank you for your patience :')
     </item>
     <item>
       <title>Odd1sout: Pickup Lines</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/pickup-lines</link>
+      <link>https://www.theodd1sout.com/blogs/comics/pickup-lines</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/pickup-lines</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/pickup-lines</guid>
       <pubDate>Fri, 09 Feb 2024 21:10:41 +0000</pubDate>
     </item>
     <item>
@@ -1046,9 +1046,9 @@ Thank you so much and especially thank you for your patience :')
     </item>
     <item>
       <title>Odd1sout: Cupid's Arrow</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/cupids-arrow</link>
+      <link>https://www.theodd1sout.com/blogs/comics/cupids-arrow</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/cupids-arrow</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/cupids-arrow</guid>
       <pubDate>Mon, 05 Feb 2024 21:50:06 +0000</pubDate>
     </item>
     <item>
@@ -1072,16 +1072,16 @@ looking after Boris for years and lets him out into the wild (under guard) as of
     </item>
     <item>
       <title>Odd1sout: Jobs</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/jobs</link>
+      <link>https://www.theodd1sout.com/blogs/comics/jobs</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/jobs</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/jobs</guid>
       <pubDate>Fri, 26 Jan 2024 17:37:05 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Work of Art</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/work-of-art</link>
+      <link>https://www.theodd1sout.com/blogs/comics/work-of-art</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/work-of-art</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/work-of-art</guid>
       <pubDate>Mon, 22 Jan 2024 17:30:52 +0000</pubDate>
     </item>
     <item>
@@ -1102,9 +1102,9 @@ looking after Boris for years and lets him out into the wild (under guard) as of
     </item>
     <item>
       <title>Odd1sout: Tail</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/tail</link>
+      <link>https://www.theodd1sout.com/blogs/comics/tail</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/tail</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/tail</guid>
       <pubDate>Fri, 05 Jan 2024 19:18:37 +0000</pubDate>
     </item>
     <item>
@@ -1160,23 +1160,23 @@ But for now, whatever you celebrate (or not) I hope you'll have relaxing holiday
     </item>
     <item>
       <title>Odd1sout: Krispy Kringle</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/krispy-kringle</link>
+      <link>https://www.theodd1sout.com/blogs/comics/krispy-kringle</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/krispy-kringle</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/krispy-kringle</guid>
       <pubDate>Fri, 22 Dec 2023 17:57:22 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Polar Express</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/polar-express</link>
+      <link>https://www.theodd1sout.com/blogs/comics/polar-express</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/polar-express</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/polar-express</guid>
       <pubDate>Fri, 22 Dec 2023 17:37:19 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Santa?</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/santa</link>
+      <link>https://www.theodd1sout.com/blogs/comics/santa</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/santa</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/santa</guid>
       <pubDate>Fri, 22 Dec 2023 17:35:05 +0000</pubDate>
     </item>
     <item>
@@ -1198,30 +1198,30 @@ But for now, whatever you celebrate (or not) I hope you'll have relaxing holiday
     </item>
     <item>
       <title>Odd1sout: Caramel Apple</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/caramel-apple</link>
+      <link>https://www.theodd1sout.com/blogs/comics/caramel-apple</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/caramel-apple</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/caramel-apple</guid>
       <pubDate>Mon, 20 Nov 2023 18:52:32 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: November 1st</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/november-1st</link>
+      <link>https://www.theodd1sout.com/blogs/comics/november-1st</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/november-1st</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/november-1st</guid>
       <pubDate>Fri, 10 Nov 2023 19:16:36 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Busy</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/busy</link>
+      <link>https://www.theodd1sout.com/blogs/comics/busy</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/busy</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/busy</guid>
       <pubDate>Fri, 03 Nov 2023 18:53:27 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Headless Horseman</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/headless-horseman</link>
+      <link>https://www.theodd1sout.com/blogs/comics/headless-horseman</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/headless-horseman</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/headless-horseman</guid>
       <pubDate>Fri, 03 Nov 2023 16:34:45 +0000</pubDate>
     </item>
     <item>
@@ -1291,16 +1291,16 @@ And thank you for helping Loving Reaper to grow so much <3
     </item>
     <item>
       <title>Odd1sout: Costume Contest</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/costume-contest</link>
+      <link>https://www.theodd1sout.com/blogs/comics/costume-contest</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/costume-contest</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/costume-contest</guid>
       <pubDate>Fri, 20 Oct 2023 17:28:45 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Decorations</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/decorations</link>
+      <link>https://www.theodd1sout.com/blogs/comics/decorations</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/decorations</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/decorations</guid>
       <pubDate>Fri, 13 Oct 2023 18:19:11 +0000</pubDate>
     </item>
     <item>
@@ -1361,16 +1361,16 @@ And thank you for helping Loving Reaper to grow so much <3
     </item>
     <item>
       <title>Odd1sout: Senior Discount</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/senior-discount</link>
+      <link>https://www.theodd1sout.com/blogs/comics/senior-discount</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/senior-discount</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/senior-discount</guid>
       <pubDate>Fri, 22 Sep 2023 18:12:15 +0000</pubDate>
     </item>
     <item>
       <title>Odd1sout: Remote Death</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/remote-death</link>
+      <link>https://www.theodd1sout.com/blogs/comics/remote-death</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/remote-death</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/remote-death</guid>
       <pubDate>Tue, 19 Sep 2023 21:49:16 +0000</pubDate>
     </item>
     <item>
@@ -1407,9 +1407,9 @@ And thank you for helping Loving Reaper to grow so much <3
     </item>
     <item>
       <title>Odd1sout: Multiplayer Game</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/multiplayer-game</link>
+      <link>https://www.theodd1sout.com/blogs/comics/multiplayer-game</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/multiplayer-game</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/multiplayer-game</guid>
       <pubDate>Fri, 01 Sep 2023 18:07:19 +0000</pubDate>
     </item>
     <item>
@@ -1422,9 +1422,9 @@ And thank you for helping Loving Reaper to grow so much <3
     </item>
     <item>
       <title>Odd1sout: Chips</title>
-      <link>https://odd1sout.myshopify.com/blogs/comics/chips-1</link>
+      <link>https://www.theodd1sout.com/blogs/comics/chips-1</link>
       <description></description>
-      <guid>https://odd1sout.myshopify.com/blogs/comics/chips-1</guid>
+      <guid>https://www.theodd1sout.com/blogs/comics/chips-1</guid>
       <pubDate>Fri, 18 Aug 2023 18:21:31 +0000</pubDate>
     </item>
     <item>
