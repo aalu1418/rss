@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 12 Feb 2025 12:28:25 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Feb 2025 12:28:25 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Feb 2025 18:19:40 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Feb 2025 18:19:40 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Atom</title>
+      <link>https://xkcd.com/3050/</link>
+      <description><img src="https://imgs.xkcd.com/comics/atom.png" title="What's weirder is that muons turned out to be INCREDIBLY cute." alt="What's weirder is that muons turned out to be INCREDIBLY cute." /></description>
+      <guid>https://xkcd.com/3050/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Incoming Asteroid</title>
       <link>https://xkcd.com/3049/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/rotary_tool.png" title="It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8." alt="It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8." /></description>
       <guid>https://xkcd.com/3047/</guid>
       <pubDate>Wed, 05 Feb 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Stromatolites</title>
-      <link>https://xkcd.com/3046/</link>
-      <description><img src="https://imgs.xkcd.com/comics/stromatolites.png" title="If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here." alt="If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here." /></description>
-      <guid>https://xkcd.com/3046/</guid>
-      <pubDate>Mon, 03 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Fonétikular</title>
