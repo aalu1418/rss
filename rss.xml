@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 15 Feb 2025 01:06:35 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2025 01:06:35 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Feb 2025 06:18:32 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Feb 2025 06:18:32 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Hardwood</title>
+      <link>https://xkcd.com/3051/</link>
+      <description><img src="https://imgs.xkcd.com/comics/hardwood.png" title="They may technically have been softwoods at some point, but they definitely aren't now." alt="They may technically have been softwoods at some point, but they definitely aren't now." /></description>
+      <guid>https://xkcd.com/3051/</guid>
+      <pubDate>Fri, 14 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Atom</title>
       <link>https://xkcd.com/3050/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/suspension_bridge.png" title="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." alt="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." /></description>
       <guid>https://xkcd.com/3048/</guid>
       <pubDate>Fri, 07 Feb 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Rotary Tool</title>
-      <link>https://xkcd.com/3047/</link>
-      <description><img src="https://imgs.xkcd.com/comics/rotary_tool.png" title="It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8." alt="It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8." /></description>
-      <guid>https://xkcd.com/3047/</guid>
-      <pubDate>Wed, 05 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Fonétikular</title>
