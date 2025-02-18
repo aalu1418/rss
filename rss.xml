@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 17 Feb 2025 18:19:12 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Feb 2025 18:19:12 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Feb 2025 01:07:32 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Feb 2025 01:07:32 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Archive Request</title>
+      <link>https://xkcd.com/3052/</link>
+      <description><img src="https://imgs.xkcd.com/comics/archive_request.png" title="They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)" alt="They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)" /></description>
+      <guid>https://xkcd.com/3052/</guid>
+      <pubDate>Mon, 17 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Pal-entine's Day</title>
       <link>http://www.itchyfeetcomic.com/2025/02/pal-entines-day.html</link>
@@ -39,13 +46,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-6735043574982808163</guid>
       <pubDate>Sun, 09 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Suspension Bridge</title>
-      <link>https://xkcd.com/3048/</link>
-      <description><img src="https://imgs.xkcd.com/comics/suspension_bridge.png" title="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." alt="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." /></description>
-      <guid>https://xkcd.com/3048/</guid>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Fonétikular</title>
