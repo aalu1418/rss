@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 19 Feb 2025 12:26:19 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Feb 2025 12:26:19 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 18:18:14 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 18:18:14 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: KM3NeT</title>
+      <link>https://xkcd.com/3053/</link>
+      <description><img src="https://imgs.xkcd.com/comics/km3net.png" title="Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers." alt="Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers." /></description>
+      <guid>https://xkcd.com/3053/</guid>
+      <pubDate>Wed, 19 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Archive Request</title>
       <link>https://xkcd.com/3052/</link>
@@ -32,13 +39,6 @@
       <description><img src="https://imgs.xkcd.com/comics/atom.png" title="What's weirder is that muons turned out to be INCREDIBLY cute." alt="What's weirder is that muons turned out to be INCREDIBLY cute." /></description>
       <guid>https://xkcd.com/3050/</guid>
       <pubDate>Wed, 12 Feb 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Incoming Asteroid</title>
-      <link>https://xkcd.com/3049/</link>
-      <description><img src="https://imgs.xkcd.com/comics/incoming_asteroid.png" title="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." alt="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." /></description>
-      <guid>https://xkcd.com/3049/</guid>
-      <pubDate>Mon, 10 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Preferential Mistreatment</title>
