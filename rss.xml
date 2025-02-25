@@ -3,8 +3,14 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 24 Feb 2025 18:20:20 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2025 18:20:20 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Feb 2025 01:09:36 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 01:09:36 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: Stop trying to solve my problem</title>
+      <link>http://theoatmeal.com/comics/solve_my_problem?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/solve_my_problem?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/solve_my_problem_big.png" alt="Stop trying to solve my problem" class="border0" /></a><p>A lifesaver</p><a href="http://theoatmeal.com/comics/solve_my_problem?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Mon, 24 Feb 2025 22:50:32 +0100</pubDate>
+    </item>
     <item>
       <title>XKCD: Giants</title>
       <link>https://xkcd.com/3055/</link>
@@ -866,12 +872,6 @@
 			
 			</description>
       <pubDate>Mon, 13 May 2024 14:53:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Watch the trailer for Exploding Kittens</title>
-      <link>http://theoatmeal.com/blog/netflix_trailer2?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/blog/netflix_trailer2?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/netflix_trailer2_big.png" alt="Watch the trailer for Exploding Kittens" class="border0" /></a><p>Exploding Kittens will be on Netflix on July 12, 2024</p><a href="http://theoatmeal.com/blog/netflix_trailer2?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Thu, 09 May 2024 18:17:00 +0100</pubDate>
     </item>
     <item>
       <title>LovingReaper: HI! I'M CHARLIE!</title>
