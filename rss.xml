@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 28 Feb 2025 12:28:57 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Feb 2025 12:28:57 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Feb 2025 18:20:04 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Feb 2025 18:20:04 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Excusing Yourself</title>
+      <link>https://xkcd.com/3057/</link>
+      <description><img src="https://imgs.xkcd.com/comics/excusing_yourself.png" title="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." alt="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." /></description>
+      <guid>https://xkcd.com/3057/</guid>
+      <pubDate>Fri, 28 Feb 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: RNA</title>
       <link>https://xkcd.com/3056/</link>
@@ -38,13 +45,6 @@
       <description><img src="https://imgs.xkcd.com/comics/scream_cipher.png" title="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" alt="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" /></description>
       <guid>https://xkcd.com/3054/</guid>
       <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: KM3NeT</title>
-      <link>https://xkcd.com/3053/</link>
-      <description><img src="https://imgs.xkcd.com/comics/km3net.png" title="Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers." alt="Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers." /></description>
-      <guid>https://xkcd.com/3053/</guid>
-      <pubDate>Wed, 19 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Pal-entine's Day</title>
