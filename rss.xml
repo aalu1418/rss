@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 03 Mar 2025 18:20:10 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Mar 2025 18:20:10 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Mar 2025 01:10:38 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Mar 2025 01:10:38 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Tall Structures</title>
+      <link>https://xkcd.com/3058/</link>
+      <description><img src="https://imgs.xkcd.com/comics/tall_structures.png" title="Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed." alt="Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed." /></description>
+      <guid>https://xkcd.com/3058/</guid>
+      <pubDate>Mon, 03 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Trolley Problem</title>
       <link>http://www.itchyfeetcomic.com/2025/03/trolley-problem.html</link>
@@ -45,13 +52,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-7544704570655361678</guid>
       <pubDate>Sun, 23 Feb 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Scream Cipher</title>
-      <link>https://xkcd.com/3054/</link>
-      <description><img src="https://imgs.xkcd.com/comics/scream_cipher.png" title="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" alt="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" /></description>
-      <guid>https://xkcd.com/3054/</guid>
-      <pubDate>Fri, 21 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Pal-entine's Day</title>
