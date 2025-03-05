@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 05 Mar 2025 12:29:54 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Mar 2025 12:29:54 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Mar 2025 18:21:12 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Mar 2025 18:21:12 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Water Damage</title>
+      <link>https://xkcd.com/3059/</link>
+      <description><img src="https://imgs.xkcd.com/comics/water_damage.png" title="Your homeowner's insurance might cover it, but be sure to check the subductible." alt="Your homeowner's insurance might cover it, but be sure to check the subductible." /></description>
+      <guid>https://xkcd.com/3059/</guid>
+      <pubDate>Wed, 05 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PixieAndBrutus: Watch</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/watch/viewer?title_no=452175&episode_no=166</link>
@@ -54,13 +61,6 @@
       <link>http://theoatmeal.com/comics/solve_my_problem?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/solve_my_problem?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/solve_my_problem_big.png" alt="Stop trying to solve my problem" class="border0" /></a><p>A lifesaver</p><a href="http://theoatmeal.com/comics/solve_my_problem?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 24 Feb 2025 22:50:32 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Giants</title>
-      <link>https://xkcd.com/3055/</link>
-      <description><img src="https://imgs.xkcd.com/comics/giants.png" title="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." alt="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." /></description>
-      <guid>https://xkcd.com/3055/</guid>
-      <pubDate>Mon, 24 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Reverse Phonetics</title>
