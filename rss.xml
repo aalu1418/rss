@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 08 Mar 2025 00:56:26 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Mar 2025 00:56:26 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Mar 2025 06:16:22 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Mar 2025 06:16:22 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Omniroll</title>
+      <link>https://xkcd.com/3060/</link>
+      <description><img src="https://imgs.xkcd.com/comics/omniroll.png" title="It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls." alt="It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls." /></description>
+      <guid>https://xkcd.com/3060/</guid>
+      <pubDate>Fri, 07 Mar 2025 05:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Water Damage</title>
       <link>https://xkcd.com/3059/</link>
@@ -48,13 +55,6 @@
       <description><img src="https://imgs.xkcd.com/comics/excusing_yourself.png" title="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." alt="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." /></description>
       <guid>https://xkcd.com/3057/</guid>
       <pubDate>Fri, 28 Feb 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: RNA</title>
-      <link>https://xkcd.com/3056/</link>
-      <description><img src="https://imgs.xkcd.com/comics/rna.png" title="2040s: RNA formed the basis for life each of the five known times it arose on the early Earth." alt="2040s: RNA formed the basis for life each of the five known times it arose on the early Earth." /></description>
-      <guid>https://xkcd.com/3056/</guid>
-      <pubDate>Wed, 26 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: Stop trying to solve my problem</title>
