@@ -3,8 +3,8 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Tue, 11 Mar 2025 01:11:21 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Mar 2025 01:11:21 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Mar 2025 06:21:08 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Mar 2025 06:21:08 +0000</lastBuildDate>
     <item>
       <title>PixieAndBrutus: Learning</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/learning/viewer?title_no=452175&episode_no=167</link>
@@ -20,6 +20,13 @@
 			
 			</description>
       <pubDate>Mon, 10 Mar 2025 19:53:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Water Balloons</title>
+      <link>https://xkcd.com/3061/</link>
+      <description><img src="https://imgs.xkcd.com/comics/water_balloons.png" title="Update: The physics department has recruited an astronomer who studies meteor fireballs." alt="Update: The physics department has recruited an astronomer who studies meteor fireballs." /></description>
+      <guid>https://xkcd.com/3061/</guid>
+      <pubDate>Mon, 10 Mar 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Targeted Phrasing</title>
@@ -71,13 +78,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-8963739796579347920</guid>
       <pubDate>Sun, 02 Mar 2025 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Excusing Yourself</title>
-      <link>https://xkcd.com/3057/</link>
-      <description><img src="https://imgs.xkcd.com/comics/excusing_yourself.png" title="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." alt="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." /></description>
-      <guid>https://xkcd.com/3057/</guid>
-      <pubDate>Fri, 28 Feb 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>TheOatmeal: Stop trying to solve my problem</title>
