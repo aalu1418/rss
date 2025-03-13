@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 12 Mar 2025 18:21:05 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Mar 2025 18:21:05 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Mar 2025 01:11:50 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Mar 2025 01:11:50 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Off By One</title>
+      <link>https://xkcd.com/3062/</link>
+      <description><img src="https://imgs.xkcd.com/comics/off_by_one.png" title="It does come at the small cost of a LOT more off-by-40-or-50 errors." alt="It does come at the small cost of a LOT more off-by-40-or-50 errors." /></description>
+      <guid>https://xkcd.com/3062/</guid>
+      <pubDate>Wed, 12 Mar 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PixieAndBrutus: Learning</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/learning/viewer?title_no=452175&episode_no=167</link>
@@ -64,13 +71,6 @@
 			
 			</description>
       <pubDate>Tue, 04 Mar 2025 18:13:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Tall Structures</title>
-      <link>https://xkcd.com/3058/</link>
-      <description><img src="https://imgs.xkcd.com/comics/tall_structures.png" title="Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed." alt="Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed." /></description>
-      <guid>https://xkcd.com/3058/</guid>
-      <pubDate>Mon, 03 Mar 2025 05:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Trolley Problem</title>
