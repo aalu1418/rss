@@ -3,8 +3,27 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Mon, 17 Mar 2025 12:31:25 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Mar 2025 12:31:25 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Mar 2025 18:25:32 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Mar 2025 18:25:32 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: But Jack, you'll freeze!</title>
+      <link>http://theoatmeal.com/comics/titanic_freeze?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/titanic_freeze?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/titanic_freeze_big.png" alt="But Jack, you'll freeze!" class="border0" /></a><p>A comic about the Titanic</p><a href="http://theoatmeal.com/comics/titanic_freeze?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Mon, 17 Mar 2025 17:58:47 +0100</pubDate>
+    </item>
+    <item>
+      <title>TheOatmeal: Desert island coconuts</title>
+      <link>http://theoatmeal.com/comics/desert_island_coconuts?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/desert_island_coconuts?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/desert_island_coconuts_big.png" alt="Desert island coconuts" class="border0" /></a><p>A comic about two people on a desert island</p><a href="http://theoatmeal.com/comics/desert_island_coconuts?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Mon, 17 Mar 2025 17:40:50 +0100</pubDate>
+    </item>
+    <item>
+      <title>XKCD: Lungfish</title>
+      <link>https://xkcd.com/3064/</link>
+      <description><img src="https://imgs.xkcd.com/comics/lungfish.png" title="I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?" alt="I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?" /></description>
+      <guid>https://xkcd.com/3064/</guid>
+      <pubDate>Mon, 17 Mar 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ItchyFeet: Retro Futurism</title>
       <link>http://www.itchyfeetcomic.com/2025/03/retro-futurism.html</link>
@@ -109,13 +128,6 @@
       <pubDate>Sun, 09 Mar 2025 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>XKCD: Omniroll</title>
-      <link>https://xkcd.com/3060/</link>
-      <description><img src="https://imgs.xkcd.com/comics/omniroll.png" title="It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls." alt="It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls." /></description>
-      <guid>https://xkcd.com/3060/</guid>
-      <pubDate>Fri, 07 Mar 2025 05:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PixieAndBrutus: Watch</title>
       <link>https://www.webtoons.com/en/canvas/pixie-and-brutus/watch/viewer?title_no=452175&episode_no=166</link>
       <description>
@@ -178,12 +190,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-1333023620920580852</guid>
       <pubDate>Sun, 26 Jan 2025 15:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: In 150 characters or less</title>
-      <link>http://theoatmeal.com/comics/150_characters?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/150_characters?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/150_characters_big.png" alt="In 150 characters or less" class="border0" /></a><p>This is based on a poem by Nikita Gill</p><a href="http://theoatmeal.com/comics/150_characters?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Tue, 21 Jan 2025 20:46:26 +0100</pubDate>
     </item>
     <item>
       <title>LovingReaper: Visitors</title>
@@ -299,12 +305,6 @@
       <description></description>
       <guid>tag:blogger.com,1999:blog-6238329353013891803.post-3569676418552843614</guid>
       <pubDate>Sun, 22 Dec 2024 10:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: Rudolph with your nose so bright</title>
-      <link>http://theoatmeal.com/comics/rudolph?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/rudolph?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/rudolph_big.png" alt="Rudolph with your nose so bright" class="border0" /></a><p>Won't you guide my sleigh tonight?</p><a href="http://theoatmeal.com/comics/rudolph?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Fri, 20 Dec 2024 18:45:39 +0100</pubDate>
     </item>
     <item>
       <title>SafelyEndangered: Ep. 1037 - Lunartic</title>
