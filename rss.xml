@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 21 Mar 2025 12:29:51 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Mar 2025 12:29:51 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Mar 2025 18:20:27 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Mar 2025 18:20:27 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Cosmic Distance Calibration</title>
+      <link>https://xkcd.com/3066/</link>
+      <description><img src="https://imgs.xkcd.com/comics/cosmic_distance_calibration.png" title="This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size." alt="This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size." /></description>
+      <guid>https://xkcd.com/3066/</guid>
+      <pubDate>Fri, 21 Mar 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: Square Units</title>
       <link>https://xkcd.com/3065/</link>
@@ -102,13 +109,6 @@
       <description><img src="https://imgs.xkcd.com/comics/planet_definitions.png" title="Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star." alt="Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star." /></description>
       <guid>https://xkcd.com/3063/</guid>
       <pubDate>Fri, 14 Mar 2025 04:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Off By One</title>
-      <link>https://xkcd.com/3062/</link>
-      <description><img src="https://imgs.xkcd.com/comics/off_by_one.png" title="It does come at the small cost of a LOT more off-by-40-or-50 errors." alt="It does come at the small cost of a LOT more off-by-40-or-50 errors." /></description>
-      <guid>https://xkcd.com/3062/</guid>
-      <pubDate>Wed, 12 Mar 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PixieAndBrutus: Learning</title>
