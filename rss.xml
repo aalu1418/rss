@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 26 Mar 2025 18:21:22 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Mar 2025 18:21:22 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 01:12:10 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 01:12:10 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Rock Identification</title>
+      <link>https://xkcd.com/3068/</link>
+      <description><img src="https://imgs.xkcd.com/comics/rock_identification.png" title="'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'" alt="'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'" /></description>
+      <guid>https://xkcd.com/3068/</guid>
+      <pubDate>Wed, 26 Mar 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>XKCD: SawStart</title>
       <link>https://xkcd.com/3067/</link>
@@ -56,13 +63,6 @@
       <link>http://theoatmeal.com/comics/desert_island_coconuts?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/desert_island_coconuts?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/desert_island_coconuts_big.png" alt="Desert island coconuts" class="border0" /></a><p>A comic about two people on a desert island</p><a href="http://theoatmeal.com/comics/desert_island_coconuts?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Mon, 17 Mar 2025 17:40:50 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Lungfish</title>
-      <link>https://xkcd.com/3064/</link>
-      <description><img src="https://imgs.xkcd.com/comics/lungfish.png" title="I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?" alt="I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?" /></description>
-      <guid>https://xkcd.com/3064/</guid>
-      <pubDate>Mon, 17 Mar 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Retro Futurism</title>
