@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Fri, 11 Apr 2025 12:31:20 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Apr 2025 12:31:20 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 18:21:10 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 18:21:10 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Anachronym Challenge</title>
+      <link>https://xkcd.com/3075/</link>
+      <description><img src="https://imgs.xkcd.com/comics/anachronym_challenge.png" title="I have to pay with paper money." alt="I have to pay with paper money." /></description>
+      <guid>https://xkcd.com/3075/</guid>
+      <pubDate>Fri, 11 Apr 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>LovingReaper: Gift Comic</title>
       <link>https://www.webtoons.com/en/canvas/loving-reaper/gift-comic/viewer?title_no=353275&episode_no=69</link>
@@ -54,13 +61,6 @@
       <link>http://theoatmeal.com/comics/artax?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/artax?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/artax_big.png" alt="Artax" class="border0" /></a><p>A comic about a horse in a swamp.</p><a href="http://theoatmeal.com/comics/artax?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Thu, 03 Apr 2025 14:33:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Decay Chain</title>
-      <link>https://xkcd.com/3071/</link>
-      <description><img src="https://imgs.xkcd.com/comics/decay_chain.png" title="If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model." alt="If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model." /></description>
-      <guid>https://xkcd.com/3071/</guid>
-      <pubDate>Wed, 02 Apr 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Correctness of Grammar</title>
