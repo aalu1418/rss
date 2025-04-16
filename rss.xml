@@ -3,8 +3,14 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Wed, 16 Apr 2025 12:32:20 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Apr 2025 12:32:20 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Apr 2025 18:22:21 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Apr 2025 18:22:21 +0000</lastBuildDate>
+    <item>
+      <title>TheOatmeal: Hello Kitty</title>
+      <link>http://theoatmeal.com/comics/hello_kitty?no_popup=1</link>
+      <description><a href="http://theoatmeal.com/comics/hello_kitty?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/hello_kitty_big.png" alt="Hello Kitty" class="border0" /></a><p>A comic about Hello Kitty</p><a href="http://theoatmeal.com/comics/hello_kitty?no_popup=1">View on my website</a><br /><br /></description>
+      <pubDate>Wed, 16 Apr 2025 15:32:21 +0100</pubDate>
+    </item>
     <item>
       <title>XKCD: The Roads Both Taken</title>
       <link>https://xkcd.com/3076/</link>
@@ -147,12 +153,6 @@
       <link>http://theoatmeal.com/comics/zoomies?no_popup=1</link>
       <description><a href="http://theoatmeal.com/comics/zoomies?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/zoomies_big.png" alt="The zoomies" class="border0" /></a><p>Keith gets the zoomies</p><a href="http://theoatmeal.com/comics/zoomies?no_popup=1">View on my website</a><br /><br /></description>
       <pubDate>Sat, 15 Mar 2025 18:13:32 +0100</pubDate>
-    </item>
-    <item>
-      <title>TheOatmeal: The Reaper's Phone</title>
-      <link>http://theoatmeal.com/comics/grim_reaper_phone?no_popup=1</link>
-      <description><a href="http://theoatmeal.com/comics/grim_reaper_phone?no_popup=1"><img width="600" src="https://s3.amazonaws.com/theoatmeal-img/thumbnails/grim_reaper_phone_big.png" alt="The Reaper's Phone" class="border0" /></a><p>The Grim Reaper at a Genius Bar</p><a href="http://theoatmeal.com/comics/grim_reaper_phone?no_popup=1">View on my website</a><br /><br /></description>
-      <pubDate>Sat, 15 Mar 2025 18:13:16 +0100</pubDate>
     </item>
     <item>
       <title>PixieAndBrutus: Learning</title>
