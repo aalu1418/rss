@@ -3,8 +3,15 @@
     <title>Comics</title>
     <link>http://github.com/aalu1418/rss</link>
     <description></description>
-    <pubDate>Sat, 19 Apr 2025 01:11:38 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Apr 2025 01:11:38 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Apr 2025 06:20:34 +0000</pubDate>
+    <lastBuildDate>Sat, 19 Apr 2025 06:20:34 +0000</lastBuildDate>
+    <item>
+      <title>XKCD: Anchor Bolts</title>
+      <link>https://xkcd.com/3078/</link>
+      <description><img src="https://imgs.xkcd.com/comics/anchor_bolts.png" title="The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating." alt="The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating." /></description>
+      <guid>https://xkcd.com/3078/</guid>
+      <pubDate>Fri, 18 Apr 2025 04:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>TheOatmeal: Hello Kitty</title>
       <link>http://theoatmeal.com/comics/hello_kitty?no_popup=1</link>
@@ -54,13 +61,6 @@
 			
 			</description>
       <pubDate>Thu, 10 Apr 2025 16:31:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>XKCD: Push Notifications</title>
-      <link>https://xkcd.com/3074/</link>
-      <description><img src="https://imgs.xkcd.com/comics/push_notifications.png" title="NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!" alt="NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!" /></description>
-      <guid>https://xkcd.com/3074/</guid>
-      <pubDate>Wed, 09 Apr 2025 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ItchyFeet: Scrumptious Misnomer</title>
